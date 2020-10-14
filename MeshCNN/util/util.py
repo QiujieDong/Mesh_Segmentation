@@ -4,26 +4,26 @@ import numpy as np
 import os
 
 
-def mkdir(path):
+def mkdir(path): 
     if not os.path.exists(path):
         os.makedirs(path)
 
 MESH_EXTENSIONS = [
     '.obj',
-]
+] #定义mesh文件的扩展名为obj文件
 
-def is_mesh_file(filename):
+def is_mesh_file(filename): #endswith() 方法用于判断字符串是否以指定后缀结尾，any()全部为 False，则返回 False，如果有一个为 True，则返回 True。
     return any(filename.endswith(extension) for extension in MESH_EXTENSIONS)
 
-def pad(input_arr, target_length, val=0, dim=1):
+def pad(input_arr, target_length, val=0, dim=1):#padding操作。
     shp = input_arr.shape
     npad = [(0, 0) for _ in range(len(shp))]
-    npad[dim] = (0, target_length - shp[dim])
+    npad[dim] = (0, target_length - shp[dim])#这里的padding只在行或者只在列的后面进行padding，array的前面不进行padding
     return np.pad(input_arr, pad_width=npad, mode='constant', constant_values=val)
 
-def seg_accuracy(predicted, ssegs, meshes):
+def seg_accuracy(predicted, ssegs, meshes):#计算分割精度
     correct = 0
-    ssegs = ssegs.squeeze(-1)
+    ssegs = ssegs.squeeze(-1)#squeeze()将输入张量中的一维张量去除，这里-1是表示若tensor最后一个维度是1，那么将其去掉。索引从0开始
     correct_mat = ssegs.gather(2, predicted.cpu().unsqueeze(dim=2))
     for mesh_id, mesh in enumerate(meshes):
         correct_vec = correct_mat[mesh_id, :mesh.edges_count, 0]

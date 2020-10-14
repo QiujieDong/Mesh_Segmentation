@@ -50,7 +50,7 @@ class ClassifierModel:
         self.labels = labels.to(self.device)
         self.mesh = data['mesh']
         if self.opt.dataset_mode == 'segmentation' and not self.is_train:
-            self.soft_label = torch.from_numpy(data['soft_label'])
+            self.soft_label = torch.from_numpy(data['soft_label'])#将numpy数据转换为Tensor张量数据，并且使用torch.from_numpy可以实现与原数据同内存。
 
 
     def forward(self):

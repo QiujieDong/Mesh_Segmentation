@@ -25,7 +25,7 @@ class SegmentationData(BaseDataset):
         opt.input_nc = self.ninput_channels
 
     def __getitem__(self, index):
-        path = self.paths[index]
+        path = self.paths[index] 
         mesh = Mesh(file=path, opt=self.opt, hold_history=True, export_folder=self.opt.export_folder)
         meta = {}
         meta['mesh'] = mesh

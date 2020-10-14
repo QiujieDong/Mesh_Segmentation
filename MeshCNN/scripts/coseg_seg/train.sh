@@ -2,7 +2,7 @@
 
 ## run the training
 python train.py \
---dataroot datasets/coseg_aliens \
+--dataroot /data/MeshCNN/coseg_aliens \
 --name coseg_aliens \
 --arch meshunet \
 --dataset_mode segmentation \

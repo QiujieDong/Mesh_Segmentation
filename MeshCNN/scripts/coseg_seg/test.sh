@@ -2,7 +2,7 @@
 
 ## run the test and export collapses
 python test.py \
---dataroot datasets/coseg_aliens \
+--dataroot /data/MeshCNN/coseg_aliens \
 --name coseg_aliens \
 --arch meshunet \
 --dataset_mode segmentation \

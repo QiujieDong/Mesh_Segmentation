@@ -1,6 +1,6 @@
 from .base_options import BaseOptions
 
-class TrainOptions(BaseOptions):
+class TrainOptions(BaseOptions): #继承了BaseOptions的parser基础上，添加train的参数
     def initialize(self):
         BaseOptions.initialize(self)
         self.parser.add_argument('--print_freq', type=int, default=10, help='frequency of showing training results on console')
