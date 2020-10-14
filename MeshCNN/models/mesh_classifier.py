@@ -46,14 +46,14 @@ class ClassifierModel:
         input_edge_features = torch.from_numpy(data['edge_features']).float()
         labels = torch.from_numpy(data['label']).long()
         # set inputs
-        self.edge_features = input_edge_features.to(self.device).requires_grad_(self.is_train)
+        self.edge_features = input_edge_features.to(self.device).requires_grad_(self.is_train)#to()将tensor数据copy到device,之后在device上运算。requires_grad_()如果train则保留grad(图结构)
         self.labels = labels.to(self.device)
         self.mesh = data['mesh']
         if self.opt.dataset_mode == 'segmentation' and not self.is_train:
             self.soft_label = torch.from_numpy(data['soft_label'])#将numpy数据转换为Tensor张量数据，并且使用torch.from_numpy可以实现与原数据同内存。
 
 
-    def forward(self):
+    def forward(self):#返回一个构建的前向网络
         out = self.net(self.edge_features, self.mesh)
         return out
 
@@ -106,12 +106,12 @@ class ClassifierModel:
         """tests model
         returns: number correct and total number
         """
-        with torch.no_grad():
-            out = self.forward()
+        with torch.no_grad():#对tensor进行操作，默认是生成计算图的（以便后续反向传播等），这里强制不构建图。
+            out = self.forward()#返回为构建的前向网络
             # compute number of correct
-            pred_class = out.data.max(1)[1]
+            pred_class = out.data.max(1)[1]#输入softmax的一个tensor,在第一个维度（行）上求最大值，max()返回两个tensor,第一个为最大值数值，第二个是最大值索引。
             label_class = self.labels
-            self.export_segmentation(pred_class.cpu())
+            self.export_segmentation(pred_class.cpu())#将pred_class数据转为CPU的tensor
             correct = self.get_accuracy(pred_class, label_class)
         return correct, len(label_class)
 
@@ -125,5 +125,5 @@ class ClassifierModel:
 
     def export_segmentation(self, pred_seg):
         if self.opt.dataset_mode == 'segmentation':
-            for meshi, mesh in enumerate(self.mesh):
+            for meshi, mesh in enumerate(self.mesh):#enumerate()同时列出索引和数据，这里meshi为索引，mesh为数据
                 mesh.export_segments(pred_seg[meshi, :])

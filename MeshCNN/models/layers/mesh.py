@@ -98,7 +98,7 @@ class Mesh:
                 f.write("\ne %d %d" % (new_indices[edge[0]] + 1, new_indices[edge[1]] + 1))
 
     def export_segments(self, segments):
-        if not self.export_folder:
+        if not self.export_folder:#在python中 None,  False, 空字符串"", 0, 空列表[], 空字典{}, 空元组()都相当于False
             return
         cur_segments = segments
         for i in range(self.pool_count + 1):
