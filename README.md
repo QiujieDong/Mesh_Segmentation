@@ -37,3 +37,33 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
+
+<h1> 
+
+```diff
+- Course
+```
+
+</h1>
+
+- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html):Hung-yi Lee
+- [数字几何处理](https://www.bilibili.com/video/BV1B54y1B7Uc):Xiao-Ming Fu
+- [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr):Ligang Liu
+
+
+<h1> 
+
+```diff
+- Followers
+```
+
+</h1>
+
+- [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
+- [Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)
+- [NVIDIAGameWorks-kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
+- [Yongcheng Liu](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+- [THOMAS KIPF](http://tkipf.github.io/)
+
+
