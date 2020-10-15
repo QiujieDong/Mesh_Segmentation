@@ -3,7 +3,7 @@ import os
 import torch
 
 target_length = 9
-input_arr = np.array([[2,2,2,2,2],[3,3,3,3,3],[4,4,4,4,4]])
+input_arr = np.array([[2,2,4,2,2],[3,3,3,3,6],[8,4,4,4,4]])
 # shp = input_arr.shape
 # print(shp)
 
@@ -15,4 +15,6 @@ input_arr = np.array([[2,2,2,2,2],[3,3,3,3,3],[4,4,4,4,4]])
 # nnpad=np.pad(input_arr, pad_width=npad, mode='constant', constant_values=0)
 # print(nnpad)
 input_tensor = torch.from_numpy(input_arr)
-print(input_tensor)
+print(input_tensor.data)
+max_tensor = input_tensor.data.max(1)[1]
+print(max_tensor.shape)

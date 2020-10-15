@@ -112,7 +112,7 @@ class ClassifierModel:
             pred_class = out.data.max(1)[1]#输入softmax的一个tensor,在第一个维度（行）上求最大值，max()返回两个tensor,第一个为最大值数值，第二个是最大值索引。
             label_class = self.labels
             self.export_segmentation(pred_class.cpu())#将pred_class数据转为CPU的tensor
-            correct = self.get_accuracy(pred_class, label_class)
+            correct = self.get_accuracy(pred_class, label_class)#输出正确的预测数目
         return correct, len(label_class)
 
     def get_accuracy(self, pred, labels):
@@ -126,4 +126,4 @@ class ClassifierModel:
     def export_segmentation(self, pred_seg):
         if self.opt.dataset_mode == 'segmentation':
             for meshi, mesh in enumerate(self.mesh):#enumerate()同时列出索引和数据，这里meshi为索引，mesh为数据
-                mesh.export_segments(pred_seg[meshi, :])
+                mesh.export_segments(pred_seg[meshi, :])#将pred_seg中对应的行的数据全部传入mesh.export_segmentation()函数
