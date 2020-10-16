@@ -101,23 +101,23 @@ class Mesh:
         if not self.export_folder:#在python中 None,  False, 空字符串"", 0, 空列表[], 空字典{}, 空元组()都相当于False
             return
         cur_segments = segments
-        for i in range(self.pool_count + 1):
-            filename, file_extension = os.path.splitext(self.filename)
-            file = '%s/%s_%d%s' % (self.export_folder, filename, i, file_extension)
-            fh, abs_path = mkstemp()
+        for i in range(self.pool_count + 1):#range()不包含stop数
+            filename, file_extension = os.path.splitext(self.filename)#os.path.splitex()文件名与扩展名分开，os.path.split()路径与文件名分开
+            file = '%s/%s_%d%s' % (self.export_folder, filename, i, file_extension)#更改存储路径，但是不更改文件名
+            fh, abs_path = mkstemp()#tempfile.mkstemp()创建临时文件，fh是文件描述符，abs_path是绝对路径
             edge_key = 0
-            with os.fdopen(fh, 'w') as new_file:
-                with open(file) as old_file:
-                    for line in old_file:
-                        if line[0] == 'e':
-                            new_file.write('%s %d' % (line.strip(), cur_segments[edge_key]))
+            with os.fdopen(fh, 'w') as new_file:#os.fdopen()通过文件描述符fd创建一个文件对象new_file
+                with open(file) as old_file:#打开file文件
+                    for line in old_file: #按行读取old_file中的内容
+                        if line[0] == 'e':#'e'代表本行数据是mesh的'edge'数据
+                            new_file.write('%s %d' % (line.strip(), cur_segments[edge_key]))#strip()移除首尾指定字符 。
                             if edge_key < len(cur_segments):
                                 edge_key += 1
                                 new_file.write('\n')
                         else:
-                            new_file.write(line)
-            os.remove(file)
-            move(abs_path, file)
+                            new_file.write(line)#如果不是edge,那么new_file就把old_file中line数据copy过来
+            os.remove(file)#删除file文件，也就是旧的file文件
+            move(abs_path, file)#shutil.move()#将abs_path文件移动到file文件位置处，并且保持file的名字
             if i < len(self.history_data['edges_mask']):
                 cur_segments = segments[:len(self.history_data['edges_mask'][i])]
                 cur_segments = cur_segments[self.history_data['edges_mask'][i]]
