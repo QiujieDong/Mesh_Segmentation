@@ -53,7 +53,7 @@ class ClassifierModel:
             self.soft_label = torch.from_numpy(data['soft_label'])#将numpy数据转换为Tensor张量数据，并且使用torch.from_numpy可以实现与原数据同内存。
 
 
-    def forward(self):#返回一个构建的前向网络
+    def forward(self):#返回一个构建的
         out = self.net(self.edge_features, self.mesh)
         return out
 
