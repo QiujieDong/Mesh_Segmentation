@@ -56,7 +56,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf)
+- **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf):fire:
 
 <h1> 
 
