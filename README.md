@@ -40,6 +40,10 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Related work
 
+- **NVIDIAGameWorks-kaolin**: Krishna Murthy Jatavallabhula, Edward Smith, Jean-Francois Lafleche, Clement Fuji Tsang, Artem Rozantsev, Wenzheng Chen, Tommy Xiang, Rev Lebaredian, Sanja Fidler. "Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research", arXiv(2019). [[project]](https://github.com/NVIDIAGameWorks/kaolin) [[paper]](https://arxiv.org/abs/1911.05063) [[Documentation]](https://kaolin.readthedocs.io/en/latest/):star:
+
+- **pytorch_geometric**: Matthias Fey, Jan Eric Lenssen. "Fast Graph Representation Learning with PyTorch Geometric", arXiv(2019). [[project]](https://github.com/rusty1s/pytorch_geometric) [[paper]](https://arxiv.org/abs/1903.02428) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/):star::fire:
+
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5):fire:
 
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017). [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com):star::fire:
@@ -77,9 +81,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html)
 - [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
 - [Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)
-- [NVIDIAGameWorks-kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-- [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 - [Yongcheng Liu](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 - [THOMAS KIPF](http://tkipf.github.io/)
-
+- [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
 
