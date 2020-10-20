@@ -12,7 +12,7 @@ Thanks for your valuable contribution to the research.:smiley:
 
 </h1>
 
-__`dat.`__: dataset &emsp; | &emsp; __`cls.`__: classification &emsp;__`seg.`__: segmentation &emsp;
+__`dat.`__: dataset &emsp; | &emsp; __`cls.`__: classification &emsp;__`seg.`__: segmentation &emsp;__`ret.`__: retrieval &emsp;
 
 Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citation >= 50
 
@@ -24,10 +24,25 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
+# 2020
+
+- ""*""
+
 # 2019
 
-- **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin) [[project]](https://ranahanocka.github.io/MeshCNN/) [__`dat.`____`cls.`____`seg.`__]:star::fire:
+- **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin) [__`dat.`____`cls.`____`seg.`__]:star::fire:
 
+# Before 2019
+
+- **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) [__`cls.`__ __`ret.`__]:star::fire:
+
+- **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) [__`seg.`__]
+
+# Related work
+
+- Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5):fire:
+
+- **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017). [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com):star::fire:
 
 <h1> 
 
