@@ -1,0 +1,1404 @@
+
+>>> Training for the epoch 1/5000 ...
+Epoch   1/5000 - Iter   38/152
+total loss: 10.150944
+Epoch   1/5000 - Iter   76/152
+total loss: 6.086621
+Epoch   1/5000 - Iter  114/152
+total loss: 5.181134
+Epoch   1/5000 - Iter  152/152
+total loss: 4.842825
+	Mean total Loss: 4.842825
+Successfully store the checkpoint model into train_results/trained_models/epoch_1.ckpt
+
+>>> Training for the epoch 2/5000 ...
+Epoch   2/5000 - Iter   38/152
+total loss: 3.504675
+Epoch   2/5000 - Iter   76/152
+total loss: 2.877279
+Epoch   2/5000 - Iter  114/152
+total loss: 3.872052
+Epoch   2/5000 - Iter  152/152
+total loss: 4.612918
+	Mean total Loss: 4.612918
+Successfully store the checkpoint model into train_results/trained_models/epoch_2.ckpt
+
+>>> Training for the epoch 3/5000 ...
+Epoch   3/5000 - Iter   38/152
+total loss: 3.111049
+Epoch   3/5000 - Iter   76/152
+total loss: 3.081559
+Epoch   3/5000 - Iter  114/152
+total loss: 3.491446
+Epoch   3/5000 - Iter  152/152
+total loss: 5.961140
+	Mean total Loss: 5.961140
+Successfully store the checkpoint model into train_results/trained_models/epoch_3.ckpt
+
+>>> Training for the epoch 4/5000 ...
+Epoch   4/5000 - Iter   38/152
+total loss: 10.659375
+Epoch   4/5000 - Iter   76/152
+total loss: 6.885560
+Epoch   4/5000 - Iter  114/152
+total loss: 5.876903
+Epoch   4/5000 - Iter  152/152
+total loss: 5.925158
+	Mean total Loss: 5.925158
+Successfully store the checkpoint model into train_results/trained_models/epoch_4.ckpt
+
+>>> Training for the epoch 5/5000 ...
+Epoch   5/5000 - Iter   38/152
+total loss: 5.525546
+Epoch   5/5000 - Iter   76/152
+total loss: 3.461505
+Epoch   5/5000 - Iter  114/152
+total loss: 3.093292
+Epoch   5/5000 - Iter  152/152
+total loss: 2.954576
+	Mean total Loss: 2.954576
+Successfully store the checkpoint model into train_results/trained_models/epoch_5.ckpt
+
+>>> Training for the epoch 6/5000 ...
+Epoch   6/5000 - Iter   38/152
+total loss: 2.532127
+Epoch   6/5000 - Iter   76/152
+total loss: 2.082405
+Epoch   6/5000 - Iter  114/152
+total loss: 3.156877
+Epoch   6/5000 - Iter  152/152
+total loss: 3.965954
+	Mean total Loss: 3.965954
+Successfully store the checkpoint model into train_results/trained_models/epoch_6.ckpt
+
+>>> Training for the epoch 7/5000 ...
+Epoch   7/5000 - Iter   38/152
+total loss: 2.847081
+Epoch   7/5000 - Iter   76/152
+total loss: 2.799969
+Epoch   7/5000 - Iter  114/152
+total loss: 3.196107
+Epoch   7/5000 - Iter  152/152
+total loss: 5.622468
+	Mean total Loss: 5.622468
+Successfully store the checkpoint model into train_results/trained_models/epoch_7.ckpt
+
+>>> Training for the epoch 8/5000 ...
+Epoch   8/5000 - Iter   38/152
+total loss: 10.345953
+Epoch   8/5000 - Iter   76/152
+total loss: 6.649088
+Epoch   8/5000 - Iter  114/152
+total loss: 5.591605
+Epoch   8/5000 - Iter  152/152
+total loss: 5.684029
+	Mean total Loss: 5.684029
+Successfully store the checkpoint model into train_results/trained_models/epoch_8.ckpt
+
+>>> Training for the epoch 9/5000 ...
+Epoch   9/5000 - Iter   38/152
+total loss: 5.310032
+Epoch   9/5000 - Iter   76/152
+total loss: 3.270273
+Epoch   9/5000 - Iter  114/152
+total loss: 2.912215
+Epoch   9/5000 - Iter  152/152
+total loss: 2.781527
+	Mean total Loss: 2.781527
+Successfully store the checkpoint model into train_results/trained_models/epoch_9.ckpt
+
+>>> Training for the epoch 10/5000 ...
+Epoch  10/5000 - Iter   38/152
+total loss: 2.323450
+Epoch  10/5000 - Iter   76/152
+total loss: 1.943799
+Epoch  10/5000 - Iter  114/152
+total loss: 2.978815
+Epoch  10/5000 - Iter  152/152
+total loss: 3.804662
+	Mean total Loss: 3.804662
+Successfully store the checkpoint model into train_results/trained_models/epoch_10.ckpt
+
+>>> Training for the epoch 11/5000 ...
+Epoch  11/5000 - Iter   38/152
+total loss: 2.797904
+Epoch  11/5000 - Iter   76/152
+total loss: 2.707098
+Epoch  11/5000 - Iter  114/152
+total loss: 3.078614
+Epoch  11/5000 - Iter  152/152
+total loss: 5.460111
+	Mean total Loss: 5.460111
+Successfully store the checkpoint model into train_results/trained_models/epoch_11.ckpt
+
+>>> Training for the epoch 12/5000 ...
+Epoch  12/5000 - Iter   38/152
+total loss: 10.215197
+Epoch  12/5000 - Iter   76/152
+total loss: 6.441881
+Epoch  12/5000 - Iter  114/152
+total loss: 5.403039
+Epoch  12/5000 - Iter  152/152
+total loss: 5.532721
+	Mean total Loss: 5.532721
+Successfully store the checkpoint model into train_results/trained_models/epoch_12.ckpt
+
+>>> Training for the epoch 13/5000 ...
+Epoch  13/5000 - Iter   38/152
+total loss: 5.214984
+Epoch  13/5000 - Iter   76/152
+total loss: 3.182088
+Epoch  13/5000 - Iter  114/152
+total loss: 2.825929
+Epoch  13/5000 - Iter  152/152
+total loss: 2.693195
+	Mean total Loss: 2.693195
+Successfully store the checkpoint model into train_results/trained_models/epoch_13.ckpt
+
+>>> Training for the epoch 14/5000 ...
+Epoch  14/5000 - Iter   38/152
+total loss: 2.230321
+Epoch  14/5000 - Iter   76/152
+total loss: 1.855436
+Epoch  14/5000 - Iter  114/152
+total loss: 2.816017
+Epoch  14/5000 - Iter  152/152
+total loss: 3.627088
+	Mean total Loss: 3.627088
+Successfully store the checkpoint model into train_results/trained_models/epoch_14.ckpt
+
+>>> Training for the epoch 15/5000 ...
+Epoch  15/5000 - Iter   38/152
+total loss: 2.804260
+Epoch  15/5000 - Iter   76/152
+total loss: 2.751881
+Epoch  15/5000 - Iter  114/152
+total loss: 3.114685
+Epoch  15/5000 - Iter  152/152
+total loss: 5.436594
+	Mean total Loss: 5.436594
+Successfully store the checkpoint model into train_results/trained_models/epoch_15.ckpt
+
+>>> Training for the epoch 16/5000 ...
+Epoch  16/5000 - Iter   38/152
+total loss: 9.971990
+Epoch  16/5000 - Iter   76/152
+total loss: 6.226410
+Epoch  16/5000 - Iter  114/152
+total loss: 5.201755
+Epoch  16/5000 - Iter  152/152
+total loss: 5.371734
+	Mean total Loss: 5.371734
+Successfully store the checkpoint model into train_results/trained_models/epoch_16.ckpt
+
+>>> Training for the epoch 17/5000 ...
+Epoch  17/5000 - Iter   38/152
+total loss: 5.176741
+Epoch  17/5000 - Iter   76/152
+total loss: 3.157131
+Epoch  17/5000 - Iter  114/152
+total loss: 2.804480
+Epoch  17/5000 - Iter  152/152
+total loss: 2.657939
+	Mean total Loss: 2.657939
+Successfully store the checkpoint model into train_results/trained_models/epoch_17.ckpt
+
+>>> Training for the epoch 18/5000 ...
+Epoch  18/5000 - Iter   38/152
+total loss: 2.171305
+Epoch  18/5000 - Iter   76/152
+total loss: 1.813291
+Epoch  18/5000 - Iter  114/152
+total loss: 2.707407
+Epoch  18/5000 - Iter  152/152
+total loss: 3.495278
+	Mean total Loss: 3.495278
+Successfully store the checkpoint model into train_results/trained_models/epoch_18.ckpt
+
+>>> Training for the epoch 19/5000 ...
+Epoch  19/5000 - Iter   38/152
+total loss: 2.717156
+Epoch  19/5000 - Iter   76/152
+total loss: 2.602414
+Epoch  19/5000 - Iter  114/152
+total loss: 2.954717
+Epoch  19/5000 - Iter  152/152
+total loss: 5.260697
+	Mean total Loss: 5.260697
+Successfully store the checkpoint model into train_results/trained_models/epoch_19.ckpt
+
+>>> Training for the epoch 20/5000 ...
+Epoch  20/5000 - Iter   38/152
+total loss: 9.761536
+Epoch  20/5000 - Iter   76/152
+total loss: 6.003234
+Epoch  20/5000 - Iter  114/152
+total loss: 5.020987
+Epoch  20/5000 - Iter  152/152
+total loss: 5.203386
+	Mean total Loss: 5.203386
+Successfully store the checkpoint model into train_results/trained_models/epoch_20.ckpt
+
+>>> Training for the epoch 21/5000 ...
+Epoch  21/5000 - Iter   38/152
+total loss: 5.108254
+Epoch  21/5000 - Iter   76/152
+total loss: 3.090136
+Epoch  21/5000 - Iter  114/152
+total loss: 2.736546
+Epoch  21/5000 - Iter  152/152
+total loss: 2.579169
+	Mean total Loss: 2.579169
+Successfully store the checkpoint model into train_results/trained_models/epoch_21.ckpt
+
+>>> Training for the epoch 22/5000 ...
+Epoch  22/5000 - Iter   38/152
+total loss: 2.105372
+Epoch  22/5000 - Iter   76/152
+total loss: 1.757494
+Epoch  22/5000 - Iter  114/152
+total loss: 2.583476
+Epoch  22/5000 - Iter  152/152
+total loss: 3.327095
+	Mean total Loss: 3.327095
+Successfully store the checkpoint model into train_results/trained_models/epoch_22.ckpt
+
+>>> Training for the epoch 23/5000 ...
+Epoch  23/5000 - Iter   38/152
+total loss: 2.655626
+Epoch  23/5000 - Iter   76/152
+total loss: 2.568570
+Epoch  23/5000 - Iter  114/152
+total loss: 2.914217
+Epoch  23/5000 - Iter  152/152
+total loss: 5.192380
+	Mean total Loss: 5.192380
+Successfully store the checkpoint model into train_results/trained_models/epoch_23.ckpt
+
+>>> Training for the epoch 24/5000 ...
+Epoch  24/5000 - Iter   38/152
+total loss: 9.540062
+Epoch  24/5000 - Iter   76/152
+total loss: 5.784068
+Epoch  24/5000 - Iter  114/152
+total loss: 4.871547
+Epoch  24/5000 - Iter  152/152
+total loss: 5.058865
+	Mean total Loss: 5.058865
+Successfully store the checkpoint model into train_results/trained_models/epoch_24.ckpt
+
+>>> Training for the epoch 25/5000 ...
+Epoch  25/5000 - Iter   38/152
+total loss: 5.057616
+Epoch  25/5000 - Iter   76/152
+total loss: 3.057689
+Epoch  25/5000 - Iter  114/152
+total loss: 2.706062
+Epoch  25/5000 - Iter  152/152
+total loss: 2.549068
+	Mean total Loss: 2.549068
+Successfully store the checkpoint model into train_results/trained_models/epoch_25.ckpt
+
+>>> Training for the epoch 26/5000 ...
+Epoch  26/5000 - Iter   38/152
+total loss: 2.065073
+Epoch  26/5000 - Iter   76/152
+total loss: 1.729002
+Epoch  26/5000 - Iter  114/152
+total loss: 2.453863
+Epoch  26/5000 - Iter  152/152
+total loss: 3.192597
+	Mean total Loss: 3.192597
+Successfully store the checkpoint model into train_results/trained_models/epoch_26.ckpt
+
+>>> Training for the epoch 27/5000 ...
+Epoch  27/5000 - Iter   38/152
+total loss: 2.598159
+Epoch  27/5000 - Iter   76/152
+total loss: 2.550963
+Epoch  27/5000 - Iter  114/152
+total loss: 2.901706
+Epoch  27/5000 - Iter  152/152
+total loss: 5.152502
+	Mean total Loss: 5.152502
+Successfully store the checkpoint model into train_results/trained_models/epoch_27.ckpt
+
+>>> Training for the epoch 28/5000 ...
+Epoch  28/5000 - Iter   38/152
+total loss: 9.344764
+Epoch  28/5000 - Iter   76/152
+total loss: 5.645657
+Epoch  28/5000 - Iter  114/152
+total loss: 4.769564
+Epoch  28/5000 - Iter  152/152
+total loss: 4.967912
+	Mean total Loss: 4.967912
+Successfully store the checkpoint model into train_results/trained_models/epoch_28.ckpt
+
+>>> Training for the epoch 29/5000 ...
+Epoch  29/5000 - Iter   38/152
+total loss: 5.006604
+Epoch  29/5000 - Iter   76/152
+total loss: 3.004076
+Epoch  29/5000 - Iter  114/152
+total loss: 2.641415
+Epoch  29/5000 - Iter  152/152
+total loss: 2.473719
+	Mean total Loss: 2.473719
+Successfully store the checkpoint model into train_results/trained_models/epoch_29.ckpt
+
+>>> Training for the epoch 30/5000 ...
+Epoch  30/5000 - Iter   38/152
+total loss: 2.014055
+Epoch  30/5000 - Iter   76/152
+total loss: 1.691537
+Epoch  30/5000 - Iter  114/152
+total loss: 2.397454
+Epoch  30/5000 - Iter  152/152
+total loss: 3.096481
+	Mean total Loss: 3.096481
+Successfully store the checkpoint model into train_results/trained_models/epoch_30.ckpt
+
+>>> Training for the epoch 31/5000 ...
+Epoch  31/5000 - Iter   38/152
+total loss: 2.546391
+Epoch  31/5000 - Iter   76/152
+total loss: 2.507012
+Epoch  31/5000 - Iter  114/152
+total loss: 2.837602
+Epoch  31/5000 - Iter  152/152
+total loss: 5.060553
+	Mean total Loss: 5.060553
+Successfully store the checkpoint model into train_results/trained_models/epoch_31.ckpt
+
+>>> Training for the epoch 32/5000 ...
+Epoch  32/5000 - Iter   38/152
+total loss: 9.185340
+Epoch  32/5000 - Iter   76/152
+total loss: 5.531277
+Epoch  32/5000 - Iter  114/152
+total loss: 4.669026
+Epoch  32/5000 - Iter  152/152
+total loss: 4.889685
+	Mean total Loss: 4.889685
+Successfully store the checkpoint model into train_results/trained_models/epoch_32.ckpt
+
+>>> Training for the epoch 33/5000 ...
+Epoch  33/5000 - Iter   38/152
+total loss: 4.954459
+Epoch  33/5000 - Iter   76/152
+total loss: 2.970973
+Epoch  33/5000 - Iter  114/152
+total loss: 2.607848
+Epoch  33/5000 - Iter  152/152
+total loss: 2.436635
+	Mean total Loss: 2.436635
+Successfully store the checkpoint model into train_results/trained_models/epoch_33.ckpt
+
+>>> Training for the epoch 34/5000 ...
+Epoch  34/5000 - Iter   38/152
+total loss: 1.982334
+Epoch  34/5000 - Iter   76/152
+total loss: 1.667686
+Epoch  34/5000 - Iter  114/152
+total loss: 2.295076
+Epoch  34/5000 - Iter  152/152
+total loss: 2.984817
+	Mean total Loss: 2.984817
+Successfully store the checkpoint model into train_results/trained_models/epoch_34.ckpt
+
+>>> Training for the epoch 35/5000 ...
+Epoch  35/5000 - Iter   38/152
+total loss: 2.513696
+Epoch  35/5000 - Iter   76/152
+total loss: 2.441604
+Epoch  35/5000 - Iter  114/152
+total loss: 2.785005
+Epoch  35/5000 - Iter  152/152
+total loss: 4.999439
+	Mean total Loss: 4.999439
+Successfully store the checkpoint model into train_results/trained_models/epoch_35.ckpt
+
+>>> Training for the epoch 36/5000 ...
+Epoch  36/5000 - Iter   38/152
+total loss: 9.031838
+Epoch  36/5000 - Iter   76/152
+total loss: 5.421847
+Epoch  36/5000 - Iter  114/152
+total loss: 4.599184
+Epoch  36/5000 - Iter  152/152
+total loss: 4.818290
+	Mean total Loss: 4.818290
+Successfully store the checkpoint model into train_results/trained_models/epoch_36.ckpt
+
+>>> Training for the epoch 37/5000 ...
+Epoch  37/5000 - Iter   38/152
+total loss: 4.919653
+Epoch  37/5000 - Iter   76/152
+total loss: 2.963227
+Epoch  37/5000 - Iter  114/152
+total loss: 2.594731
+Epoch  37/5000 - Iter  152/152
+total loss: 2.414287
+	Mean total Loss: 2.414287
+Successfully store the checkpoint model into train_results/trained_models/epoch_37.ckpt
+
+>>> Training for the epoch 38/5000 ...
+Epoch  38/5000 - Iter   38/152
+total loss: 1.939461
+Epoch  38/5000 - Iter   76/152
+total loss: 1.634215
+Epoch  38/5000 - Iter  114/152
+total loss: 2.219301
+Epoch  38/5000 - Iter  152/152
+total loss: 2.894483
+	Mean total Loss: 2.894483
+Successfully store the checkpoint model into train_results/trained_models/epoch_38.ckpt
+
+>>> Training for the epoch 39/5000 ...
+Epoch  39/5000 - Iter   38/152
+total loss: 2.492222
+Epoch  39/5000 - Iter   76/152
+total loss: 2.400499
+Epoch  39/5000 - Iter  114/152
+total loss: 2.743884
+Epoch  39/5000 - Iter  152/152
+total loss: 4.953186
+	Mean total Loss: 4.953186
+Successfully store the checkpoint model into train_results/trained_models/epoch_39.ckpt
+
+>>> Training for the epoch 40/5000 ...
+Epoch  40/5000 - Iter   38/152
+total loss: 8.882698
+Epoch  40/5000 - Iter   76/152
+total loss: 5.308763
+Epoch  40/5000 - Iter  114/152
+total loss: 4.461934
+Epoch  40/5000 - Iter  152/152
+total loss: 4.720897
+	Mean total Loss: 4.720897
+Successfully store the checkpoint model into train_results/trained_models/epoch_40.ckpt
+
+>>> Training for the epoch 41/5000 ...
+Epoch  41/5000 - Iter   38/152
+total loss: 4.834427
+Epoch  41/5000 - Iter   76/152
+total loss: 2.858396
+Epoch  41/5000 - Iter  114/152
+total loss: 2.511754
+Epoch  41/5000 - Iter  152/152
+total loss: 2.339277
+	Mean total Loss: 2.339277
+Successfully store the checkpoint model into train_results/trained_models/epoch_41.ckpt
+
+>>> Training for the epoch 42/5000 ...
+Epoch  42/5000 - Iter   38/152
+total loss: 1.916194
+Epoch  42/5000 - Iter   76/152
+total loss: 1.612865
+Epoch  42/5000 - Iter  114/152
+total loss: 2.213887
+Epoch  42/5000 - Iter  152/152
+total loss: 2.868545
+	Mean total Loss: 2.868545
+Successfully store the checkpoint model into train_results/trained_models/epoch_42.ckpt
+
+>>> Training for the epoch 43/5000 ...
+Epoch  43/5000 - Iter   38/152
+total loss: 2.514743
+Epoch  43/5000 - Iter   76/152
+total loss: 2.414703
+Epoch  43/5000 - Iter  114/152
+total loss: 2.748726
+Epoch  43/5000 - Iter  152/152
+total loss: 4.930634
+	Mean total Loss: 4.930634
+Successfully store the checkpoint model into train_results/trained_models/epoch_43.ckpt
+
+>>> Training for the epoch 44/5000 ...
+Epoch  44/5000 - Iter   38/152
+total loss: 8.760081
+Epoch  44/5000 - Iter   76/152
+total loss: 5.229353
+Epoch  44/5000 - Iter  114/152
+total loss: 4.419075
+Epoch  44/5000 - Iter  152/152
+total loss: 4.677272
+	Mean total Loss: 4.677272
+Successfully store the checkpoint model into train_results/trained_models/epoch_44.ckpt
+
+>>> Training for the epoch 45/5000 ...
+Epoch  45/5000 - Iter   38/152
+total loss: 4.785647
+Epoch  45/5000 - Iter   76/152
+total loss: 2.832571
+Epoch  45/5000 - Iter  114/152
+total loss: 2.495896
+Epoch  45/5000 - Iter  152/152
+total loss: 2.321954
+	Mean total Loss: 2.321954
+Successfully store the checkpoint model into train_results/trained_models/epoch_45.ckpt
+
+>>> Training for the epoch 46/5000 ...
+Epoch  46/5000 - Iter   38/152
+total loss: 1.888347
+Epoch  46/5000 - Iter   76/152
+total loss: 1.591817
+Epoch  46/5000 - Iter  114/152
+total loss: 2.132037
+Epoch  46/5000 - Iter  152/152
+total loss: 2.802745
+	Mean total Loss: 2.802745
+Successfully store the checkpoint model into train_results/trained_models/epoch_46.ckpt
+
+>>> Training for the epoch 47/5000 ...
+Epoch  47/5000 - Iter   38/152
+total loss: 2.366944
+Epoch  47/5000 - Iter   76/152
+total loss: 2.293032
+Epoch  47/5000 - Iter  114/152
+total loss: 2.646192
+Epoch  47/5000 - Iter  152/152
+total loss: 4.837578
+	Mean total Loss: 4.837578
+Successfully store the checkpoint model into train_results/trained_models/epoch_47.ckpt
+
+>>> Training for the epoch 48/5000 ...
+Epoch  48/5000 - Iter   38/152
+total loss: 8.639338
+Epoch  48/5000 - Iter   76/152
+total loss: 5.178886
+Epoch  48/5000 - Iter  114/152
+total loss: 4.339575
+Epoch  48/5000 - Iter  152/152
+total loss: 4.617701
+	Mean total Loss: 4.617701
+Successfully store the checkpoint model into train_results/trained_models/epoch_48.ckpt
+
+>>> Training for the epoch 49/5000 ...
+Epoch  49/5000 - Iter   38/152
+total loss: 4.768993
+Epoch  49/5000 - Iter   76/152
+total loss: 2.822422
+Epoch  49/5000 - Iter  114/152
+total loss: 2.473012
+Epoch  49/5000 - Iter  152/152
+total loss: 2.293255
+	Mean total Loss: 2.293255
+Successfully store the checkpoint model into train_results/trained_models/epoch_49.ckpt
+
+>>> Training for the epoch 50/5000 ...
+Epoch  50/5000 - Iter   38/152
+total loss: 1.883286
+Epoch  50/5000 - Iter   76/152
+total loss: 1.580836
+Epoch  50/5000 - Iter  114/152
+total loss: 2.089161
+Epoch  50/5000 - Iter  152/152
+total loss: 2.726198
+	Mean total Loss: 2.726198
+Successfully store the checkpoint model into train_results/trained_models/epoch_50.ckpt
+
+>>> Training for the epoch 51/5000 ...
+Epoch  51/5000 - Iter   38/152
+total loss: 2.424111
+Epoch  51/5000 - Iter   76/152
+total loss: 2.313522
+Epoch  51/5000 - Iter  114/152
+total loss: 2.644087
+Epoch  51/5000 - Iter  152/152
+total loss: 4.811294
+	Mean total Loss: 4.811294
+Successfully store the checkpoint model into train_results/trained_models/epoch_51.ckpt
+
+>>> Training for the epoch 52/5000 ...
+Epoch  52/5000 - Iter   38/152
+total loss: 8.456375
+Epoch  52/5000 - Iter   76/152
+total loss: 5.014242
+Epoch  52/5000 - Iter  114/152
+total loss: 4.232763
+Epoch  52/5000 - Iter  152/152
+total loss: 4.537376
+	Mean total Loss: 4.537376
+Successfully store the checkpoint model into train_results/trained_models/epoch_52.ckpt
+
+>>> Training for the epoch 53/5000 ...
+Epoch  53/5000 - Iter   38/152
+total loss: 4.721502
+Epoch  53/5000 - Iter   76/152
+total loss: 2.784179
+Epoch  53/5000 - Iter  114/152
+total loss: 2.427722
+Epoch  53/5000 - Iter  152/152
+total loss: 2.249727
+	Mean total Loss: 2.249727
+Successfully store the checkpoint model into train_results/trained_models/epoch_53.ckpt
+
+>>> Training for the epoch 54/5000 ...
+Epoch  54/5000 - Iter   38/152
+total loss: 1.861860
+Epoch  54/5000 - Iter   76/152
+total loss: 1.559290
+Epoch  54/5000 - Iter  114/152
+total loss: 2.035549
+Epoch  54/5000 - Iter  152/152
+total loss: 2.656074
+	Mean total Loss: 2.656074
+Successfully store the checkpoint model into train_results/trained_models/epoch_54.ckpt
+
+>>> Training for the epoch 55/5000 ...
+Epoch  55/5000 - Iter   38/152
+total loss: 2.460202
+Epoch  55/5000 - Iter   76/152
+total loss: 2.331379
+Epoch  55/5000 - Iter  114/152
+total loss: 2.637868
+Epoch  55/5000 - Iter  152/152
+total loss: 4.789618
+	Mean total Loss: 4.789618
+Successfully store the checkpoint model into train_results/trained_models/epoch_55.ckpt
+
+>>> Training for the epoch 56/5000 ...
+Epoch  56/5000 - Iter   38/152
+total loss: 8.309008
+Epoch  56/5000 - Iter   76/152
+total loss: 4.930351
+Epoch  56/5000 - Iter  114/152
+total loss: 4.140996
+Epoch  56/5000 - Iter  152/152
+total loss: 4.458059
+	Mean total Loss: 4.458059
+Successfully store the checkpoint model into train_results/trained_models/epoch_56.ckpt
+
+>>> Training for the epoch 57/5000 ...
+Epoch  57/5000 - Iter   38/152
+total loss: 4.741090
+Epoch  57/5000 - Iter   76/152
+total loss: 2.799456
+Epoch  57/5000 - Iter  114/152
+total loss: 2.437481
+Epoch  57/5000 - Iter  152/152
+total loss: 2.254236
+	Mean total Loss: 2.254236
+Successfully store the checkpoint model into train_results/trained_models/epoch_57.ckpt
+
+>>> Training for the epoch 58/5000 ...
+Epoch  58/5000 - Iter   38/152
+total loss: 1.858223
+Epoch  58/5000 - Iter   76/152
+total loss: 1.550176
+Epoch  58/5000 - Iter  114/152
+total loss: 2.116876
+Epoch  58/5000 - Iter  152/152
+total loss: 2.789997
+	Mean total Loss: 2.789997
+Successfully store the checkpoint model into train_results/trained_models/epoch_58.ckpt
+
+>>> Training for the epoch 59/5000 ...
+Epoch  59/5000 - Iter   38/152
+total loss: 2.383510
+Epoch  59/5000 - Iter   76/152
+total loss: 2.255893
+Epoch  59/5000 - Iter  114/152
+total loss: 2.597981
+Epoch  59/5000 - Iter  152/152
+total loss: 4.737813
+	Mean total Loss: 4.737813
+Successfully store the checkpoint model into train_results/trained_models/epoch_59.ckpt
+
+>>> Training for the epoch 60/5000 ...
+Epoch  60/5000 - Iter   38/152
+total loss: 8.434058
+Epoch  60/5000 - Iter   76/152
+total loss: 4.983067
+Epoch  60/5000 - Iter  114/152
+total loss: 4.182921
+Epoch  60/5000 - Iter  152/152
+total loss: 4.472309
+	Mean total Loss: 4.472309
+Successfully store the checkpoint model into train_results/trained_models/epoch_60.ckpt
+
+>>> Training for the epoch 61/5000 ...
+Epoch  61/5000 - Iter   38/152
+total loss: 4.690703
+Epoch  61/5000 - Iter   76/152
+total loss: 2.772407
+Epoch  61/5000 - Iter  114/152
+total loss: 2.423697
+Epoch  61/5000 - Iter  152/152
+total loss: 2.248441
+	Mean total Loss: 2.248441
+Successfully store the checkpoint model into train_results/trained_models/epoch_61.ckpt
+
+>>> Training for the epoch 62/5000 ...
+Epoch  62/5000 - Iter   38/152
+total loss: 1.889885
+Epoch  62/5000 - Iter   76/152
+total loss: 1.575079
+Epoch  62/5000 - Iter  114/152
+total loss: 2.066902
+Epoch  62/5000 - Iter  152/152
+total loss: 2.687147
+	Mean total Loss: 2.687147
+Successfully store the checkpoint model into train_results/trained_models/epoch_62.ckpt
+
+>>> Training for the epoch 63/5000 ...
+Epoch  63/5000 - Iter   38/152
+total loss: 2.370568
+Epoch  63/5000 - Iter   76/152
+total loss: 2.245338
+Epoch  63/5000 - Iter  114/152
+total loss: 2.567365
+Epoch  63/5000 - Iter  152/152
+total loss: 4.682998
+	Mean total Loss: 4.682998
+Successfully store the checkpoint model into train_results/trained_models/epoch_63.ckpt
+
+>>> Training for the epoch 64/5000 ...
+Epoch  64/5000 - Iter   38/152
+total loss: 8.191009
+Epoch  64/5000 - Iter   76/152
+total loss: 4.846447
+Epoch  64/5000 - Iter  114/152
+total loss: 4.040988
+Epoch  64/5000 - Iter  152/152
+total loss: 4.365633
+	Mean total Loss: 4.365633
+Successfully store the checkpoint model into train_results/trained_models/epoch_64.ckpt
+
+>>> Training for the epoch 65/5000 ...
+Epoch  65/5000 - Iter   38/152
+total loss: 4.654552
+Epoch  65/5000 - Iter   76/152
+total loss: 2.737704
+Epoch  65/5000 - Iter  114/152
+total loss: 2.385401
+Epoch  65/5000 - Iter  152/152
+total loss: 2.211025
+	Mean total Loss: 2.211025
+Successfully store the checkpoint model into train_results/trained_models/epoch_65.ckpt
+
+>>> Training for the epoch 66/5000 ...
+Epoch  66/5000 - Iter   38/152
+total loss: 1.865454
+Epoch  66/5000 - Iter   76/152
+total loss: 1.555111
+Epoch  66/5000 - Iter  114/152
+total loss: 1.960318
+Epoch  66/5000 - Iter  152/152
+total loss: 2.553085
+	Mean total Loss: 2.553085
+Successfully store the checkpoint model into train_results/trained_models/epoch_66.ckpt
+
+>>> Training for the epoch 67/5000 ...
+Epoch  67/5000 - Iter   38/152
+total loss: 2.319403
+Epoch  67/5000 - Iter   76/152
+total loss: 2.216296
+Epoch  67/5000 - Iter  114/152
+total loss: 2.530438
+Epoch  67/5000 - Iter  152/152
+total loss: 4.635744
+	Mean total Loss: 4.635744
+Successfully store the checkpoint model into train_results/trained_models/epoch_67.ckpt
+
+>>> Training for the epoch 68/5000 ...
+Epoch  68/5000 - Iter   38/152
+total loss: 8.027538
+Epoch  68/5000 - Iter   76/152
+total loss: 4.708755
+Epoch  68/5000 - Iter  114/152
+total loss: 3.945577
+Epoch  68/5000 - Iter  152/152
+total loss: 4.278782
+	Mean total Loss: 4.278782
+Successfully store the checkpoint model into train_results/trained_models/epoch_68.ckpt
+
+>>> Training for the epoch 69/5000 ...
+Epoch  69/5000 - Iter   38/152
+total loss: 4.595986
+Epoch  69/5000 - Iter   76/152
+total loss: 2.687273
+Epoch  69/5000 - Iter  114/152
+total loss: 2.340722
+Epoch  69/5000 - Iter  152/152
+total loss: 2.166855
+	Mean total Loss: 2.166855
+Successfully store the checkpoint model into train_results/trained_models/epoch_69.ckpt
+
+>>> Training for the epoch 70/5000 ...
+Epoch  70/5000 - Iter   38/152
+total loss: 1.827626
+Epoch  70/5000 - Iter   76/152
+total loss: 1.523633
+Epoch  70/5000 - Iter  114/152
+total loss: 1.925263
+Epoch  70/5000 - Iter  152/152
+total loss: 2.505748
+	Mean total Loss: 2.505748
+Successfully store the checkpoint model into train_results/trained_models/epoch_70.ckpt
+
+>>> Training for the epoch 71/5000 ...
+Epoch  71/5000 - Iter   38/152
+total loss: 2.244466
+Epoch  71/5000 - Iter   76/152
+total loss: 2.157855
+Epoch  71/5000 - Iter  114/152
+total loss: 2.469116
+Epoch  71/5000 - Iter  152/152
+total loss: 4.544188
+	Mean total Loss: 4.544188
+Successfully store the checkpoint model into train_results/trained_models/epoch_71.ckpt
+
+>>> Training for the epoch 72/5000 ...
+Epoch  72/5000 - Iter   38/152
+total loss: 7.893423
+Epoch  72/5000 - Iter   76/152
+total loss: 4.625709
+Epoch  72/5000 - Iter  114/152
+total loss: 3.865346
+Epoch  72/5000 - Iter  152/152
+total loss: 4.207480
+	Mean total Loss: 4.207480
+Successfully store the checkpoint model into train_results/trained_models/epoch_72.ckpt
+
+>>> Training for the epoch 73/5000 ...
+Epoch  73/5000 - Iter   38/152
+total loss: 4.600711
+Epoch  73/5000 - Iter   76/152
+total loss: 2.685621
+Epoch  73/5000 - Iter  114/152
+total loss: 2.336212
+Epoch  73/5000 - Iter  152/152
+total loss: 2.157266
+	Mean total Loss: 2.157266
+Successfully store the checkpoint model into train_results/trained_models/epoch_73.ckpt
+
+>>> Training for the epoch 74/5000 ...
+Epoch  74/5000 - Iter   38/152
+total loss: 1.824107
+Epoch  74/5000 - Iter   76/152
+total loss: 1.516051
+Epoch  74/5000 - Iter  114/152
+total loss: 1.922651
+Epoch  74/5000 - Iter  152/152
+total loss: 2.479131
+	Mean total Loss: 2.479131
+Successfully store the checkpoint model into train_results/trained_models/epoch_74.ckpt
+
+>>> Training for the epoch 75/5000 ...
+Epoch  75/5000 - Iter   38/152
+total loss: 2.211289
+Epoch  75/5000 - Iter   76/152
+total loss: 2.104188
+Epoch  75/5000 - Iter  114/152
+total loss: 2.414361
+Epoch  75/5000 - Iter  152/152
+total loss: 4.467015
+	Mean total Loss: 4.467015
+Successfully store the checkpoint model into train_results/trained_models/epoch_75.ckpt
+
+>>> Training for the epoch 76/5000 ...
+Epoch  76/5000 - Iter   38/152
+total loss: 7.771180
+Epoch  76/5000 - Iter   76/152
+total loss: 4.564476
+Epoch  76/5000 - Iter  114/152
+total loss: 3.847599
+Epoch  76/5000 - Iter  152/152
+total loss: 4.177980
+	Mean total Loss: 4.177980
+Successfully store the checkpoint model into train_results/trained_models/epoch_76.ckpt
+
+>>> Training for the epoch 77/5000 ...
+Epoch  77/5000 - Iter   38/152
+total loss: 4.566770
+Epoch  77/5000 - Iter   76/152
+total loss: 2.684489
+Epoch  77/5000 - Iter  114/152
+total loss: 2.337189
+Epoch  77/5000 - Iter  152/152
+total loss: 2.155282
+	Mean total Loss: 2.155282
+Successfully store the checkpoint model into train_results/trained_models/epoch_77.ckpt
+
+>>> Training for the epoch 78/5000 ...
+Epoch  78/5000 - Iter   38/152
+total loss: 1.798419
+Epoch  78/5000 - Iter   76/152
+total loss: 1.495777
+Epoch  78/5000 - Iter  114/152
+total loss: 1.865762
+Epoch  78/5000 - Iter  152/152
+total loss: 2.436060
+	Mean total Loss: 2.436060
+Successfully store the checkpoint model into train_results/trained_models/epoch_78.ckpt
+
+>>> Training for the epoch 79/5000 ...
+Epoch  79/5000 - Iter   38/152
+total loss: 2.172355
+Epoch  79/5000 - Iter   76/152
+total loss: 2.059560
+Epoch  79/5000 - Iter  114/152
+total loss: 2.369614
+Epoch  79/5000 - Iter  152/152
+total loss: 4.396654
+	Mean total Loss: 4.396654
+Successfully store the checkpoint model into train_results/trained_models/epoch_79.ckpt
+
+>>> Training for the epoch 80/5000 ...
+Epoch  80/5000 - Iter   38/152
+total loss: 7.665156
+Epoch  80/5000 - Iter   76/152
+total loss: 4.478523
+Epoch  80/5000 - Iter  114/152
+total loss: 3.744075
+Epoch  80/5000 - Iter  152/152
+total loss: 4.082541
+	Mean total Loss: 4.082541
+Successfully store the checkpoint model into train_results/trained_models/epoch_80.ckpt
+
+>>> Training for the epoch 81/5000 ...
+Epoch  81/5000 - Iter   38/152
+total loss: 4.573020
+Epoch  81/5000 - Iter   76/152
+total loss: 2.682639
+Epoch  81/5000 - Iter  114/152
+total loss: 2.326128
+Epoch  81/5000 - Iter  152/152
+total loss: 2.140319
+	Mean total Loss: 2.140319
+Successfully store the checkpoint model into train_results/trained_models/epoch_81.ckpt
+
+>>> Training for the epoch 82/5000 ...
+Epoch  82/5000 - Iter   38/152
+total loss: 1.773229
+Epoch  82/5000 - Iter   76/152
+total loss: 1.477185
+Epoch  82/5000 - Iter  114/152
+total loss: 1.835024
+Epoch  82/5000 - Iter  152/152
+total loss: 2.380780
+	Mean total Loss: 2.380780
+Successfully store the checkpoint model into train_results/trained_models/epoch_82.ckpt
+
+>>> Training for the epoch 83/5000 ...
+Epoch  83/5000 - Iter   38/152
+total loss: 2.144860
+Epoch  83/5000 - Iter   76/152
+total loss: 2.025230
+Epoch  83/5000 - Iter  114/152
+total loss: 2.339591
+Epoch  83/5000 - Iter  152/152
+total loss: 4.335533
+	Mean total Loss: 4.335533
+Successfully store the checkpoint model into train_results/trained_models/epoch_83.ckpt
+
+>>> Training for the epoch 84/5000 ...
+Epoch  84/5000 - Iter   38/152
+total loss: 7.521456
+Epoch  84/5000 - Iter   76/152
+total loss: 4.414093
+Epoch  84/5000 - Iter  114/152
+total loss: 3.720159
+Epoch  84/5000 - Iter  152/152
+total loss: 4.068964
+	Mean total Loss: 4.068964
+Successfully store the checkpoint model into train_results/trained_models/epoch_84.ckpt
+
+>>> Training for the epoch 85/5000 ...
+Epoch  85/5000 - Iter   38/152
+total loss: 4.520968
+Epoch  85/5000 - Iter   76/152
+total loss: 2.654564
+Epoch  85/5000 - Iter  114/152
+total loss: 2.306118
+Epoch  85/5000 - Iter  152/152
+total loss: 2.126195
+	Mean total Loss: 2.126195
+Successfully store the checkpoint model into train_results/trained_models/epoch_85.ckpt
+
+>>> Training for the epoch 86/5000 ...
+Epoch  86/5000 - Iter   38/152
+total loss: 1.760773
+Epoch  86/5000 - Iter   76/152
+total loss: 1.463098
+Epoch  86/5000 - Iter  114/152
+total loss: 1.825728
+Epoch  86/5000 - Iter  152/152
+total loss: 2.352445
+	Mean total Loss: 2.352445
+Successfully store the checkpoint model into train_results/trained_models/epoch_86.ckpt
+
+>>> Training for the epoch 87/5000 ...
+Epoch  87/5000 - Iter   38/152
+total loss: 2.079762
+Epoch  87/5000 - Iter   76/152
+total loss: 1.953086
+Epoch  87/5000 - Iter  114/152
+total loss: 2.260706
+Epoch  87/5000 - Iter  152/152
+total loss: 4.236485
+	Mean total Loss: 4.236485
+Successfully store the checkpoint model into train_results/trained_models/epoch_87.ckpt
+
+>>> Training for the epoch 88/5000 ...
+Epoch  88/5000 - Iter   38/152
+total loss: 7.353009
+Epoch  88/5000 - Iter   76/152
+total loss: 4.287831
+Epoch  88/5000 - Iter  114/152
+total loss: 3.625026
+Epoch  88/5000 - Iter  152/152
+total loss: 4.004842
+	Mean total Loss: 4.004842
+Successfully store the checkpoint model into train_results/trained_models/epoch_88.ckpt
+
+>>> Training for the epoch 89/5000 ...
+Epoch  89/5000 - Iter   38/152
+total loss: 4.659626
+Epoch  89/5000 - Iter   76/152
+total loss: 2.750039
+Epoch  89/5000 - Iter  114/152
+total loss: 2.372107
+Epoch  89/5000 - Iter  152/152
+total loss: 2.178033
+	Mean total Loss: 2.178033
+Successfully store the checkpoint model into train_results/trained_models/epoch_89.ckpt
+
+>>> Training for the epoch 90/5000 ...
+Epoch  90/5000 - Iter   38/152
+total loss: 1.783350
+Epoch  90/5000 - Iter   76/152
+total loss: 1.477747
+Epoch  90/5000 - Iter  114/152
+total loss: 1.876393
+Epoch  90/5000 - Iter  152/152
+total loss: 2.408890
+	Mean total Loss: 2.408890
+Successfully store the checkpoint model into train_results/trained_models/epoch_90.ckpt
+
+>>> Training for the epoch 91/5000 ...
+Epoch  91/5000 - Iter   38/152
+total loss: 2.117131
+Epoch  91/5000 - Iter   76/152
+total loss: 1.941855
+Epoch  91/5000 - Iter  114/152
+total loss: 2.232140
+Epoch  91/5000 - Iter  152/152
+total loss: 4.189351
+	Mean total Loss: 4.189351
+Successfully store the checkpoint model into train_results/trained_models/epoch_91.ckpt
+
+>>> Training for the epoch 92/5000 ...
+Epoch  92/5000 - Iter   38/152
+total loss: 7.276303
+Epoch  92/5000 - Iter   76/152
+total loss: 4.259987
+Epoch  92/5000 - Iter  114/152
+total loss: 3.572472
+Epoch  92/5000 - Iter  152/152
+total loss: 3.974214
+	Mean total Loss: 3.974214
+Successfully store the checkpoint model into train_results/trained_models/epoch_92.ckpt
+
+>>> Training for the epoch 93/5000 ...
+Epoch  93/5000 - Iter   38/152
+total loss: 4.524236
+Epoch  93/5000 - Iter   76/152
+total loss: 2.662132
+Epoch  93/5000 - Iter  114/152
+total loss: 2.291843
+Epoch  93/5000 - Iter  152/152
+total loss: 2.103928
+	Mean total Loss: 2.103928
+Successfully store the checkpoint model into train_results/trained_models/epoch_93.ckpt
+
+>>> Training for the epoch 94/5000 ...
+Epoch  94/5000 - Iter   38/152
+total loss: 1.738684
+Epoch  94/5000 - Iter   76/152
+total loss: 1.451018
+Epoch  94/5000 - Iter  114/152
+total loss: 1.820792
+Epoch  94/5000 - Iter  152/152
+total loss: 2.344857
+	Mean total Loss: 2.344857
+Successfully store the checkpoint model into train_results/trained_models/epoch_94.ckpt
+
+>>> Training for the epoch 95/5000 ...
+Epoch  95/5000 - Iter   38/152
+total loss: 2.009011
+Epoch  95/5000 - Iter   76/152
+total loss: 1.867253
+Epoch  95/5000 - Iter  114/152
+total loss: 2.176407
+Epoch  95/5000 - Iter  152/152
+total loss: 4.126960
+	Mean total Loss: 4.126960
+Successfully store the checkpoint model into train_results/trained_models/epoch_95.ckpt
+
+>>> Training for the epoch 96/5000 ...
+Epoch  96/5000 - Iter   38/152
+total loss: 7.305622
+Epoch  96/5000 - Iter   76/152
+total loss: 4.299443
+Epoch  96/5000 - Iter  114/152
+total loss: 3.606084
+Epoch  96/5000 - Iter  152/152
+total loss: 3.982239
+	Mean total Loss: 3.982239
+Successfully store the checkpoint model into train_results/trained_models/epoch_96.ckpt
+
+>>> Training for the epoch 97/5000 ...
+Epoch  97/5000 - Iter   38/152
+total loss: 4.535505
+Epoch  97/5000 - Iter   76/152
+total loss: 2.645239
+Epoch  97/5000 - Iter  114/152
+total loss: 2.277017
+Epoch  97/5000 - Iter  152/152
+total loss: 2.092685
+	Mean total Loss: 2.092685
+Successfully store the checkpoint model into train_results/trained_models/epoch_97.ckpt
+
+>>> Training for the epoch 98/5000 ...
+Epoch  98/5000 - Iter   38/152
+total loss: 1.723167
+Epoch  98/5000 - Iter   76/152
+total loss: 1.435894
+Epoch  98/5000 - Iter  114/152
+total loss: 1.748104
+Epoch  98/5000 - Iter  152/152
+total loss: 2.244737
+	Mean total Loss: 2.244737
+Successfully store the checkpoint model into train_results/trained_models/epoch_98.ckpt
+
+>>> Training for the epoch 99/5000 ...
+Epoch  99/5000 - Iter   38/152
+total loss: 1.981172
+Epoch  99/5000 - Iter   76/152
+total loss: 1.843456
+Epoch  99/5000 - Iter  114/152
+total loss: 2.133228
+Epoch  99/5000 - Iter  152/152
+total loss: 4.082898
+	Mean total Loss: 4.082898
+Successfully store the checkpoint model into train_results/trained_models/epoch_99.ckpt
+
+>>> Training for the epoch 100/5000 ...
+Epoch 100/5000 - Iter   38/152
+total loss: 7.072432
+Epoch 100/5000 - Iter   76/152
+total loss: 4.156063
+Epoch 100/5000 - Iter  114/152
+total loss: 3.493346
+Epoch 100/5000 - Iter  152/152
+total loss: 3.868879
+	Mean total Loss: 3.868879
+Successfully store the checkpoint model into train_results/trained_models/epoch_100.ckpt
+
+>>> Training for the epoch 101/5000 ...
+Epoch 101/5000 - Iter   38/152
+total loss: 4.452056
+Epoch 101/5000 - Iter   76/152
+total loss: 2.599573
+Epoch 101/5000 - Iter  114/152
+total loss: 2.232409
+Epoch 101/5000 - Iter  152/152
+total loss: 2.049145
+	Mean total Loss: 2.049145
+Successfully store the checkpoint model into train_results/trained_models/epoch_101.ckpt
+
+>>> Training for the epoch 102/5000 ...
+Epoch 102/5000 - Iter   38/152
+total loss: 1.679346
+Epoch 102/5000 - Iter   76/152
+total loss: 1.403386
+Epoch 102/5000 - Iter  114/152
+total loss: 1.730275
+Epoch 102/5000 - Iter  152/152
+total loss: 2.223584
+	Mean total Loss: 2.223584
+Successfully store the checkpoint model into train_results/trained_models/epoch_102.ckpt
+
+>>> Training for the epoch 103/5000 ...
+Epoch 103/5000 - Iter   38/152
+total loss: 1.966508
+Epoch 103/5000 - Iter   76/152
+total loss: 1.844955
+Epoch 103/5000 - Iter  114/152
+total loss: 2.123358
+Epoch 103/5000 - Iter  152/152
+total loss: 4.022937
+	Mean total Loss: 4.022937
+Successfully store the checkpoint model into train_results/trained_models/epoch_103.ckpt
+
+>>> Training for the epoch 104/5000 ...
+Epoch 104/5000 - Iter   38/152
+total loss: 6.844292
+Epoch 104/5000 - Iter   76/152
+total loss: 4.034940
+Epoch 104/5000 - Iter  114/152
+total loss: 3.373046
+Epoch 104/5000 - Iter  152/152
+total loss: 3.758810
+	Mean total Loss: 3.758810
+Successfully store the checkpoint model into train_results/trained_models/epoch_104.ckpt
+
+>>> Training for the epoch 105/5000 ...
+Epoch 105/5000 - Iter   38/152
+total loss: 4.424034
+Epoch 105/5000 - Iter   76/152
+total loss: 2.580343
+Epoch 105/5000 - Iter  114/152
+total loss: 2.224214
+Epoch 105/5000 - Iter  152/152
+total loss: 2.041158
+	Mean total Loss: 2.041158
+Successfully store the checkpoint model into train_results/trained_models/epoch_105.ckpt
+
+>>> Training for the epoch 106/5000 ...
+Epoch 106/5000 - Iter   38/152
+total loss: 1.667887
+Epoch 106/5000 - Iter   76/152
+total loss: 1.391007
+Epoch 106/5000 - Iter  114/152
+total loss: 1.687661
+Epoch 106/5000 - Iter  152/152
+total loss: 2.170543
+	Mean total Loss: 2.170543
+Successfully store the checkpoint model into train_results/trained_models/epoch_106.ckpt
+
+>>> Training for the epoch 107/5000 ...
+Epoch 107/5000 - Iter   38/152
+total loss: 1.964784
+Epoch 107/5000 - Iter   76/152
+total loss: 1.808491
+Epoch 107/5000 - Iter  114/152
+total loss: 2.068670
+Epoch 107/5000 - Iter  152/152
+total loss: 3.950308
+	Mean total Loss: 3.950308
+Successfully store the checkpoint model into train_results/trained_models/epoch_107.ckpt
+
+>>> Training for the epoch 108/5000 ...
+Epoch 108/5000 - Iter   38/152
+total loss: 6.680607
+Epoch 108/5000 - Iter   76/152
+total loss: 3.952049
+Epoch 108/5000 - Iter  114/152
+total loss: 3.345509
+Epoch 108/5000 - Iter  152/152
+total loss: 3.745501
+	Mean total Loss: 3.745501
+Successfully store the checkpoint model into train_results/trained_models/epoch_108.ckpt
+
+>>> Training for the epoch 109/5000 ...
+Epoch 109/5000 - Iter   38/152
+total loss: 4.350194
+Epoch 109/5000 - Iter   76/152
+total loss: 2.513477
+Epoch 109/5000 - Iter  114/152
+total loss: 2.166771
+Epoch 109/5000 - Iter  152/152
+total loss: 1.995454
+	Mean total Loss: 1.995454
+Successfully store the checkpoint model into train_results/trained_models/epoch_109.ckpt
+
+>>> Training for the epoch 110/5000 ...
+Epoch 110/5000 - Iter   38/152
+total loss: 1.648772
+Epoch 110/5000 - Iter   76/152
+total loss: 1.379781
+Epoch 110/5000 - Iter  114/152
+total loss: 1.673680
+Epoch 110/5000 - Iter  152/152
+total loss: 2.143588
+	Mean total Loss: 2.143588
+Successfully store the checkpoint model into train_results/trained_models/epoch_110.ckpt
+
+>>> Training for the epoch 111/5000 ...
+Epoch 111/5000 - Iter   38/152
+total loss: 1.913922
+Epoch 111/5000 - Iter   76/152
+total loss: 1.773134
+Epoch 111/5000 - Iter  114/152
+total loss: 2.030150
+Epoch 111/5000 - Iter  152/152
+total loss: 3.928891
+	Mean total Loss: 3.928891
+Successfully store the checkpoint model into train_results/trained_models/epoch_111.ckpt
+
+>>> Training for the epoch 112/5000 ...
+Epoch 112/5000 - Iter   38/152
+total loss: 6.556080
+Epoch 112/5000 - Iter   76/152
+total loss: 3.854078
+Epoch 112/5000 - Iter  114/152
+total loss: 3.254500
+Epoch 112/5000 - Iter  152/152
+total loss: 3.648634
+	Mean total Loss: 3.648634
+Successfully store the checkpoint model into train_results/trained_models/epoch_112.ckpt
+
+>>> Training for the epoch 113/5000 ...
+Epoch 113/5000 - Iter   38/152
+total loss: 4.340541
+Epoch 113/5000 - Iter   76/152
+total loss: 2.512803
+Epoch 113/5000 - Iter  114/152
+total loss: 2.167397
+Epoch 113/5000 - Iter  152/152
+total loss: 1.988372
+	Mean total Loss: 1.988372
+Successfully store the checkpoint model into train_results/trained_models/epoch_113.ckpt
+
+>>> Training for the epoch 114/5000 ...
+Epoch 114/5000 - Iter   38/152
+total loss: 1.620314
+Epoch 114/5000 - Iter   76/152
+total loss: 1.361468
+Epoch 114/5000 - Iter  114/152
+total loss: 1.613362
+Epoch 114/5000 - Iter  152/152
+total loss: 2.076081
+	Mean total Loss: 2.076081
+Successfully store the checkpoint model into train_results/trained_models/epoch_114.ckpt
+
+>>> Training for the epoch 115/5000 ...
+Epoch 115/5000 - Iter   38/152
+total loss: 1.885020
+Epoch 115/5000 - Iter   76/152
+total loss: 1.763850
+Epoch 115/5000 - Iter  114/152
+total loss: 2.016982
+Epoch 115/5000 - Iter  152/152
+total loss: 3.892209
+	Mean total Loss: 3.892209
+Successfully store the checkpoint model into train_results/trained_models/epoch_115.ckpt
+
+>>> Training for the epoch 116/5000 ...
+Epoch 116/5000 - Iter   38/152
+total loss: 6.604061
+Epoch 116/5000 - Iter   76/152
+total loss: 3.873047
+Epoch 116/5000 - Iter  114/152
+total loss: 3.268977
+Epoch 116/5000 - Iter  152/152
+total loss: 3.634929
+	Mean total Loss: 3.634929
+Successfully store the checkpoint model into train_results/trained_models/epoch_116.ckpt
+
+>>> Training for the epoch 117/5000 ...
+Epoch 117/5000 - Iter   38/152
+total loss: 4.305612
+Epoch 117/5000 - Iter   76/152
+total loss: 2.482689
+Epoch 117/5000 - Iter  114/152
+total loss: 2.144774
+Epoch 117/5000 - Iter  152/152
+total loss: 1.974186
+	Mean total Loss: 1.974186
+Successfully store the checkpoint model into train_results/trained_models/epoch_117.ckpt
