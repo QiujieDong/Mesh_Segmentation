@@ -30,7 +30,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2019
 
-- **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin) [__`dat.`____`cls.`____`seg.`__]:star::fire:
+- **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) [__`dat.`____`cls.`____`seg.`__]:star::fire:
 
 # Before 2019
 
