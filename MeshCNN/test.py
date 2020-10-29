@@ -9,7 +9,7 @@ def run_test(epoch=-1):
     opt = TestOptions().parse()
     opt.serial_batches = True  # no shuffle
     dataset = DataLoader(opt)
-    model = create_model(opt)
+    model = create_model(opt)  # load network from disk if is_train=True.
     writer = Writer(opt)
     # test
     writer.reset_counter()

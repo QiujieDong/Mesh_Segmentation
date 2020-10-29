@@ -3,6 +3,7 @@ import numpy as np
 import pickle
 import os
 
+
 class BaseDataset(data.Dataset):
 
     def __init__(self, opt):

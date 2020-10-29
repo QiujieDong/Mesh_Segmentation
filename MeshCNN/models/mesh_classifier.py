@@ -12,11 +12,13 @@ class ClassifierModel:
     --dataset_mode -> classification / segmentation)
     --arch -> network type
     """
+
     def __init__(self, opt):
         self.opt = opt
         self.gpu_ids = opt.gpu_ids
         self.is_train = opt.is_train
-        self.device = torch.device('cuda:{}'.format(self.gpu_ids[0])) if self.gpu_ids else torch.device('cpu')
+        self.device = torch.device('cuda:{}'.format(
+            self.gpu_ids[0])) if self.gpu_ids else torch.device('cpu')
         self.save_dir = join(opt.checkpoints_dir, opt.name)
         self.optimizer = None
         self.edge_features = None
@@ -35,7 +37,8 @@ class ClassifierModel:
         self.criterion = networks.define_loss(opt).to(self.device)
 
         if self.is_train:
-            self.optimizer = torch.optim.Adam(self.net.parameters(), lr=opt.lr, betas=(opt.beta1, 0.999))
+            self.optimizer = torch.optim.Adam(
+                self.net.parameters(), lr=opt.lr, betas=(opt.beta1, 0.999))
             self.scheduler = networks.get_scheduler(self.optimizer, opt)
             print_network(self.net)
 
@@ -46,14 +49,16 @@ class ClassifierModel:
         input_edge_features = torch.from_numpy(data['edge_features']).float()
         labels = torch.from_numpy(data['label']).long()
         # set inputs
-        self.edge_features = input_edge_features.to(self.device).requires_grad_(self.is_train)#to()将tensor数据copy到device,之后在device上运算。requires_grad_()如果train则保留grad(图结构)
+        # to()将tensor数据copy到device,之后在device上运算。requires_grad_()如果train则保留grad(图结构)
+        self.edge_features = input_edge_features.to(
+            self.device).requires_grad_(self.is_train)
         self.labels = labels.to(self.device)
         self.mesh = data['mesh']
         if self.opt.dataset_mode == 'segmentation' and not self.is_train:
-            self.soft_label = torch.from_numpy(data['soft_label'])#将numpy数据转换为Tensor张量数据，并且使用torch.from_numpy可以实现与原数据同内存。
+            # 将numpy数据转换为Tensor张量数据，并且使用torch.from_numpy可以实现与原数据同内存。
+            self.soft_label = torch.from_numpy(data['soft_label'])
 
-
-    def forward(self):#返回一个构建的前向网络
+    def forward(self):  # 返回一个构建的前向网络
         out = self.net(self.edge_features, self.mesh)
         return out
 
@@ -70,6 +75,7 @@ class ClassifierModel:
 
 ##################
 
+
     def load_network(self, which_epoch):
         """load model from disk"""
         save_filename = '%s_net.pth' % which_epoch
@@ -85,13 +91,13 @@ class ClassifierModel:
             del state_dict._metadata
         net.load_state_dict(state_dict)
 
-
     def save_network(self, which_epoch):
         """save model to disk"""
         save_filename = '%s_net.pth' % (which_epoch)
         save_path = join(self.save_dir, save_filename)
         if len(self.gpu_ids) > 0 and torch.cuda.is_available():
-            torch.save(self.net.module.cpu().state_dict(), save_path)
+            torch.save(self.net.module.cpu().state_dict(),
+                       save_path)  # state_dict就是训练得到的权重等信息
             self.net.cuda(self.gpu_ids[0])
         else:
             torch.save(self.net.cpu().state_dict(), save_path)
@@ -106,13 +112,15 @@ class ClassifierModel:
         """tests model
         returns: number correct and total number
         """
-        with torch.no_grad():#对tensor进行操作，默认是生成计算图的（以便后续反向传播等），这里强制不构建图。
-            out = self.forward()#返回为构建的前向网络
+        with torch.no_grad():  # 对tensor进行操作，默认是生成计算图的（以便后续反向传播等），这里强制不构建图。
+            out = self.forward()  # 返回为构建的前向网络
             # compute number of correct
-            pred_class = out.data.max(1)[1]#输入softmax的一个tensor,在第一个维度（行）上求最大值，max()返回两个tensor,第一个为最大值数值，第二个是最大值索引。
+            # 输入softmax的一个tensor,在第一个维度（行）上求最大值，max()返回两个tensor,第一个为最大值数值，第二个是最大值索引。
+            pred_class = out.data.max(1)[1]
             label_class = self.labels
-            self.export_segmentation(pred_class.cpu())#将pred_class数据转为CPU的tensor
-            correct = self.get_accuracy(pred_class, label_class)#输出正确的预测数目
+            # 将pred_class数据转为CPU的tensor
+            self.export_segmentation(pred_class.cpu())
+            correct = self.get_accuracy(pred_class, label_class)  # 输出正确的预测数目
         return correct, len(label_class)
 
     def get_accuracy(self, pred, labels):
@@ -125,5 +133,7 @@ class ClassifierModel:
 
     def export_segmentation(self, pred_seg):
         if self.opt.dataset_mode == 'segmentation':
-            for meshi, mesh in enumerate(self.mesh):#enumerate()同时列出索引和数据，这里meshi为索引，mesh为数据
-                mesh.export_segments(pred_seg[meshi, :])#将pred_seg中对应的行的数据全部传入mesh.export_segmentation()函数
+            # enumerate()同时列出索引和数据，这里meshi为索引，mesh为数据
+            for meshi, mesh in enumerate(self.mesh):
+                # 将pred_seg中对应的行的数据全部传入mesh.export_segmentation()函数
+                mesh.export_segments(pred_seg[meshi, :])
