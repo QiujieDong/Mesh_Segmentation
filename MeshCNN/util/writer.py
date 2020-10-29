@@ -7,6 +7,7 @@ except ImportError as error:
     print('tensorboard X not installed, visualizing wont be available')
     SummaryWriter = None
 
+
 class Writer:
     def __init__(self, opt):
         self.name = opt.name
@@ -28,11 +29,13 @@ class Writer:
         if self.opt.is_train:
             with open(self.log_name, "a") as log_file:
                 now = time.strftime("%c")
-                log_file.write('================ Training Loss (%s) ================\n' % now)
+                log_file.write(
+                    '================ Training Loss (%s) ================\n' % now)
         else:
             with open(self.testacc_log, "a") as log_file:
                 now = time.strftime("%c")
-                log_file.write('================ Testing Acc (%s) ================\n' % now)
+                log_file.write(
+                    '================ Testing Acc (%s) ================\n' % now)
 
     def print_current_losses(self, epoch, i, losses, t, t_data):
         """ prints train loss to terminal / file """
@@ -50,7 +53,8 @@ class Writer:
     def plot_model_wts(self, model, epoch):
         if self.opt.is_train and self.display:
             for name, param in model.net.named_parameters():
-                self.display.add_histogram(name, param.clone().cpu().data.numpy(), epoch)
+                self.display.add_histogram(
+                    name, param.clone().cpu().data.numpy(), epoch)
 
     def print_acc(self, epoch, acc):
         """ prints test accuracy to terminal / file """

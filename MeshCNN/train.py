@@ -1,5 +1,5 @@
 import time
-from options.train_options import TrainOptions
+from options.train_options import TrainOptions  # The args of train.
 from data import DataLoader
 from models import create_model
 from util.writer import Writer
@@ -19,7 +19,7 @@ if __name__ == '__main__':
         epoch_start_time = time.time()
         iter_data_time = time.time()
         epoch_iter = 0
-
+        
         for i, data in enumerate(dataset):
             iter_start_time = time.time()
             if total_steps % opt.print_freq == 0:
