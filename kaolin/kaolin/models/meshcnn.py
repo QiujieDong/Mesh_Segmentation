@@ -65,8 +65,9 @@ def compute_face_normals_for_mesh(mesh):
     face_normals = torch.cross(
         mesh.vertices[mesh.faces[:, 1]] - mesh.vertices[mesh.faces[:, 0]],
         mesh.vertices[mesh.faces[:, 2]] - mesh.vertices[mesh.faces[:, 1]],
-    )
-    face_normals = face_normals / face_normals.norm(p=2, dim=-1)[..., None]
+    )  # torch.cross计算叉积
+    # torch.linalg.norm()计算向量或矩阵范数。norm(p=2,dim=-1)使用2范数，并且在-1这个dim上计算范数
+    face_normals = face_normals / face_normals.norm(p=2, dim=-1)[..., None]  # 单位法向
     return face_normals
 
 
