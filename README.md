@@ -52,6 +52,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net Architecture for Medical Image Segmentation", DLMIA(2018). [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
 
+- **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
+
 
 <h1> 
 
