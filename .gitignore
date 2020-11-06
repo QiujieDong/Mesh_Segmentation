@@ -2,4 +2,4 @@ MeshCNN/checkpoints
 MeshCNN/runs
 MVRNN/data
 MVRNN/train_results/trained_models
-./kaolin
+Graph-U-Nets/data
