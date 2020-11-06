@@ -329,9 +329,9 @@ class TriangleMesh(Mesh):
         vertices = torch.FloatTensor(data['vertices'])  # 浮点数
         faces = torch.LongTensor(data['faces'].astype(int))  # 整数
 
-        return TriangleMesh.from_tensors(vertices, faces)  # TODO:
+        return TriangleMesh.from_tensors(vertices, faces)
 
-    def compute_adjacency_matrix_sparse(self):  # 离散的邻接矩阵 #TODO:
+    def compute_adjacency_matrix_sparse(self):  # 离散的邻接矩阵
         r""" Calcualtes a sparse adjacency matrix for a mess
 
             Returns:
