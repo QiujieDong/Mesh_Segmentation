@@ -26,7 +26,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2020
 
-- **MedMeshCNN**:Lisa Schneider, Annika Niemann, Oliver Beuing, Bernhard Preim, Sylvia Saalfeld. "MedMeshCNN - Enabling MeshCNN for Medical Surface Models", arXiv(2020). [[paper]](https://arxiv.org/abs/2009.04893) [[code]](https://github.com/LSnyd/MedMeshCNN)
+- **MedMeshCNN**: Lisa Schneider, Annika Niemann, Oliver Beuing, Bernhard Preim, Sylvia Saalfeld. "MedMeshCNN - Enabling MeshCNN for Medical Surface Models", arXiv(2020). [[paper]](https://arxiv.org/abs/2009.04893) [[code]](https://github.com/LSnyd/MedMeshCNN)
 
 # 2019
 
