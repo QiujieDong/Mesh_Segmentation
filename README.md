@@ -32,6 +32,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) :star::fire:
 
+- Xiaojie Xu, Chang Liu, Youyi Zheng. "3D Tooth Segmentation and Labeling Using Deep Convolutional Neural Networks", TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8362667)
+
 # Before 2019
 
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
