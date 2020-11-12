@@ -67,6 +67,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf):fire:
 
+- **ABC**: Sebastian Koch, Albert Matveev, Zhongshi Jiang, Francis Williams, Alexey Artemov, Evgeny Burnaev, Marc Alexa, Denis Zorin, Daniele Panozzo. "ABC: A Big CAD Model Dataset For Geometric Deep Learning", CVPR(2019). [[project]](https://deep-geometry.github.io/abc-dataset/) [[paper]](https://arxiv.org/abs/1812.06216):fire:
+
 <h1> 
 
 ```diff
