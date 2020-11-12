@@ -54,6 +54,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
 
+- **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
+
 
 <h1> 
 
