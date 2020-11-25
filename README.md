@@ -36,27 +36,29 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Before 2019
 
-- **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
+- **A Survey**: Rui S. V. Rodrigues, Jos´e F. M. Morgado, Abel J. P. Gomes. "Part‐Based Mesh Segmentation: A Survey", COMPUTER GRAPHICS forum(2018). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13323)
 
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) 
 
+- **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
+
 # Related work
+
+- **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
 
 - **NVIDIAGameWorks-kaolin**: Krishna Murthy Jatavallabhula, Edward Smith, Jean-Francois Lafleche, Clement Fuji Tsang, Artem Rozantsev, Wenzheng Chen, Tommy Xiang, Rev Lebaredian, Sanja Fidler. "Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research", arXiv(2019). [[project]](https://github.com/NVIDIAGameWorks/kaolin) [[paper]](https://arxiv.org/abs/1911.05063) [[Documentation]](https://kaolin.readthedocs.io/en/latest/) :star:
 
 - **pytorch_geometric**: Matthias Fey, Jan Eric Lenssen. "Fast Graph Representation Learning with PyTorch Geometric", arXiv(2019). [[project]](https://github.com/rusty1s/pytorch_geometric) [[paper]](https://arxiv.org/abs/1903.02428) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/) :star::fire:
 
-- Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
+- **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
+
+- **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net Architecture for Medical Image Segmentation", DLMIA(2018). [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
 
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017). [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::fire:
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation", MICCAI(2015). [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
 
-- **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net Architecture for Medical Image Segmentation", DLMIA(2018). [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
-
-- **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
-
-- **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
+- Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
 
 <h1> 
