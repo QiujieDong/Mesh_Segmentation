@@ -60,6 +60,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
+- **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505)
+
 
 <h1> 
 
