@@ -30,6 +30,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2019
 
+- **DGCNN**: Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon. "Dynamic Graph CNN for Learning on Point Clouds", TOG(2019). [[project]](https://liuziwei7.github.io/projects/DGCNN) [[paper]](https://arxiv.org/abs/1801.07829) [[code]](https://github.com/WangYueFt/dgcnn) :star::fire:
+
 - **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) :star::fire:
 
 - Xiaojie Xu, Chang Liu, Youyi Zheng. "3D Tooth Segmentation and Labeling Using Deep Convolutional Neural Networks", TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8362667)
