@@ -26,6 +26,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2020
 
+- **MGCN**: Yiqun Wang, Jing Ren, Dong-Ming Yan, Jianwei Guo, Xiaopeng Zhang, Peter Wonka. "MGCN: Descriptor Learning using Multiscale GCNs", SIGGRAPH(2020). [[project]](http://www.ia.cas.cn/xwzx/kydt/202006/t20200610_5604139.html) [[paper]](https://arxiv.org/abs/2001.10472) [[code]](https://github.com/yiqun-wang/MGCN)
+
 - **MedMeshCNN**: Lisa Schneider, Annika Niemann, Oliver Beuing, Bernhard Preim, Sylvia Saalfeld. "MedMeshCNN - Enabling MeshCNN for Medical Surface Models", arXiv(2020). [[paper]](https://arxiv.org/abs/2009.04893) [[code]](https://github.com/LSnyd/MedMeshCNN)
 
 # 2019
