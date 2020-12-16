@@ -103,6 +103,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 </h1>
 
 - [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html)
+- [Xiaoguang Han](https://sse.cuhk.edu.cn/faculty/hanxiaoguang)
 - [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
 - [Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)
 - [Yongcheng Liu](https://github.com/Yochengliu/awesome-point-cloud-analysis)
