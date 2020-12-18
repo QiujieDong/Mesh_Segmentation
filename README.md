@@ -34,6 +34,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2019
 
+- **MeshNet**:  Yutong Feng, Yifan Feng, Haoxuan You, Xibin Zhao, Yue Gao. "MeshNet: Mesh Neural Network for 3D Shape Representation", AAAI(2019). [[paper]](https://arxiv.org/abs/1811.11424) [[code]](https://github.com/iMoonLab/MeshNet?utm_source=catalyzex.com) :star:
+
 - **DGCNN**: Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon. "Dynamic Graph CNN for Learning on Point Clouds", TOG(2019). [[project]](https://liuziwei7.github.io/projects/DGCNN) [[paper]](https://arxiv.org/abs/1801.07829) [[code]](https://github.com/WangYueFt/dgcnn) :star::fire:
 
 - **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network with an Edge", SIGGRAPH(2019). [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) :star::fire:
@@ -47,6 +49,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) 
 
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
+
+- Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
 
 # Related work
 
