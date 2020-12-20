@@ -81,9 +81,13 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf):fire:
+- **PartNet**:  Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su. "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding", CVPR(2019). [[project]](https://cs.stanford.edu/~kaichun/partnet/) [[paper]](https://arxiv.org/abs/1812.02713) [[video]](https://www.youtube.com/watch?v=7pEuoxmb-MI&feature=youtu.be) :fire:
 
-- **ABC**: Sebastian Koch, Albert Matveev, Zhongshi Jiang, Francis Williams, Alexey Artemov, Evgeny Burnaev, Marc Alexa, Denis Zorin, Daniele Panozzo. "ABC: A Big CAD Model Dataset For Geometric Deep Learning", CVPR(2019). [[project]](https://deep-geometry.github.io/abc-dataset/) [[paper]](https://arxiv.org/abs/1812.06216):fire:
+- **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012) :fire:
+
+- **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf) :fire:
+
+- **ABC**: Sebastian Koch, Albert Matveev, Zhongshi Jiang, Francis Williams, Alexey Artemov, Evgeny Burnaev, Marc Alexa, Denis Zorin, Daniele Panozzo. "ABC: A Big CAD Model Dataset For Geometric Deep Learning", CVPR(2019). [[project]](https://deep-geometry.github.io/abc-dataset/) [[paper]](https://arxiv.org/abs/1812.06216) :fire:
 
 <h1> 
 
