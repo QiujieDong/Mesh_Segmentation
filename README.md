@@ -83,7 +83,11 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **PartNet**:  Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su. "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding", CVPR(2019). [[project]](https://cs.stanford.edu/~kaichun/partnet/) [[paper]](https://arxiv.org/abs/1812.02713) [[video]](https://www.youtube.com/watch?v=7pEuoxmb-MI&feature=youtu.be) :fire:
 
+- **HumanSeg**: Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G Kim, and Yaron Lipman. "Convolutional neural networks on surfaces via seamless toric covers", ACM Trans. Graph.(2017). [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) :fire:
+
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012) :fire:
+
+- **COSEG**: Yunhai Wang, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, Baoquan Chen. "Active co-analysis of a set of shapes", SIGGRAPH Asia(2012). [[projecy]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) :fire:
 
 - **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf) :fire:
 
