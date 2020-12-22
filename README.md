@@ -34,6 +34,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2019
 
+- **BAE-Net**: Chen Zhiqin, Yin Kangxue, Fisher Matthew, Chaudhuri Siddhartha, Zhang Hao. "Bae-net: Branched autoencoder for shape co-segmentation", ICCV(2019). [[paper]](https://arxiv.org/abs/1903.11228) [[code]](https://github.com/czq142857/BAE-NET?utm_source=catalyzex.com)
+
 - **MeshNet**:  Yutong Feng, Yifan Feng, Haoxuan You, Xibin Zhao, Yue Gao. "MeshNet: Mesh Neural Network for 3D Shape Representation", AAAI(2019). [[paper]](https://arxiv.org/abs/1811.11424) [[code]](https://github.com/iMoonLab/MeshNet?utm_source=catalyzex.com) :star:
 
 - **DGCNN**: Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon. "Dynamic Graph CNN for Learning on Point Clouds", TOG(2019). [[project]](https://liuziwei7.github.io/projects/DGCNN) [[paper]](https://arxiv.org/abs/1801.07829) [[code]](https://github.com/WangYueFt/dgcnn) :star::fire:
