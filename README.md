@@ -87,7 +87,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012) :fire:
 
-- **COSEG**: Yunhai Wang, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, Baoquan Chen. "Active co-analysis of a set of shapes", SIGGRAPH Asia(2012). [[projecy]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) :fire:
+- **COSEG**: Yunhai Wang, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, Baoquan Chen. "Active co-analysis of a set of shapes", SIGGRAPH Asia(2012). [[project]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) :fire:
 
 - **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM Transactions on Graphics(2009). [[project]](https://segeval.cs.princeton.edu/) [[paper]](https://segeval.cs.princeton.edu/public/paper.pdf) :fire:
 
