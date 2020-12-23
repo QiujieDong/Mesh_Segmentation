@@ -105,9 +105,9 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html):Hung-yi Lee
-- [数字几何处理](https://www.bilibili.com/video/BV1B54y1B7Uc):Xiao-Ming Fu
-- [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr):Ligang Liu
+- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html): Hung-yi Lee
+- [数字几何处理](https://www.bilibili.com/video/BV1B54y1B7Uc): Xiao-Ming Fu
+- [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr): Ligang Liu
 
 
 <h1> 
