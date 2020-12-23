@@ -2,7 +2,7 @@
 
 ## run the training
 python train.py \
---dataroot /data/MeshCNN/coseg_aliens \
+--dataroot /data/COSEG/coseg_aliens \
 --name coseg_aliens \
 --arch meshunet \
 --dataset_mode segmentation \
@@ -14,6 +14,7 @@ python train.py \
 --batch_size 12 \
 --num_aug 20 \
 --slide_verts 0.2 \
+--gpu_ids 1\
 
 
 #

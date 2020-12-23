@@ -3,7 +3,7 @@
 ## run the training
 
 python train.py \
---dataroot /data/MeshCNN/human_seg \
+--dataroot /data/humanSeg \
 --name human_seg \
 --arch meshunet \
 --dataset_mode segmentation \
