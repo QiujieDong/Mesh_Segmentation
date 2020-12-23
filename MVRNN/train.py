@@ -20,7 +20,7 @@ import network as model
 # DEFAULT SETTINGS
 parser = argparse.ArgumentParser()
 parser.add_argument('--gpu', type=int, default=1, help='GPU to use [default: GPU 0]')
-parser.add_argument('--batch', type=int, default=2, help='Batch Size during training [default: 16]')
+parser.add_argument('--batch', type=int, default=16, help='Batch Size during training [default: 16]')
 parser.add_argument('--epoch', type=int, default=5000, help='Epoch to run [default: 50]')
 parser.add_argument('--output_dir', type=str, default='train_results', help='Directory that stores all training logs and trained models')
 parser.add_argument('--wd', type=float, default=0, help='Weight Decay [Default: 0.0]')
