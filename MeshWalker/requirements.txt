@@ -1,0 +1,17 @@
+tensorflow==2.2.0
+tensorflow-addons==0.8.3
+open3d==0.8.0.0
+easydict
+h5py
+ipython
+matplotlib==3.*
+networkx==2.*
+psutil
+scikit-learn==0.22.*
+scipy==1.*
+tqdm
+trimesh==3.*
+pyvista==0.24.*
+pydot
+graphviz
+opencv-python==4.*
