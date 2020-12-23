@@ -32,6 +32,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MedMeshCNN**: Lisa Schneider, Annika Niemann, Oliver Beuing, Bernhard Preim, Sylvia Saalfeld. "MedMeshCNN - Enabling MeshCNN for Medical Surface Models", arXiv(2020). [[paper]](https://arxiv.org/abs/2009.04893) [[code]](https://github.com/LSnyd/MedMeshCNN)
 
+- **MeshWalker**: Alon Lahav, Ayellet Tal. "MeshWalker: Deep Mesh Understanding by Random Walks", SIGGRAPH Asia(2020). [[paper]](https://arxiv.org/abs/2006.05353) [[code]](https://github.com/AlonLahav/MeshWalker?utm_source=catalyzex.com)
+
 # 2019
 
 - **BAE-Net**: Chen Zhiqin, Yin Kangxue, Fisher Matthew, Chaudhuri Siddhartha, Zhang Hao. "Bae-net: Branched autoencoder for shape co-segmentation", ICCV(2019). [[paper]](https://arxiv.org/abs/1903.11228) [[code]](https://github.com/czq142857/BAE-NET?utm_source=catalyzex.com)
