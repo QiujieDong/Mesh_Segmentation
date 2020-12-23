@@ -1,0 +1,14 @@
+name: meshcnn
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8.5
+  - cython=0.27.3
+  - pytorch=1.4.0
+  - numpy=1.19.1
+  - matplotlib=3.3.1
+  - pip
+  - pip:
+    - git+https://github.com/lanpa/tensorboardX.git
+    - pytest==5.1.1
