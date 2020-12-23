@@ -1,8 +1,10 @@
 # A Multi-view Recurrent Neural Network for 3D Mesh Segmentation
 
 ## Prerequisites:
-1. Python (with necessary common libraries such as numpy, scipy, etc.)
-2. TensorFlow
+1. Python=3.6
+2. tensorflow-gpu==1.10.0
+3. scipy==0.19.1
+4. scikit-image==0.13.0
 
 ## Train:
 	Extract data
