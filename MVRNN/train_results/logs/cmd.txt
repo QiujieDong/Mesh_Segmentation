@@ -1,1 +1,1 @@
-Namespace(batch=16, epoch=5000, gpu=1, output_dir='train_results', wd=0)
+Namespace(batch=2, epoch=5000, gpu=1, output_dir='train_results', wd=0)
