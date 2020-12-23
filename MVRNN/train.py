@@ -22,7 +22,7 @@ sys.path.append(os.path.dirname(BASE_DIR))
 parser = argparse.ArgumentParser()
 parser.add_argument('--gpu', type=int, default=1,
                     help='GPU to use [default: GPU 0]')
-parser.add_argument('--batch', type=int, default=2,
+parser.add_argument('--batch', type=int, default=1,
                     help='Batch Size during training [default: 16]')
 parser.add_argument('--epoch', type=int, default=5000,
                     help='Epoch to run [default: 50]')
@@ -191,8 +191,10 @@ def train():
             loss_acc = 0.0
             display_mark = max([num_batch // 4, 1])
             for i in tqdm.trange(num_batch):
+                # print('go loss val')
                 _, loss_val = sess.run([train_step, loss], feed_dict={
                                        is_training_ph: is_training})
+                # print('end loss val')
                 loss_acc += loss_val
                 if ((i+1) % display_mark == 0):
                     printout(flog, 'Epoch %3d/%3d - Iter %4d/%d' %

@@ -5,6 +5,7 @@
 2. tensorflow-gpu==1.10.0
 3. scipy==0.19.1
 4. scikit-image==0.13.0
+5. GPU 2080Ti
 
 ## Train:
 	Extract data

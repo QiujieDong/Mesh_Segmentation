@@ -1,0 +1,24 @@
+
+>>> Training for the epoch 1/5000 ...
+Epoch   1/5000 - Iter   76/304
+total loss: 8.696456
+Epoch   1/5000 - Iter  152/304
+total loss: 5.175141
+Epoch   1/5000 - Iter  228/304
+total loss: 4.383340
+Epoch   1/5000 - Iter  304/304
+total loss: 4.042015
+	Mean total Loss: 4.042015
+Successfully store the checkpoint model into train_results/trained_models/epoch_1.ckpt
+
+>>> Training for the epoch 2/5000 ...
+Epoch   2/5000 - Iter   76/304
+total loss: 2.853746
+Epoch   2/5000 - Iter  152/304
+total loss: 2.323070
+Epoch   2/5000 - Iter  228/304
+total loss: 3.593756
+Epoch   2/5000 - Iter  304/304
+total loss: 4.396944
+	Mean total Loss: 4.396944
+Successfully store the checkpoint model into train_results/trained_models/epoch_2.ckpt
