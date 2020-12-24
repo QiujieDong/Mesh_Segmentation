@@ -56,6 +56,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
 
+- **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
+
 # Related work
 
 - **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
@@ -66,13 +68,15 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
 
+- **Pvnet**: Haoxuan You, Yifan Feng, Rongrong Ji, Yue Gao. "PVNet: A Joint Convolutional Network of Point Cloud and Multi-View for 3D Shape Recognition", ACM MM(2018). [[paper]](https://arxiv.org/abs/1808.07659)
+
 - **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net Architecture for Medical Image Segmentation", DLMIA(2018). [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
 
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017). [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::fire:
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation", MICCAI(2015). [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
 
-- Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", IEEE Transactions on Visualization and Computer Graphics(2007). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
+- Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
 
