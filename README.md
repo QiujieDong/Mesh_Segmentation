@@ -26,6 +26,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2020
 
+- **CurvaNet**: Wenchong He, Zhe Jiang, Chengming Zhang, Arpan Man Sainju. "CurvaNet: Geometric Deep Learning based on Directional Curvature for 3D Shape Analysis", KDD(2020). [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403272)
+
 - **MeshSegNet**: Chunfeng Lian, Li Wang, Tai-Hsien Wu, Fan Wang, Pew-Thian Yap, Ching-Chang Ko, Dinggang Shen. "Deep Multi-Scale Mesh Feature Learning for Automated Labeling of Raw Dental Surfaces From 3D Intraoral Scanners", MICCAI(2019) and TMI(2020). [[paper]](https://ieeexplore.ieee.org/abstract/document/8984309) [[code]](https://github.com/Tai-Hsien/MeshSegNet)
 
 - **MGCN**: Yiqun Wang, Jing Ren, Dong-Ming Yan, Jianwei Guo, Xiaopeng Zhang, Peter Wonka. "MGCN: Descriptor Learning using Multiscale GCNs", SIGGRAPH(2020). [[project]](http://www.ia.cas.cn/xwzx/kydt/202006/t20200610_5604139.html) [[paper]](https://arxiv.org/abs/2001.10472) [[code]](https://github.com/yiqun-wang/MGCN)
