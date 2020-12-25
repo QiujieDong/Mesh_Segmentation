@@ -1,5 +1,5 @@
-MeshCNN/checkpoints/human_seg/*_net.pth
-MeshCNN/checkpoints/human_seg/meshes
+MeshCNN/checkpoints/*/*_net.pth
+MeshCNN/checkpoints/*/meshes
 MeshCNN/runs
 MVRNN/data
 MVRNN/train_results/trained_models
