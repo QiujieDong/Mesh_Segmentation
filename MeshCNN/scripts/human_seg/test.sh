@@ -2,7 +2,7 @@
 
 ## run the test and export collapses
 python test.py \
---dataroot /data/MeshCNN/human_seg \
+--dataroot /data/humanSeg \
 --name human_seg \
 --arch meshunet \
 --dataset_mode segmentation \

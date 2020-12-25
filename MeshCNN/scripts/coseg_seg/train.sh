@@ -2,8 +2,8 @@
 
 ## run the training
 python train.py \
---dataroot /data/COSEG/coseg_aliens \
---name coseg_aliens \
+--dataroot /data/COSEG/coseg_vases \
+--name coseg_vases \
 --arch meshunet \
 --dataset_mode segmentation \
 --ncf 32 64 128 256 \
@@ -14,7 +14,7 @@ python train.py \
 --batch_size 12 \
 --num_aug 20 \
 --slide_verts 0.2 \
---gpu_ids 1\
+--gpu_ids 3\
 
 
 #

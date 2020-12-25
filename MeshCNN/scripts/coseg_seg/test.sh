@@ -2,8 +2,8 @@
 
 ## run the test and export collapses
 python test.py \
---dataroot /data/MeshCNN/coseg_aliens \
---name coseg_aliens \
+--dataroot /data/COSEG/coseg_vases \
+--name coseg_vases \
 --arch meshunet \
 --dataset_mode segmentation \
 --ncf 32 64 128 256 \
