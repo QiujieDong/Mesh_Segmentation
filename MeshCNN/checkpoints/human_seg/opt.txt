@@ -1,0 +1,44 @@
+------------ Options -------------
+arch: meshunet
+batch_size: 12
+beta1: 0.9
+checkpoints_dir: ./checkpoints
+continue_train: False
+dataroot: /data/humanSeg
+dataset_mode: segmentation
+epoch_count: 1
+export_folder: 
+fc_n: 100
+flip_edges: 0
+gpu_ids: [3]
+init_gain: 0.02
+init_type: normal
+is_train: True
+lr: 0.001
+lr_decay_iters: 50
+lr_policy: lambda
+max_dataset_size: inf
+name: human_seg
+ncf: [32, 64, 128, 256]
+ninput_edges: 2280
+niter: 100
+niter_decay: 500
+no_vis: False
+norm: batch
+num_aug: 20
+num_groups: 16
+num_threads: 3
+phase: train
+pool_res: [1800, 1350, 600]
+print_freq: 10
+resblocks: 3
+run_test_freq: 1
+save_epoch_freq: 1
+save_latest_freq: 250
+scale_verts: False
+seed: None
+serial_batches: False
+slide_verts: 0.2
+verbose_plot: False
+which_epoch: latest
+-------------- End ----------------
