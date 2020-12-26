@@ -2,4 +2,4 @@
 
 python util/mesh_viewer.py \
 --files \
-checkpoints/human_seg/meshes/*.obj
+checkpoints/human_seg/meshes/shrec__20_0.obj
