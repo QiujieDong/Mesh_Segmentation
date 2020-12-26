@@ -1,5 +1,6 @@
 MeshCNN/checkpoints/*/*_net.pth
 MeshCNN/checkpoints/*/meshes
+MeshCNN/view_result
 MeshCNN/runs
 MVRNN/data
 MVRNN/train_results/trained_models
