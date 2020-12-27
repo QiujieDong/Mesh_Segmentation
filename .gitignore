@@ -6,6 +6,6 @@ MVRNN/data
 MVRNN/train_results/trained_models
 Graph-U-Nets/data
 MedMeshCNN/checkpoints
-!MeshWalker/pretrained
-!MeshWalker/pretrained/0010-15.11.2020..0525_human_seg
-MeshWalker/pretrained
+!/MeshWalker/pretrained/
+/MeshWalker/pretrained/*
+!/MeshWalker/pretrained/0010-15.11.2020..05.25__human_seg/
