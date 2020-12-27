@@ -2,7 +2,7 @@
 
 ## run the training
 python3 train.py \
---dataroot datasets/human_seg \
+--dataroot /data/humanSeg \
 --name human_seg \
 --arch meshunet \
 --dataset_mode segmentation \
@@ -15,6 +15,6 @@ python3 train.py \
 --lr 0.001 \
 --num_aug 20 \
 --slide_verts 0.2 \
---gpu_ids -1 \
+--gpu_ids 1 \
 --verbose_plot \
 --weighted_loss 0.125 0.125 0.125 0.125 0.125 0.125 0.125 0.125 \

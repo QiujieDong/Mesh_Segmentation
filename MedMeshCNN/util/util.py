@@ -39,27 +39,28 @@ def seg_accuracy(predicted, ssegs, meshes):
 
 
 def intersection_over_union(preds, target, num_classes):
-    preds, target = torch.nn.functional.one_hot(preds, num_classes), torch.nn.functional.one_hot(target, num_classes)
+    preds, target = torch.nn.functional.one_hot(
+        preds, num_classes), torch.nn.functional.one_hot(target, num_classes)
     iou = torch.zeros(num_classes, dtype=torch.float32)
     for idx, pred in enumerate(preds):
-            i = (pred & target[idx]).sum(dim=0)
-            u = (pred | target[idx]).sum(dim=0)
-            iou = iou.add(i.cpu().to(torch.float) / u.cpu().to(torch.float))
+        i = (pred & target[idx]).sum(dim=0)
+        u = (pred | target[idx]).sum(dim=0)
+        iou = iou.add(i.cpu().to(torch.float) / u.cpu().to(torch.float))
     return iou
 
 
 def mean_iou_calc(pred, target, num_classes):
-    #Removal of padded labels marked with -1
+    # Removal of padded labels marked with -1
     slimpred = []
     slimtarget = []
 
     for batch in range(pred.shape[0]):
         if (target[batch] == -1).any():
-            slimLabels = target[batch][target[batch]!=-1]
+            slimLabels = target[batch][target[batch] != -1]
             slimtarget.append(slimLabels)
             slimpred.append(pred[batch][:slimLabels.size()[0]])
 
-    pred = torch.stack(slimpred,0)
+    pred = torch.stack(slimpred, 0)
     target = torch.stack(slimtarget, 0)
 
     iou = intersection_over_union(pred, target, num_classes)
@@ -111,30 +112,30 @@ def pad_with(vector, pad_width, iaxis, kwargs):
     vector[-pad_width[1]:] = pad_value
 
 
-
-
-
 def myindexrowselect(groups, mask_index, device):
 
     sparseIndices = groups._indices()
     newIndices = []
 
     for i, value in enumerate(mask_index):
-        #Get index from relevant indices
+        # Get index from relevant indices
         index = (sparseIndices[0] == value).nonzero()
 
-        #Get rows by index
+        # Get rows by index
         sparseRow = [sparseIndices[:, value] for value in index]
-        sparseRow = torch.cat(sparseRow,1)[1]
-        singleRowIndices = torch.squeeze(torch.full((1,len(sparseRow)),i, dtype=torch.long),0).to(sparseRow.device)
-        indices = torch.stack((singleRowIndices,sparseRow))
+        sparseRow = torch.cat(sparseRow, 1)[1]
+        singleRowIndices = torch.squeeze(torch.full(
+            (1, len(sparseRow)), i, dtype=torch.long), 0).to(sparseRow.device)
+        indices = torch.stack((singleRowIndices, sparseRow))
         newIndices.append(indices)
 
-        allNewIndices = torch.cat(newIndices,1)
+        allNewIndices = torch.cat(newIndices, 1)
 
-    #Create new tensor
+    # Create new tensor
     groups = torch.sparse_coo_tensor(indices=allNewIndices,
-                                     values=torch.ones(allNewIndices.shape[1], dtype=torch.float),
+                                     values=torch.ones(allNewIndices.shape[1]),
+                                     dtype=torch.float,
+                                     device='cuda:1',
                                      size=(len(mask_index), groups.shape[1]))
 
     return groups
