@@ -5,3 +5,4 @@ MeshCNN/runs
 MVRNN/data
 MVRNN/train_results/trained_models
 Graph-U-Nets/data
+MedMeshCNN/checkpoints
