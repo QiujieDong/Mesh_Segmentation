@@ -1,0 +1,73 @@
+{
+  "adjust_vertical_model": false,
+  "batch_size": 8,
+  "classes_indices_to_use": null,
+  "cont_run_number": 0,
+  "cycle_opt_prms": {
+    "initial_learning_rate": 1e-06,
+    "maximal_learning_rate": 0.0001,
+    "step_size": 10000
+  },
+  "datasets2use": {
+    "test": [
+      "datasets_processed/human_seg_from_meshcnn/*test*.npz"
+    ],
+    "train": [
+      "datasets_processed/human_seg_from_meshcnn/*train*.npz"
+    ]
+  },
+  "full_accuracy_test": {
+    "dataset_expansion": "datasets_processed/human_seg_from_meshcnn/*test*.npz",
+    "n_iters": 32
+  },
+  "gradient_clip_th": 1,
+  "initializers": "orthogonal",
+  "iters_to_train": 100000.0,
+  "last_layer_actication": "softmax",
+  "layer_sizes": null,
+  "learning_rate_dynamics": "cycle",
+  "log_freq": 100,
+  "logdir": "runs/0010-15.11.2020..05.25__human_seg",
+  "min_seq_len": 150,
+  "model_fn": "runs/0010-15.11.2020..05.25__human_seg/learned_model.keras",
+  "n_classes": 9,
+  "n_models_per_test_epoch": 300,
+  "n_walks_per_model": 4,
+  "net": "RnnWalkNet",
+  "net_gru_dropout": 0,
+  "net_input": [
+    "dxdydz"
+  ],
+  "net_start_from_prev_net": null,
+  "network_task": "semantic_segmentation",
+  "network_tasks": [
+    "semantic_segmentation"
+  ],
+  "normalize_model": true,
+  "one_label_per_model": false,
+  "optimizer_type": "cycle",
+  "run_root_path": "runs",
+  "seq_len": 300,
+  "sub_mean_for_data_augmentation": true,
+  "test_data_augmentation": {},
+  "test_dataset_size_limit": Infinity,
+  "test_min_max_faces2use": [
+    0,
+    Infinity
+  ],
+  "train_data_augmentation": {
+    "rotation": 360
+  },
+  "train_dataset_size_limit": Infinity,
+  "train_loss": [
+    "cros_entr"
+  ],
+  "train_max_size_per_class": null,
+  "train_min_max_faces2use": [
+    0,
+    Infinity
+  ],
+  "uniform_starting_point": false,
+  "use_norm_layer": "InstanceNorm",
+  "walk_alg": "random_global_jumps"
+}
