@@ -132,10 +132,11 @@ def myindexrowselect(groups, mask_index, device):
         allNewIndices = torch.cat(newIndices, 1)
 
     # Create new tensor
+    # add "device='cuda:1'"
     groups = torch.sparse_coo_tensor(indices=allNewIndices,
                                      values=torch.ones(allNewIndices.shape[1]),
                                      dtype=torch.float,
-                                     device='cuda:1',
+                                     device='cuda:0',
                                      size=(len(mask_index), groups.shape[1]))
 
     return groups
