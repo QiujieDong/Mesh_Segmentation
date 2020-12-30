@@ -9,3 +9,4 @@ MedMeshCNN/checkpoints
 !/MeshWalker/pretrained/
 /MeshWalker/pretrained/*
 !/MeshWalker/pretrained/0010-15.11.2020..05.25__human_seg/
+/MeshWalker/datasets_processed
