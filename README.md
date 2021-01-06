@@ -50,6 +50,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Before 2019
 
+- George David, Xie Xianghua, Tam Gary KL. "3D mesh segmentation via multi-branch 1D convolutional neural networks", GM(2018). [[paper]](https://arxiv.org/abs/1705.11050)
+
 - **A Survey**: Rui S. V. Rodrigues, Jos´e F. M. Morgado, Abel J. P. Gomes. "Part‐Based Mesh Segmentation: A Survey", COMPUTER GRAPHICS forum(2018). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13323)
 
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) 
@@ -61,6 +63,14 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
 
 # Related work
+
+- Hsueh-Ti Derek Liu, Vladimir G. Kim, Siddhartha Chaudhuri, Noam Aigerman, Alec Jacobson. "Neural Subdivision", SIGGRAPH(2020). [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
+
+- **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688)
+
+- **FPCC-Net**: Yajun Xu, Shogo Arai, Diyi Liu, Fangzhou Lin, Kazuhiro Kosuge. "FPCC-Net: Fast Point Cloud Clustering for Instance Segmentation", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.14618)
+
+- **Deep snake**: Peng Sida, Jiang Wen, Pi Huaijin, Li Xiuli, Bao Hujun, Zhou Xiaowei. "Deep Snake for Real-Time Instance Segmentation", CVPR(2020). [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Deep_Snake_for_Real-Time_Instance_Segmentation_CVPR_2020_paper.pdf) [[code]](https://github.com/zju3dv/snake/?utm_source=catalyzex.com) :star:
 
 - **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
 
