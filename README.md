@@ -58,6 +58,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
 
+- Hu Ruizhen, Fan Lubin, Liu Ligang. "Co‐segmentation of 3d shapes via subspace clustering", CGF(2012). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03175.x) :fire:
+
 - Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
 
 - **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
@@ -79,6 +81,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **pytorch_geometric**: Matthias Fey, Jan Eric Lenssen. "Fast Graph Representation Learning with PyTorch Geometric", arXiv(2019). [[project]](https://github.com/rusty1s/pytorch_geometric) [[paper]](https://arxiv.org/abs/1903.02428) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/) :star::fire:
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
+
+- Kanezaki Asako. "Unsupervised image segmentation by backpropagation", ICASSP(2018). [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533)
 
 - **Pvnet**: Haoxuan You, Yifan Feng, Rongrong Ji, Yue Gao. "PVNet: A Joint Convolutional Network of Point Cloud and Multi-View for 3D Shape Recognition", ACM MM(2018). [[paper]](https://arxiv.org/abs/1808.07659)
 
