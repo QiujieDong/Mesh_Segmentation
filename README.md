@@ -56,6 +56,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) 
 
+- **A Survey**: Medhat Rashad, Mohamed Khamiss, Mohamed MOUSA. "A Review on Mesh Segmentation Techniques", IJEIT(2017). [[paper]](https://www.researchgate.net/profile/Ke_Wu41/publication/320551773_A_Review_on_Mesh_Segmentation_Techniques/links/59eb9b25a6fdccef8b0c5b3f/A-Review-on-Mesh-Segmentation-Techniques.pdf)
+
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
 
 - Hu Ruizhen, Fan Lubin, Liu Ligang. "Co‐segmentation of 3d shapes via subspace clustering", CGF(2012). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03175.x) :fire:
