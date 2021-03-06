@@ -38,6 +38,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2019
 
+- **VoxSegNet**: Zongji Wang, Feng Lu. "VoxSegNet: Volumetric CNNs for Semantic Part Segmentation of 3D Shapes", TVCG(2019). [[paper]](https://arxiv.org/abs/1809.00226) [[code]](https://github.com/screnary/VoxSegNet)
+
 - **BAE-Net**: Chen Zhiqin, Yin Kangxue, Fisher Matthew, Chaudhuri Siddhartha, Zhang Hao. "Bae-net: Branched autoencoder for shape co-segmentation", ICCV(2019). [[paper]](https://arxiv.org/abs/1903.11228) [[code]](https://github.com/czq142857/BAE-NET?utm_source=catalyzex.com)
 
 - **MeshNet**:  Yutong Feng, Yifan Feng, Haoxuan You, Xibin Zhao, Yue Gao. "MeshNet: Mesh Neural Network for 3D Shape Representation", AAAI(2019). [[paper]](https://arxiv.org/abs/1811.11424) [[code]](https://github.com/iMoonLab/MeshNet?utm_source=catalyzex.com) :star:
@@ -48,23 +50,55 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - Xiaojie Xu, Chang Liu, Youyi Zheng. "3D Tooth Segmentation and Labeling Using Deep Convolutional Neural Networks", TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8362667)
 
+- Zhao Wang; Li Chen. "Mesh Segmentation for High Resolution Medical Data", CISP-BMEI(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8966067)
+
 # Before 2019
 
 - George David, Xie Xianghua, Tam Gary KL. "3D mesh segmentation via multi-branch 1D convolutional neural networks", GM(2018). [[paper]](https://arxiv.org/abs/1705.11050)
 
 - **A Survey**: Rui S. V. Rodrigues, Jos´e F. M. Morgado, Abel J. P. Gomes. "Part‐Based Mesh Segmentation: A Survey", COMPUTER GRAPHICS forum(2018). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13323)
 
+- Pengyu Wang, Yuan Gan, Panpan Shui, Fenggen Yu, Yan Zhang, Songle Chen, Zhengxing Sun. "3D Shape Segmentation via Shape Fully Convolutional Networks", CG(2018). [[paper]](https://arxiv.org/abs/1702.08675) [[code]](https://github.com/yuangan/3D-Shape-Segmentation-via-Shape-Fully-Convolutional-Networks)
+
+- **Pointgrid**: Truc Le, Ye Duan. "Pointgrid: A deep network for 3d shape understanding", CVPR(2018). [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Le_PointGrid_A_Deep_CVPR_2018_paper.html) [[code_PyTorch]](https://github.com/tommycwh/PointGrid_PyTorch) [[code_TensorFlow]](https://github.com/trucleduc/PointGrid) :fire:
+
+- **PointCNN**: Yangyan Li, Rui Bu, Mingchao Sun, Wei Wu, Xinhan Di, Baoquan Chen. "PointCNN: Convolution On X-Transformed Points", NIPS(2018). [[paper]](https://arxiv.org/abs/1801.07791) [[code]](https://github.com/yangyanli/PointCNN?utm_source=catalyzex.com) :star::fire:
+
+- Haotian Xu, Ming Dong, Zichun Zhong. "Directionally convolutional networks for 3d shape segmentation", ICCV(2017). [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Xu_Directionally_Convolutional_Networks_ICCV_2017_paper.html)
+
+- Shubham Tulsiani, Hao Su, Leonidas J. Guibas, Alexei A. Efros, Jitendra Malik. "Learning shape abstractions by assembling volumetric primitives", CVPR(2017). [[project]](https://shubhtuls.github.io/volumetricPrimitives/?utm_source=catalyzex.com) [[paper]](https://arxiv.org/abs/1612.00404) [[code]](https://github.com/shubhtuls/volumetricPrimitives) :star::fire:
+
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers & Graphics(2017). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849317300602) [[code]](https://github.com/trucleduc/MVRNN) 
 
 - **A Survey**: Medhat Rashad, Mohamed Khamiss, Mohamed MOUSA. "A Review on Mesh Segmentation Techniques", IJEIT(2017). [[paper]](https://www.researchgate.net/profile/Ke_Wu41/publication/320551773_A_Review_on_Mesh_Segmentation_Techniques/links/59eb9b25a6fdccef8b0c5b3f/A-Review-on-Mesh-Segmentation-Techniques.pdf)
 
+- **ShapePFCN**: Evangelos Kalogerakis, Melinos Averkiou, Subhransu Maji, Siddhartha Chaudhuri. "3D Shape Segmentation with Projective Convolutional Networks", CVPR(2017). [[project]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Kalogerakis_3D_Shape_Segmentation_CVPR_2017_paper.html) [[code]](https://github.com/kalov/ShapePFCN?utm_source=catalyzex.com) :fire:
+
+- Panagiotis Theologou, Ioannis Pratikakis, Theoharis Theoharis. "Unsupervised spectral mesh segmentation driven by heterogeneous graphs", TPAMI(2016). [[paper]](https://ieeexplore.ieee.org/abstract/document/7437462)
+
+- Zhenyu Shu, Chengwu Qi, Shiqing Xin, Chao Hu, Li Wang, Yu Zhang, Ligang Liu. "Unsupervised 3D shape segmentation and co-segmentation via deep learning", CAGD(2016). [[paper]](https://www.sciencedirect.com/science/article/pii/S0167839616300164) :fire:
+
+- Kan Guo, Dongqing Z, Xiaowu Chen. "3D Mesh Labeling via Deep Convolutional Neural Networks", TOG(2015). [[paper]](https://dl.acm.org/doi/abs/10.1145/2835487) :fire:
+
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
 
+- Zhige Xie, Kai Xu, Ligang Liu, Yueshan Xiong. "3D Shape Segmentation and Labeling via Extreme Learning Machine", CGF(2014). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12434) :fire:
+
+- Zizhao Wu, Yunhai Wang, Ruyang Shou, Baoquan Chen, Xinguo Liu. "Unsupervised co-segmentation of 3D shapes via affinity aggregation spectral clustering", CG(2013). [[paper]](https://www.sciencedirect.com/science/article/pii/S0097849313000897)
+
+- Yunhai Wang, Minglun Gong, Tianhua Wang, Daniel Cohen-Or, Hao Zhang, Baoquan Chen. "Projective analysis for 3D shape segmentation", TOG(2013). [[paper]](https://dl.acm.org/doi/abs/10.1145/2508363.2508393) :fire:
+
+- Jiajun Lv, Xinlei Chen, Jin Huang, Hujun Bao. "Semi-supervised Mesh Segmentation and Labeling", CGF(2012). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03217.x)
+
 - Hu Ruizhen, Fan Lubin, Liu Ligang. "Co‐segmentation of 3d shapes via subspace clustering", CGF(2012). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03175.x) :fire:
+
+- Jun Wang, Zeyun Yu. "Surface feature based mesh segmentation", CG(2011). [[paper]](https://www.sciencedirect.com/science/article/pii/S0097849311000550)
 
 - Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
 
 - **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
+
+- Sagi Katz, George Leifman, Ayellet Tal. "Mesh segmentation using feature point and core extraction", TVC(2005). [[paper]](https://link.springer.com/article/10.1007/s00371-005-0344-9) :fire:
 
 # Related work
 
@@ -86,7 +120,9 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
 
-- Kanezaki Asako. "Unsupervised image segmentation by backpropagation", ICASSP(2018). [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533)
+- Adrien Poulenard, Maks Ovsjanikov. "Multi-directional geodesic neural networks via equivariant convolution", TOG(2018). [[paper]](https://dl.acm.org/doi/abs/10.1145/3272127.3275102)
+
+- Asako Kanezaki. "Unsupervised Image Segmentation by Backpropagation", ICASSP(2018). [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533) [[code]](https://github.com/kanezaki/pytorch-unsupervised-segmentation) [[code_2]](https://github.com/Yonv1943/Unsupervised-Segmentation) :star::fire:
 
 - **Pvnet**: Haoxuan You, Yifan Feng, Rongrong Ji, Yue Gao. "PVNet: A Joint Convolutional Network of Point Cloud and Multi-View for 3D Shape Recognition", ACM MM(2018). [[paper]](https://arxiv.org/abs/1808.07659)
 
