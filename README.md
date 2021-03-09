@@ -27,7 +27,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 Run the code on my PC and add some Chinese comments.
 
-- 
+- [[MeshCNN_COPY]](https://github.com/QiujieDong/MeshCNN_COPY)
 
 <h1> 
 
