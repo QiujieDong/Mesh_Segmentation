@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mesh_Segmentation
 I hope the branch can help anyone who wants to do research about mesh segmentation.
 
