@@ -327,6 +327,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
 
+- **MA-Unet**: Yutong Cai, Yong Wang. "MA-Unet: An improved version of Unet based on multi-scale and attention mechanism for medical image segmentation", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.10952)
+
 - **CfS-CNN**: Ran Song, Yonghuai Liu, Paul L. Rosin. "Mesh Saliency via Weakly Supervised Classification-for-Saliency CNN", TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8765747/authors#authors)
 
 - **NVIDIAGameWorks-kaolin**: Krishna Murthy Jatavallabhula, Edward Smith, Jean-Francois Lafleche, Clement Fuji Tsang, Artem Rozantsev, Wenzheng Chen, Tommy Xiang, Rev Lebaredian, Sanja Fidler. "Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research", arXiv(2019). [[project]](https://github.com/NVIDIAGameWorks/kaolin) [[paper]](https://arxiv.org/abs/1911.05063) [[Documentation]](https://kaolin.readthedocs.io/en/latest/) :star:
