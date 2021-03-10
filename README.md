@@ -115,6 +115,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **A Survey**: Yong He, Hongshan Yu, Xiaoyan Liu, Zhengeng Yang, Wei Sun, Yaonan Wang, Qiang Fu, Yanmei Zou, Ajmal Main. "Deep Learning based 3D Segmentation: A Survey", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.05423)
+
 - Hsueh-Ti Derek Liu, Vladimir G. Kim, Siddhartha Chaudhuri, Noam Aigerman, Alec Jacobson. "Neural Subdivision", SIGGRAPH(2020). [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
 
 - **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688)
