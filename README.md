@@ -117,9 +117,11 @@ Run the code on my PC and add some Chinese comments.
 
 - **A Survey**: Yong He, Hongshan Yu, Xiaoyan Liu, Zhengeng Yang, Wei Sun, Yaonan Wang, Qiang Fu, Yanmei Zou, Ajmal Main. "Deep Learning based 3D Segmentation: A Survey", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.05423)
 
+- **U-Net Transformer**: Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler. "U-Net Transformer: Self and Cross Attention for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06104)
+
 - **Gatcluster**: Chuang Niu, Jun Zhang, Ge Wang, Jimin Liang. "Gatcluster: Self-supervised gaussian-attention network for image clustering", ECCV(2020). [[paper]](https://arxiv.org/abs/2002.11863) [[code]](https://github.com/niuchuangnn/GATCluster?utm_source=catalyzex.com)
 
-- **U-Net Transformer**: Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler. "U-Net Transformer: Self and Cross Attention for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06104)
+- **KingdraCluster**: Divam Gupta, Ramachandran Ramjee, Nipun Kwatra, Muthian Sivathanu. "Unsupervised Clustering using Pseudo-semi-supervised Learning", ICLR(2020). [[project]](https://divamgupta.com/pseudo-semi-supervised-clustering) [[Blog]](https://divamgupta.com/unsupervised-learning/2020/10/31/pseudo-semi-supervised-learning-for-unsupervised-clustering.html) [[paper]](https://openreview.net/forum?id=rJlnxkSYPS) [[code]](https://github.com/divamgupta/deep-clustering-kingdra)
 
 - Hsueh-Ti Derek Liu, Vladimir G. Kim, Siddhartha Chaudhuri, Noam Aigerman, Alec Jacobson. "Neural Subdivision", SIGGRAPH(2020). [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
 
