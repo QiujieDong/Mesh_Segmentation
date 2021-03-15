@@ -121,6 +121,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Maximilian Durner, Wout Boerdijk, Martin Sundermeyer, Werner Friedl, Zoltan-Csaba Marton, Rudolph Triebel. "Unknown Object Segmentation from Stereo Images", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06796)
 
+- Benjamin Caine, Rebecca Roelofs, Vijay Vasudevan, Jiquan Ngiam, Yuning Chai, Zhifeng Chen, Jonathon Shlens. "Pseudo-labeling for Scalable 3D Object Detection", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.02093)
+
 - **Gatcluster**: Chuang Niu, Jun Zhang, Ge Wang, Jimin Liang. "Gatcluster: Self-supervised gaussian-attention network for image clustering", ECCV(2020). [[paper]](https://arxiv.org/abs/2002.11863) [[code]](https://github.com/niuchuangnn/GATCluster?utm_source=catalyzex.com)
 
 - **KingdraCluster**: Divam Gupta, Ramachandran Ramjee, Nipun Kwatra, Muthian Sivathanu. "Unsupervised Clustering using Pseudo-semi-supervised Learning", ICLR(2020). [[project]](https://divamgupta.com/pseudo-semi-supervised-clustering) [[Blog]](https://divamgupta.com/unsupervised-learning/2020/10/31/pseudo-semi-supervised-learning-for-unsupervised-clustering.html) [[paper]](https://openreview.net/forum?id=rJlnxkSYPS) [[code]](https://github.com/divamgupta/deep-clustering-kingdra)
