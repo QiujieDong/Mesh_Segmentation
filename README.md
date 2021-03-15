@@ -119,6 +119,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **U-Net Transformer**: Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler. "U-Net Transformer: Self and Cross Attention for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06104)
 
+- Maximilian Durner, Wout Boerdijk, Martin Sundermeyer, Werner Friedl, Zoltan-Csaba Marton, Rudolph Triebel. "Unknown Object Segmentation from Stereo Images", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06796)
+
 - **Gatcluster**: Chuang Niu, Jun Zhang, Ge Wang, Jimin Liang. "Gatcluster: Self-supervised gaussian-attention network for image clustering", ECCV(2020). [[paper]](https://arxiv.org/abs/2002.11863) [[code]](https://github.com/niuchuangnn/GATCluster?utm_source=catalyzex.com)
 
 - **KingdraCluster**: Divam Gupta, Ramachandran Ramjee, Nipun Kwatra, Muthian Sivathanu. "Unsupervised Clustering using Pseudo-semi-supervised Learning", ICLR(2020). [[project]](https://divamgupta.com/pseudo-semi-supervised-clustering) [[Blog]](https://divamgupta.com/unsupervised-learning/2020/10/31/pseudo-semi-supervised-learning-for-unsupervised-clustering.html) [[paper]](https://openreview.net/forum?id=rJlnxkSYPS) [[code]](https://github.com/divamgupta/deep-clustering-kingdra)
