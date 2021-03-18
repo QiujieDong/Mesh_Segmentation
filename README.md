@@ -124,6 +124,10 @@ Run the code on my PC and add some Chinese comments.
 
 - Benjamin Caine, Rebecca Roelofs, Vijay Vasudevan, Jiquan Ngiam, Yuning Chai, Zhifeng Chen, Jonathon Shlens. "Pseudo-labeling for Scalable 3D Object Detection", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.02093)
 
+- **SPICE**: Chuang Niu, Ge Wang. "SPICE: Semantic Pseudo-labeling for Image Clustering", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.09382) [[code]](https://github.com/niuchuangnn/SPICE)
+
+- Megha Kalia, Tajwar Abrar Aleef, Nassir Navab, Septimiu E. Salcudean. "Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.09276)
+
 - **Gatcluster**: Chuang Niu, Jun Zhang, Ge Wang, Jimin Liang. "Gatcluster: Self-supervised gaussian-attention network for image clustering", ECCV(2020). [[paper]](https://arxiv.org/abs/2002.11863) [[code]](https://github.com/niuchuangnn/GATCluster?utm_source=catalyzex.com)
 
 - **KingdraCluster**: Divam Gupta, Ramachandran Ramjee, Nipun Kwatra, Muthian Sivathanu. "Unsupervised Clustering using Pseudo-semi-supervised Learning", ICLR(2020). [[project]](https://divamgupta.com/pseudo-semi-supervised-clustering) [[Blog]](https://divamgupta.com/unsupervised-learning/2020/10/31/pseudo-semi-supervised-learning-for-unsupervised-clustering.html) [[paper]](https://openreview.net/forum?id=rJlnxkSYPS) [[code]](https://github.com/divamgupta/deep-clustering-kingdra)
