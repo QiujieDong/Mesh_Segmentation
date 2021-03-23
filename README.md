@@ -116,6 +116,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **UNETR**: Ali Hatamizadeh, Dong Yang, Holger Roth, Daguang Xu. "UNETR: Transformers for 3D Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.10504)
+
 - **A Survey**: Yong He, Hongshan Yu, Xiaoyan Liu, Zhengeng Yang, Wei Sun, Yaonan Wang, Qiang Fu, Yanmei Zou, Ajmal Main. "Deep Learning based 3D Segmentation: A Survey", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.05423)
 
 - **U-Net Transformer**: Olivier Petit, Nicolas Thome, Clément Rambour, Luc Soler. "U-Net Transformer: Self and Cross Attention for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.06104)
