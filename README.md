@@ -106,6 +106,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Hu Ruizhen, Fan Lubin, Liu Ligang. "Co‐segmentation of 3d shapes via subspace clustering", CGF(2012). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03175.x) :fire:
 
+- **Heat-Mapping**: Yi Fang, Mengtian Sun, Minhyong Kim, Karthik Ramani. "Heat-mapping: A robust approach toward perceptually consistent mesh segmentation", CVPR(2011). [[paper]](https://ieeexplore.ieee.org/abstract/document/5995695/authors#authors) :fire:
+
 - Jun Wang, Zeyun Yu. "Surface feature based mesh segmentation", CG(2011). [[paper]](https://www.sciencedirect.com/science/article/pii/S0097849311000550)
 
 - Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
