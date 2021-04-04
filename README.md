@@ -170,6 +170,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
+- Wenyuan Li, Wee-Keong Ng, Ee-Peng Lim. "Spectral Analysis of Text Collection for Similarity-based Clustering", ICDE(2004) and PAKDD(2004). [[paper_ICDE2004]](https://ieeexplore.ieee.org/abstract/document/1320064) [[paper_PAKDD2004]](https://link.springer.com/chapter/10.1007/978-3-540-24775-3_47)
+
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
 
 
