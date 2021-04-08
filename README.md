@@ -116,6 +116,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Sagi Katz, George Leifman, Ayellet Tal. "Mesh segmentation using feature point and core extraction", TVC(2005). [[paper]](https://link.springer.com/article/10.1007/s00371-005-0344-9) :fire:
 
+- Rong Liu, Hao Zhang. "Segmentation of 3D meshes through spectral clustering", PG(2004). [[paper]](https://ieeexplore.ieee.org/abstract/document/1348360) :fire:
+
 # Related work
 
 - **UNETR**: Ali Hatamizadeh, Dong Yang, Holger Roth, Daguang Xu. "UNETR: Transformers for 3D Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.10504)
