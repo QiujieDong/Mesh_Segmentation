@@ -168,6 +168,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation", MICCAI(2015). [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
 
+- **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x) :fire:
+
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
 - Wenyuan Li, Wee-Keong Ng, Ee-Peng Lim. "Spectral Analysis of Text Collection for Similarity-based Clustering", ICDE(2004) and PAKDD(2004). [[paper_ICDE2004]](https://ieeexplore.ieee.org/abstract/document/1320064) [[paper_PAKDD2004]](https://link.springer.com/chapter/10.1007/978-3-540-24775-3_47)
