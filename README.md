@@ -92,6 +92,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Zhenyu Shu, Chengwu Qi, Shiqing Xin, Chao Hu, Li Wang, Yu Zhang, Ligang Liu. "Unsupervised 3D shape segmentation and co-segmentation via deep learning", CAGD(2016). [[paper]](https://www.sciencedirect.com/science/article/pii/S0167839616300164) :fire:
 
+- Meha Hachani, Azza Ouled Zaid, Raoua Khwildi. "Segmentation of 3D articulated meshes using shape diameter function and curvature information", ICME(2016). [[paper]](https://ieeexplore.ieee.org/abstract/document/7552943)
+
 - Kan Guo, Dongqing Z, Xiaowu Chen. "3D Mesh Labeling via Deep Convolutional Neural Networks", TOG(2015). [[paper]](https://dl.acm.org/doi/abs/10.1145/2835487) :fire:
 
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural Networks for 3D Shape Recognition", ICCV(2015). [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
