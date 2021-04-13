@@ -114,6 +114,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Evangelos Kalogerakis, Aaron Hertzmann, Karan Singh. "Learning 3D Mesh Segmentation and Labeling", SIGGRAPH(2010). [[paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778839) :fire:
 
+- Raif M. Rustamov. "Laplace-Beltrami Eigenfunctions for Deformation Invariant Shape Representation", SGP(2007). [[paper]](https://dl.acm.org/doi/abs/10.5555/1281991.1282022) :fire:
+
 - **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
 
 - Sagi Katz, George Leifman, Ayellet Tal. "Mesh segmentation using feature point and core extraction", TVC(2005). [[paper]](https://link.springer.com/article/10.1007/s00371-005-0344-9) :fire:
