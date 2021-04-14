@@ -164,6 +164,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019). [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
 
+- Xinge Li, Yongjie Jessica Zhang, Xuyang Yang, Haibo Xu, Guoliang Xu. "Point cloud surface segmentation based on volumetric eigenfunctions of the Laplace-Beltrami operator", CAGD(2019).
+
 - Adrien Poulenard, Maks Ovsjanikov. "Multi-directional geodesic neural networks via equivariant convolution", TOG(2018). [[paper]](https://dl.acm.org/doi/abs/10.1145/3272127.3275102)
 
 - Asako Kanezaki. "Unsupervised Image Segmentation by Backpropagation", ICASSP(2018). [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533) [[code]](https://github.com/kanezaki/pytorch-unsupervised-segmentation) [[code_2]](https://github.com/Yonv1943/Unsupervised-Segmentation) :star::fire:
