@@ -211,6 +211,10 @@ Run the code on my PC and add some Chinese comments.
 
 - **ABC**: Sebastian Koch, Albert Matveev, Zhongshi Jiang, Francis Williams, Alexey Artemov, Evgeny Burnaev, Marc Alexa, Denis Zorin, Daniele Panozzo. "ABC: A Big CAD Model Dataset For Geometric Deep Learning", CVPR(2019). [[project]](https://deep-geometry.github.io/abc-dataset/) [[paper]](https://arxiv.org/abs/1812.06216) :fire:
 
+- Philip Shilane, Patrick Min, Michael Kazhdan, Thomas Funkhouser. "The Princeton Shape Benchmark", SMI(2004). [[project]](https://shape.cs.princeton.edu/benchmark/) [[paper]](https://shape.cs.princeton.edu/benchmark/benchmark.pdf) :fire:
+
+- Li Yi, Vladimir G. Kim, Duygu Ceylan, I-Chao Shen, Mengyuan Yan, Hao Su, Cewu Lu, Qixing Huang, Alla Sheffer, Leonidas Guibas. "A Scalable Active Framework for Region Annotation in 3D Shape Collections", SIGGRAPH Asia(2016). [[project]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/) [[paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf) :fire:
+
 <h1> 
 
 ```diff
