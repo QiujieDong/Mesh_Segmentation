@@ -52,6 +52,8 @@ Run the code on my PC and add some Chinese comments.
 
 # 2019
 
+- **LaplacianNet**: Yi-Ling Qiao, Lin Gao, Jie Yang, Paul L. Rosin, Yu-Kun Lai, Xilin Chen. "LaplacianNet: Learning on 3D Meshes with Laplacian Encoding and Pooling", TVCG(2019). [[paper]](https://arxiv.org/abs/1910.14063)
+
 - **VoxSegNet**: Zongji Wang, Feng Lu. "VoxSegNet: Volumetric CNNs for Semantic Part Segmentation of 3D Shapes", TVCG(2019). [[paper]](https://arxiv.org/abs/1809.00226) [[code]](https://github.com/screnary/VoxSegNet)
 
 - **BAE-Net**: Chen Zhiqin, Yin Kangxue, Fisher Matthew, Chaudhuri Siddhartha, Zhang Hao. "Bae-net: Branched autoencoder for shape co-segmentation", ICCV(2019). [[paper]](https://arxiv.org/abs/1903.11228) [[code]](https://github.com/czq142857/BAE-NET?utm_source=catalyzex.com)
