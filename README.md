@@ -128,6 +128,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **Geometric Deep Learning**: Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges", arXiv(2021). [[paper]](https://arxiv.org/abs/2104.13478)
+
 - **UNETR**: Ali Hatamizadeh, Dong Yang, Holger Roth, Daguang Xu. "UNETR: Transformers for 3D Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.10504)
 
 - **A Survey**: Yong He, Hongshan Yu, Xiaoyan Liu, Zhengeng Yang, Wei Sun, Yaonan Wang, Qiang Fu, Yanmei Zou, Ajmal Main. "Deep Learning based 3D Segmentation: A Survey", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.05423)
