@@ -44,6 +44,8 @@ Run the code on my PC and add some Chinese comments.
 
 # 2020
 
+- **PD-MeshNet**: Francesco Milano, Antonio Loquercio, Antoni Rosinol, Davide Scaramuzza, Luca Carlone. "Primal-Dual Mesh Convolutional Neural Networks", NeurIPS(2020). [[paper]](https://arxiv.org/abs/2010.12455) [[code]](https://github.com/MIT-SPARK/PD-MeshNet?utm_source=catalyzex.com)
+
 - **CurvaNet**: Wenchong He, Zhe Jiang, Chengming Zhang, Arpan Man Sainju. "CurvaNet: Geometric Deep Learning based on Directional Curvature for 3D Shape Analysis", KDD(2020). [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403272)
 
 - **MeshSegNet**: Chunfeng Lian, Li Wang, Tai-Hsien Wu, Fan Wang, Pew-Thian Yap, Ching-Chang Ko, Dinggang Shen. "Deep Multi-Scale Mesh Feature Learning for Automated Labeling of Raw Dental Surfaces From 3D Intraoral Scanners", MICCAI(2019) and TMI(2020). [[paper]](https://ieeexplore.ieee.org/abstract/document/8984309) [[code]](https://github.com/Tai-Hsien/MeshSegNet)
