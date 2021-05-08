@@ -38,6 +38,10 @@ Run the code on my PC and add some Chinese comments.
 
 </h1>
 
+# 2021
+
+- **HodgeNet**: Dmitriy Smirnov, Justin Solomon. "HodgeNet: Learning Spectral Geometry on Triangle Meshes", SIGGRAPH(2021). [[paper]](https://arxiv.org/abs/2104.12826)
+
 # 2020
 
 - **CurvaNet**: Wenchong He, Zhe Jiang, Chengming Zhang, Arpan Man Sainju. "CurvaNet: Geometric Deep Learning based on Directional Curvature for 3D Shape Analysis", KDD(2020). [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403272)
