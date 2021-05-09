@@ -136,6 +136,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021). [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) :star::fire:
+
 - Luke Melas-Kyriazi. "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02723) [[code]](https://github.com/lukemelas/do-you-even-need-attention?utm_source=catalyzex.com)
 
 - **Geometric Deep Learning**: Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges", arXiv(2021). [[paper]](https://arxiv.org/abs/2104.13478)
