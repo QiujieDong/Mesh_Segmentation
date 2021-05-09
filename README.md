@@ -134,6 +134,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- Luke Melas-Kyriazi. "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02723) [[code]](https://github.com/lukemelas/do-you-even-need-attention?utm_source=catalyzex.com)
+
 - **Geometric Deep Learning**: Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković. "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges", arXiv(2021). [[paper]](https://arxiv.org/abs/2104.13478)
 
 - **UNETR**: Ali Hatamizadeh, Dong Yang, Holger Roth, Daguang Xu. "UNETR: Transformers for 3D Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.10504)
