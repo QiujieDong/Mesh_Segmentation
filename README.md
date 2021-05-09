@@ -27,9 +27,13 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 Run the code on my PC and add some Chinese comments.
 
-- [[MeshCNN_COPY]](https://github.com/QiujieDong/MeshCNN_COPY)
-- [[kaolin-0.1_Fork]](https://github.com/QiujieDong/kaolin-0.1_Fork)
-- [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/pytorch_geometric)
+- [[MeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshCNN)
+- [[MeshWalker_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshWalker)
+- [[Graph U-Net_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/Graph-U-Nets)
+- [[MVRNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MVRNN)
+- [[MedMeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MedMeshCNN)  
+- [[kaolin-0.1_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/kaolin-0.1)
+- [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/pytorch_geometric)
 
 <h1> 
 
