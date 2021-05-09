@@ -124,6 +124,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Avinash Sharma, Radu Horaud, David Knossow, Etienne von Lavante. "Mesh Segmentation Using Laplacian Eigenvectors and Gaussian Mixtures", AAAI(2009). [[paper]](https://hal.inria.fr/inria-00446990/document)
 
+- **Curvature Laplacian**: Rong Liu, Hao Zhang. "Mesh Segmentation via Spectral Embedding and Contour Analysis", CGF(2007). [[paper]](https://www2.cs.sfu.ca/~haoz/pubs/liu_zhang_eg07.pdf) :fire:
+
 - Raif M. Rustamov. "Laplace-Beltrami Eigenfunctions for Deformation Invariant Shape Representation", SGP(2007). [[paper]](https://dl.acm.org/doi/abs/10.5555/1281991.1282022) :fire:
 
 - **A Survey**: M. Attene, S. Katz, M. Mortara, G. Patane, M. Spagnuolo, A. Tal. "Mesh Segmentation - A Comparative Study", SMI(2006). [[paper]](https://ieeexplore.ieee.org/abstract/document/1631191) :fire:
