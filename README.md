@@ -29,6 +29,7 @@ Run the code on my PC and add some Chinese comments.
 
 - [[MeshCNN_COPY]](https://github.com/QiujieDong/MeshCNN_COPY)
 - [[kaolin-0.1_Fork]](https://github.com/QiujieDong/kaolin-0.1_Fork)
+- [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/pytorch_geometric)
 
 <h1> 
 
