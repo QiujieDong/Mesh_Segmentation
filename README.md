@@ -201,6 +201,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image Segmentation", MICCAI(2015). [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
 
+- Keenan Crane, Clarisse Weischedel, Max Wardetzky. "Geodesics in heat: A new approach to computing distance based on heat flow", TOG(2013). [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216) :fire:
+
 - **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x) :fire:
 
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008). [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
