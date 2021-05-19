@@ -215,6 +215,8 @@ Run the code on my PC and add some Chinese comments.
 
 - David Cohen-Steiner, Jean-Marie Morvan. "Restricted Delaunay Triangulations and Normal Cycle", SoCG(2003). [[paper]](http://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf) [[code_from_mikedh]](https://github.com/mikedh/trimesh/blob/60dae2352875f48c4476e01052829e8b9166d9e5/trimesh/curvature.py) :star::fire:
 
+- Mikhail Belkin, Partha Niyogi. "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering", NIPS(2001). [[paper]](http://papers.nips.cc/paper/1961-laplacian-eigenmaps-and-spectral-techniques-for-embedding-and-clustering.pdf) :fire:
+
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
 
 
