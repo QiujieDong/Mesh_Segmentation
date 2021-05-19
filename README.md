@@ -209,6 +209,10 @@ Run the code on my PC and add some Chinese comments.
 
 - Wenyuan Li, Wee-Keong Ng, Ee-Peng Lim. "Spectral Analysis of Text Collection for Similarity-based Clustering", ICDE(2004) and PAKDD(2004). [[paper_ICDE2004]](https://ieeexplore.ieee.org/abstract/document/1320064) [[paper_PAKDD2004]](https://link.springer.com/chapter/10.1007/978-3-540-24775-3_47)
 
+- Pierre Alliez, David Cohen-Steiner, Olivier Devillers, Bruno Lévy, Mathieu Desbrun. "Anisotropic Polygonal Remeshing", SIGGRAPH(2003). [[paper]](http://www.geometry.caltech.edu/pubs/ACDLD03.pdf) :fire:
+
+- David Cohen-Steiner, Jean-Marie Morvan. "Restricted Delaunay Triangulations and Normal Cycle", SoCG(2003). [[paper]](http://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf) [[code_from_mikedh]](https://github.com/mikedh/trimesh/blob/60dae2352875f48c4476e01052829e8b9166d9e5/trimesh/curvature.py) :star::fire:
+
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
 
 
