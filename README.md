@@ -221,6 +221,7 @@ Run the code on my PC and add some Chinese comments.
 
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
 
+- Zachi Karni, Craig Gotsman. "Spectral Compression of Mesh Geometry", SIGGRAPH(2000). [[paper]](http://www.cs.technion.ac.il/~gotsman/AmendedPubl/SpectralCompression/SpectralCompression.pdf) :fire:
 
 <h1> 
 
