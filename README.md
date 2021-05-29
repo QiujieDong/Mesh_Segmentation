@@ -233,6 +233,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **PartNet**:  Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su. "PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding", CVPR(2019). [[project]](https://cs.stanford.edu/~kaichun/partnet/) [[paper]](https://arxiv.org/abs/1812.02713) [[video]](https://www.youtube.com/watch?v=7pEuoxmb-MI&feature=youtu.be) :fire:
 
+- **CGPart**: Qing Liu, Adam Kortylewski, Zhishuai Zhang, Zizhang Li2, Mengqi Guo, Qihao Liu, Xiaoding Yuan, Jiteng Mu, Weichao Qiu, Alan Yuille. "CGPart: A Part Segmentation Dataset Based on 3D Computer Graphics Models", arXiv(2021). [[project]](https://github.com/qliu24/cgpart/blob/gh-pages/index.md) [[paper]](https://arxiv.org/abs/2103.14098)
+
 - **HumanSeg**: Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G Kim, and Yaron Lipman. "Convolutional neural networks on surfaces via seamless toric covers", ACM Trans. Graph.(2017). [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) :fire:
 
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012) :fire:
