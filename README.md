@@ -360,7 +360,7 @@ Run the code on my PC and add some Chinese comments.
 
 - **HumanSeg**: Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G Kim, and Yaron
   Lipman. "Convolutional neural networks on surfaces via seamless toric covers", ACM Trans. Graph.(2017)
-  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) [[shrec_from_MeshCNN]](https://www.dropbox.com/s/w16st84r6wc57u7/shrec_16.tar.gz) :fire:
+  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) :fire:
 
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio
   Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D
