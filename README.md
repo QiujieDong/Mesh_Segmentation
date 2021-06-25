@@ -350,6 +350,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - Zachi Karni, Craig Gotsman. "Spectral Compression of Mesh Geometry", SIGGRAPH(2000)
   . [[paper]](http://www.cs.technion.ac.il/~gotsman/AmendedPubl/SpectralCompression/SpectralCompression.pdf) :fire:
+  
+- Gabriel Taubin. "A signal processing approach to fair surface design", SIGGRAPH(1995). [[paper]](https://dl.acm.org/doi/10.1145/218380.218473) :fire:
 
 <h1> 
 
