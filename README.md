@@ -206,6 +206,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **Deep3DMM**: Zhixiang Chen, Tae-Kyun Kim. "Learning Feature Aggregation for Deep 3D Morphable Models", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02173) [[code]](https://github.com/zchen06/Deep3DMM)
+
 - **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
   Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
   16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
@@ -291,6 +293,9 @@ Run the code on my PC and add some Chinese comments.
 
 - Adrien Poulenard, Maks Ovsjanikov. "Multi-directional geodesic neural networks via equivariant convolution", TOG(2018)
   . [[paper]](https://dl.acm.org/doi/abs/10.1145/3272127.3275102)
+
+- **DeepLab3+**: Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam. "Encoder-Decoder with Atrous Separable
+Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxiv.org/abs/1802.02611) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab) :star::fire:
 
 - Asako Kanezaki. "Unsupervised Image Segmentation by Backpropagation", ICASSP(2018)
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533) [[code]](https://github.com/kanezaki/pytorch-unsupervised-segmentation) [[code_2]](https://github.com/Yonv1943/Unsupervised-Segmentation) :star::fire:
