@@ -243,6 +243,8 @@ Run the code on my PC and add some Chinese comments.
 - Megha Kalia, Tajwar Abrar Aleef, Nassir Navab, Septimiu E. Salcudean. "Co-Generation and Segmentation for Generalized
   Surgical Instrument Segmentation on Unlabelled Data", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.09276)
 
+- STEVEN L. SONG, WEIQI SHI, MICHAEL REED. "Accurate Face Rig Approximation with Deep Differential Subspace Reconstruction", TOG(2020). [[paper]](https://arxiv.org/abs/2006.01746)
+
 - **Gatcluster**: Chuang Niu, Jun Zhang, Ge Wang, Jimin Liang. "Gatcluster: Self-supervised gaussian-attention network
   for image clustering", ECCV(2020)
   . [[paper]](https://arxiv.org/abs/2002.11863) [[code]](https://github.com/niuchuangnn/GATCluster?utm_source=catalyzex.com)
