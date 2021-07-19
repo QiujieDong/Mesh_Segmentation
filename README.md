@@ -429,3 +429,4 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - [Yongcheng Liu](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 - [THOMAS KIPF](http://tkipf.github.io/)
 - [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
+- [Ke-Sen Huang [paper list]](http://kesen.realtimerendering.com/)
