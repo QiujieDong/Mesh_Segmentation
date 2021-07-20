@@ -165,6 +165,8 @@ Run the code on my PC and add some Chinese comments.
 - Zhige Xie, Kai Xu, Ligang Liu, Yueshan Xiong. "3D Shape Segmentation and Labeling via Extreme Learning Machine", CGF(
   2014). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12434) :fire:
 
+- Jung Lee, Seokhun Kim, Sun-Jeong Kim. "Mesh segmentation based on curvatures using the GPU", MTA(2014). [[paper]](https://link.springer.com/article/10.1007%2Fs11042-014-2104-1)
+
 - Zizhao Wu, Yunhai Wang, Ruyang Shou, Baoquan Chen, Xinguo Liu. "Unsupervised co-segmentation of 3D shapes via affinity
   aggregation spectral clustering", CG(2013)
   . [[paper]](https://www.sciencedirect.com/science/article/pii/S0097849313000897)
