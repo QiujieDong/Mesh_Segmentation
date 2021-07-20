@@ -178,6 +178,8 @@ Run the code on my PC and add some Chinese comments.
 - Hu Ruizhen, Fan Lubin, Liu Ligang. "Co‐segmentation of 3d shapes via subspace clustering", CGF(2012)
   . [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03175.x) :fire:
 
+- Oscar Kin-Chung Au, Youyi Zheng, Menglin Chen, Pengfei Xu, Chiew-Lan Tai. "Mesh Segmentation with Concavity-aware Fields", TVCG(2012). [[paper]](https://ieeexplore.ieee.org/document/5963664) :fire:
+
 - **Heat-Mapping**: Yi Fang, Mengtian Sun, Minhyong Kim, Karthik Ramani. "Heat-mapping: A robust approach toward
   perceptually consistent mesh segmentation", CVPR(2011)
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/5995695/authors#authors) :fire:
