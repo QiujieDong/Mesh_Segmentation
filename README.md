@@ -326,6 +326,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   heat flow", TOG(2013)
   . [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216) :fire:
 
+- **Shape Google**: Maks Ovsjanikov, Alexander M. Bronstein, Michael M. Bronstein, Leonidas J. Guibas. "Shape Google: a computer vision approach to isometry invariant shape retrieval", ICCV(2009). [[paper]](https://ieeexplore.ieee.org/document/5457682?denied=) :fire:
+
 - **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based
   on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x) :fire:
 
