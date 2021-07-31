@@ -212,6 +212,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **VMNet**: Zeyu Hu, Xuyang Bai, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan Sun, Hongbo Fu, Chiew-Lan Tai. "VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation", ICCV(2021). [[paper]](https://arxiv.org/abs/2107.13824) [[code]](https://github.com/hzykent/VMNet)
+
 - **Deep3DMM**: Zhixiang Chen, Tae-Kyun Kim. "Learning Feature Aggregation for Deep 3D Morphable Models", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02173) [[code]](https://github.com/zchen06/Deep3DMM)
 
 - **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
