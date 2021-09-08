@@ -299,7 +299,9 @@ Run the code on my PC and add some Chinese comments.
   . [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
 
 - Xinge Li, Yongjie Jessica Zhang, Xuyang Yang, Haibo Xu, Guoliang Xu. "Point cloud surface segmentation based on
-  volumetric eigenfunctions of the Laplace-Beltrami operator", CAGD(2019).
+  volumetric eigenfunctions of the Laplace-Beltrami operator", CAGD(2019). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167839619300147?via%3Dihub)
+
+- **SE-Net**: Jie Hu, Li Shen, Samuel Albanie, Gang Sun, Enhua Wu. "Squeeze-and-Excitation Networks", CVPR(2018). [[paper]](https://arxiv.org/abs/1709.01507) [[code]](https://github.com/hujie-frank/SENet) :star::fire:
 
 - Adrien Poulenard, Maks Ovsjanikov. "Multi-directional geodesic neural networks via equivariant convolution", TOG(2018)
   . [[paper]](https://dl.acm.org/doi/abs/10.1145/3272127.3275102)
