@@ -337,6 +337,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based
   on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x) :fire:
 
+- Hui Huang, Dan Li, Hao Zhang, Uri Ascher, Daniel Cohen-Or. "Consolidation of Unorganized Point Clouds for Surface Reconstruction", SIGGRAPH ASIA(2009). [[project]](https://vcc.tech/research/2009/WLOP) [[paper]](https://vcc.tech/file/upload_file//image/research/att201804041307/siga_consolidater.pdf) :fire:
+- 
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008)
   . [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
