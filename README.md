@@ -212,6 +212,10 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **Swin-Unet**: Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang. "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.05537) [[code]](https://github.com/HuCaoFighting/Swin-Unet?utm_source=catalyzex.com) :star:
+
+- **TransUNet**: Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou. "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2102.04306) [[code]](https://github.com/Beckschen/TransUNet?utm_source=catalyzex.com) :star::fire:
+
 - **VMNet**: Zeyu Hu, Xuyang Bai, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan Sun, Hongbo Fu, Chiew-Lan Tai. "VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation", ICCV(2021). [[paper]](https://arxiv.org/abs/2107.13824) [[code]](https://github.com/hzykent/VMNet)
 
 - **Deep3DMM**: Zhixiang Chen, Tae-Kyun Kim. "Learning Feature Aggregation for Deep 3D Morphable Models", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02173) [[code]](https://github.com/zchen06/Deep3DMM)
