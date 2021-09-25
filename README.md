@@ -425,7 +425,7 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 </h1>
 
-- [Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html): Hung-yi Lee
+- [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/): Hung-yi Lee
 - [数字几何处理](https://www.bilibili.com/video/BV1B54y1B7Uc): Xiao-Ming Fu
 - [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr): Ligang Liu
 - [GAMES_Summer 2021](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html): Qixing Huang
