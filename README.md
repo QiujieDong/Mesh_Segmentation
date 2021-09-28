@@ -268,7 +268,9 @@ Run the code on my PC and add some Chinese comments.
   . [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
 
 - **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
-  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688)
+  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) :star::fire:
+
+- **PT**: Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun. "Point Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09164) [[code_unofficial]](https://github.com/lucidrains/point-transformer-pytorch) :star:
 
 - **FPCC-Net**: Yajun Xu, Shogo Arai, Diyi Liu, Fangzhou Lin, Kazuhiro Kosuge. "FPCC-Net: Fast Point Cloud Clustering
   for Instance Segmentation", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.14618)
