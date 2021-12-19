@@ -127,9 +127,6 @@ Run the code on my PC and add some Chinese comments.
   X-Transformed Points", NIPS(2018)
   . [[paper]](https://arxiv.org/abs/1801.07791) [[code]](https://github.com/yangyanli/PointCNN?utm_source=catalyzex.com) :star::fire:
 
-- Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst. "Geometric Deep Learning: Going beyond Euclidean data
-", IEEE Signal Processing Magazine(2017). [[paper]](https://arxiv.org/abs/1611.08097) :fire:
-
 - **DCN**: Haotian Xu, Ming Dong, Zichun Zhong. "Directionally convolutional networks for 3d shape segmentation", ICCV(2017)
   . [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Xu_Directionally_Convolutional_Networks_ICCV_2017_paper.html)
 
@@ -327,6 +324,9 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net
   Architecture for Medical Image Segmentation", DLMIA(2018)
   . [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
+
+- Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst. "Geometric Deep Learning: Going beyond Euclidean data
+", IEEE Signal Processing Magazine(2017). [[paper]](https://arxiv.org/abs/1611.08097) :fire:
 
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017)
   . [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::fire:
