@@ -289,6 +289,8 @@ Run the code on my PC and add some Chinese comments.
   Transformation Synchronization on Graphs", NeurIPS(2020)
   . [[paper]](https://proceedings.neurips.cc//paper/2020/hash/ca7be8306ecc3f5fa30ff2c41e64fa7b-Abstract.html) [[code]](https://github.com/xiangruhuang/HumanCorresViaLearn2Sync)
 
+- Yu Wang, Justin Solomon. "Intrinsic and extrinsic operators for shape analysis", Handbook of Numerical Analysis(2019). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1570865919300250?via%3Dihub)
+
 - **CfS-CNN**: Ran Song, Yonghuai Liu, Paul L. Rosin. "Mesh Saliency via Weakly Supervised Classification-for-Saliency
   CNN", TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8765747/authors#authors)
 
