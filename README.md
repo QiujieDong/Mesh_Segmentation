@@ -335,6 +335,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017)
   . [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::fire:
 
+- Jonathan Masci, Davide Boscaini, Michael M. Bronstein, Pierre Vandergheynst. "Geodesic Convolutional Neural Networks on Riemannian Manifolds", ICCVW(2015). [[paper]](https://arxiv.org/abs/1501.06297) :fire:
+
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image
   Segmentation", MICCAI(2015)
   . [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
