@@ -462,3 +462,4 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - [THOMAS KIPF](http://tkipf.github.io/)
 - [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
 - [Ke-Sen Huang [paper list]](http://kesen.realtimerendering.com/)
+- [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/index.html)
