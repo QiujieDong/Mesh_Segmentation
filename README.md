@@ -343,6 +343,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   Segmentation", MICCAI(2015)
   . [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :star::fire:
 
+- Joan Bruna, Wojciech Zaremba, Arthur D. Szlam, Yann LeCun. "Spectral Networks and Locally Connected Networks on Graphs", CoRR(2014). [[paper]](https://arxiv.org/abs/1312.6203) :fire:
+
 - Keenan Crane, Clarisse Weischedel, Max Wardetzky. "Geodesics in heat: A new approach to computing distance based on
   heat flow", TOG(2013)
   . [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216) :fire:
