@@ -442,6 +442,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   Guibas. "A Scalable Active Framework for Region Annotation in 3D Shape Collections", SIGGRAPH Asia(2016)
   . [[project]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/) [[paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf) :fire:
 
+- **Three D Scans**: Oliver Laric. [[project]](https://threedscans.com/)
+
 <h1> 
 
 ```diff
