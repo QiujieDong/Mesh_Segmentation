@@ -253,6 +253,8 @@ Run the code on my PC and add some Chinese comments.
 - Megha Kalia, Tajwar Abrar Aleef, Nassir Navab, Septimiu E. Salcudean. "Co-Generation and Segmentation for Generalized
   Surgical Instrument Segmentation on Unlabelled Data", arXiv(2021). [[paper]](https://arxiv.org/abs/2103.09276)
 
+- Nicholas Sharp, Keenan Crane. "A Laplacian for Nonmanifold Triangle Meshes", CGF(2020). [[project]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/index.html) [[paper]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/NonmanifoldLaplace.pdf) [[code]](https://github.com/nmwsharp/nonmanifold-laplacian)
+
 - **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization Agnostic Learning on Surfaces", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.00888) [[code]](https://github.com/nmwsharp/diffusion-net)
 
 - STEVEN L. SONG, WEIQI SHI, MICHAEL REED. "Accurate Face Rig Approximation with Deep Differential Subspace Reconstruction", TOG(2020). [[paper]](https://arxiv.org/abs/2006.01746)
