@@ -145,6 +145,8 @@ Run the code on my PC and add some Chinese comments.
   with Projective Convolutional Networks", CVPR(2017)
   . [[project]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Kalogerakis_3D_Shape_Segmentation_CVPR_2017_paper.html) [[code]](https://github.com/kalov/ShapePFCN?utm_source=catalyzex.com) :fire:
 
+- **ShapePFCN**: Evangelos Kalogerakis, Melinos Averkiou, Subhransu Maji, Siddhartha Chaudhuri. "3D Shape Segmentation with Projective Convolutional Networks", CVPR(2017). [[project]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html) [[paper]](https://arxiv.org/abs/1612.02808) [[code]](https://github.com/kalov/ShapePFCN?utm_source=catalyzex.com) :fire:
+
 - Panagiotis Theologou, Ioannis Pratikakis, Theoharis Theoharis. "Unsupervised spectral mesh segmentation driven by
   heterogeneous graphs", TPAMI(2016). [[paper]](https://ieeexplore.ieee.org/abstract/document/7437462)
 
