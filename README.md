@@ -339,6 +339,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017)
   . [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::fire:
 
+- **3D ShapeNets**: Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, Jianxiong Xiao. "3D ShapeNets: A deep representation for volumetric shapes", CVPR(2015). [[paper]](https://arxiv.org/abs/1406.5670) :fire:
+
 - Jonathan Masci, Davide Boscaini, Michael M. Bronstein, Pierre Vandergheynst. "Geodesic Convolutional Neural Networks on Riemannian Manifolds", ICCVW(2015). [[paper]](https://arxiv.org/abs/1501.06297) :fire:
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image
