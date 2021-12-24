@@ -333,6 +333,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   Architecture for Medical Image Segmentation", DLMIA(2018)
   . [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :star::fire:
 
+- **OctNet**: Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger. "OctNet: Learning Deep 3D Representations at High Resolutions", CVPR(2017). [[paper]](https://arxiv.org/abs/1611.05009) [[code]](https://github.com/griegler/octnet?utm_source=catalyzex.com) :star::fire:
+
 - Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst. "Geometric Deep Learning: Going beyond Euclidean data
 ", IEEE Signal Processing Magazine(2017). [[paper]](https://arxiv.org/abs/1611.08097) :fire:
 
