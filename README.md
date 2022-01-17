@@ -444,6 +444,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **Three D Scans**: Oliver Laric. [[project]](https://threedscans.com/)
 
+- **common-3d-test-models**: Alec Jacobson, jmespadero, purvigoel. [[github]](https://github.com/alecjacobson/common-3d-test-models) :fire:
+
 <h1> 
 
 ```diff
