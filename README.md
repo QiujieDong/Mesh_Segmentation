@@ -46,7 +46,7 @@ Run the code on my PC and add some Chinese comments.
 
 # 2022
 
-- **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin. "Laplacian2Mesh: Laplacian-Based Mesh Understanding", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.00307)
+- **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin. "Laplacian2Mesh: Laplacian-Based Mesh Understanding", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
 
 # 2021
 
