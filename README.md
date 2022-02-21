@@ -44,6 +44,10 @@ Run the code on my PC and add some Chinese comments.
 
 </h1>
 
+# 2022
+
+- **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin. "Laplacian2Mesh: Laplacian-Based Mesh Understanding", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.00307)
+
 # 2021
 
 - **Subdivision**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin. "Subdivision-Based Mesh Convolution Networks", arXiv(2021). [[paper]](https://arxiv.org/abs/2106.02285) [[code]](https://github.com/lzhengning/SubdivNet)
