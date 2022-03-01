@@ -131,6 +131,8 @@ Run the code on my PC and add some Chinese comments.
   X-Transformed Points", NIPS(2018)
   . [[paper]](https://arxiv.org/abs/1801.07791) [[code]](https://github.com/yangyanli/PointCNN?utm_source=catalyzex.com) :star::fire:
 
+- **SyncSpecCNN**: Li Yi, Hao Su, Xingwen Guo, Leonidas Guibas. "SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation", CVPR(2017). [[paper]](https://arxiv.org/abs/1612.00606) [[code]](https://github.com/ericyi/SyncSpecCNN) :fire:
+
 - **DCN**: Haotian Xu, Ming Dong, Zichun Zhong. "Directionally convolutional networks for 3d shape segmentation", ICCV(2017)
   . [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Xu_Directionally_Convolutional_Networks_ICCV_2017_paper.html)
 
