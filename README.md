@@ -361,6 +361,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   heat flow", TOG(2013)
   . [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216) :fire:
 
+- **Functional maps**: Maks Ovsjanikov, Mirela Ben-Chen, Justin Solomon, Adrian Butscher, Leonidas Guibas. "Functional Maps: A Flexible Representation of Maps Between Shapes", TOG(2012). [[paper]](https://people.csail.mit.edu/jsolomon/assets/fmaps.pdf) :fire:
+
 - **WKS**: Mathieu Aubry, Ulrich Schlickewei, Daniel Cremers. "The wave kernel signature: A quantum mechanical approach to shape analysis", ICCV(2011). [[paper]](https://ieeexplore.ieee.org/document/6130444) [[code_from_SGWS]](https://github.com/ChunyuanLI/spectral_descriptors/blob/master/Get_Signature.m) :fire:
 
 - **Shape Google**: Maks Ovsjanikov, Alexander M. Bronstein, Michael M. Bronstein, Leonidas J. Guibas. "Shape Google: a computer vision approach to isometry invariant shape retrieval", ICCV(2009). [[paper]](https://ieeexplore.ieee.org/document/5457682?denied=) :fire:
