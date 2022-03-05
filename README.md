@@ -1,6 +1,6 @@
-# Mesh_Segmentation
+# Mesh Processing
 
-I hope the branch can help anyone who wants to do research about mesh segmentation.
+I hope the branch can help anyone who wants to do research about mesh processing.
 
 Contact me: qiujie_dong(AT)mail.sdu.edu.cn, Qiujie.Jay.Dong(AT)gmail.com.
 
