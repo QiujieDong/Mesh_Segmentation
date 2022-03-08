@@ -28,6 +28,9 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - [Mesh Transformer](#Transformer)
 - [Mesh Feature Extraction](#Feature_Extraction)
+- [Datasets](#Datasets)
+- [Courses](#Courses)
+- [Following](#Following)
 
 
 
@@ -434,7 +437,7 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
   
 - Gabriel Taubin. "A signal processing approach to fair surface design", SIGGRAPH(1995). [[paper]](https://dl.acm.org/doi/10.1145/218380.218473) :fire:
 
-<h1> 
+<h1 id="Datasets"> 
 
 ```diff
 - Datasets
@@ -484,10 +487,10 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **common-3d-test-models**: Alec Jacobson, jmespadero, purvigoel. [[github]](https://github.com/QiujieDong/common-3d-test-models) :fire:
 
-<h1> 
+<h1 id="Courses"> 
 
 ```diff
-- Course
+- Courses
 ```
 
 </h1>
@@ -497,7 +500,7 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr): Ligang Liu
 - [GAMES_Summer 2021](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html): Qixing Huang
 
-<h1> 
+<h1 id="Following"> 
 
 ```diff
 - Following
