@@ -41,6 +41,15 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Related work
 
+- **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(2021). [[paper]](https://arxiv.org/abs/2112.04863) [[code]](https://github.com/crane-papercode/3dmedpt)
+
+- **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
+  Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
+  16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
+  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) :star::fire:
+
+- **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
+  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) :star::fire:
 
 <!-- <h1> 
 
@@ -253,11 +262,6 @@ Run the code on my PC and add some Chinese comments.
 
 - **Deep3DMM**: Zhixiang Chen, Tae-Kyun Kim. "Learning Feature Aggregation for Deep 3D Morphable Models", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.02173) [[code]](https://github.com/zchen06/Deep3DMM)
 
-- **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
-  Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
-  16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
-  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) :star::fire:
-
 - Luke Melas-Kyriazi. "Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet",
   arXiv(2021)
   . [[paper]](https://arxiv.org/abs/2105.02723) [[code]](https://github.com/lukemelas/do-you-even-need-attention?utm_source=catalyzex.com)
@@ -303,9 +307,6 @@ Run the code on my PC and add some Chinese comments.
 - Hsueh-Ti Derek Liu, Vladimir G. Kim, Siddhartha Chaudhuri, Noam Aigerman, Alec Jacobson. "Neural Subdivision",
   SIGGRAPH(2020)
   . [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
-
-- **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
-  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) :star::fire:
 
 - **PT**: Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun. "Point Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09164) [[code_unofficial]](https://github.com/lucidrains/point-transformer-pytorch) :star:
 
