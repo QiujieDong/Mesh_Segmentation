@@ -44,6 +44,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Related work
 
+- **MHFormer**: Wenhao Li, Hong Liu, Hao Tang, Pichao Wang, Luc Van Gool. "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR(2022). [[paper]](https://arxiv.org/abs/2111.12707) [[code]](https://github.com/Vegetebird/MHFormer)
+
 - **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
 
 - **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
