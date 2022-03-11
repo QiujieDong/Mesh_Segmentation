@@ -44,6 +44,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # Related work
 
+- **MCTformer**: Lian Xu, Wanli Ouyang, Mohammed Bennamoun, Farid Boussaid, Dan Xu. "Multi-class Token Transformer for Weakly Supervised Semantic Segmentation", CVPR(2022). [[paper]](https://arxiv.org/abs/2203.02891) [[code]](https://github.com/xulianuwa/mctformer)
+
 - **MHFormer**: Wenhao Li, Hong Liu, Hao Tang, Pichao Wang, Luc Van Gool. "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR(2022). [[paper]](https://arxiv.org/abs/2111.12707) [[code]](https://github.com/Vegetebird/MHFormer)
 
 - **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
