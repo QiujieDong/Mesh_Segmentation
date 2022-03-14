@@ -50,6 +50,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
 
+- **ShapeFormer**: Xingguang Yan, Liqiang Lin, Niloy J. Mitra, Dani Lischinski, Danny Cohen-Or, Hui Huang. "ShapeFormer: Transformer-based Shape Completion via Sparse Representation", arXiv(2022). [[project]](https://shapeformer.github.io/) [[paper]](https://arxiv.org/abs/2201.10326) [[code]](https://github.com/qheldiv/shapeformer)
+
 - **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
 
 - **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(2021). [[paper]](https://arxiv.org/abs/2112.04863) [[code]](https://github.com/crane-papercode/3dmedpt)
