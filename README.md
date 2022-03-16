@@ -126,6 +126,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **MeshWalker**: Alon Lahav, Ayellet Tal. "MeshWalker: Deep Mesh Understanding by Random Walks", SIGGRAPH Asia(2020)
   . [[paper]](https://arxiv.org/abs/2006.05353) [[code]](https://github.com/AlonLahav/MeshWalker?utm_source=catalyzex.com)
+
+- Amit Kohli, Vincent Sitzmann, Gordon Wetzstein. "Semantic Implicit Neural Scene RepresentationsWith Semi-Supervised Training", 3DV(2020). [[project]](https://www.computationalimaging.org/publications/semantic-srn/) [[paper]](https://arxiv.org/abs/2003.12673) [[code]](https://github.com/apsk14/semantic_scene_representations)
   
 - Zhenyu Shu, Xiaoyong Shen, Shiqing Xin, Qingjun Chang, Jieqing Feng, Ladislav Kavan, Ligang Liu. "Scribble-Based 3D Shape Segmentation via Weakly-Supervised Learning", TVCG(2020). [[paper]](https://www.cs.utah.edu/~ladislav/shu19scribble/shu19scribble.pdf)
 
