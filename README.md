@@ -267,6 +267,8 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
+- **BACON**: David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein. "BACON: Band-limited Coordinate Networks for Multiscale Scene Representation", CVPR(2022). [[project]](http://www.computationalimaging.org/publications/bacon/) [[paper]](https://arxiv.org/abs/2112.04645) [[code]](https://github.com/computational-imaging/bacon)
+
 - **Swin-Unet**: Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang. "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.05537) [[code]](https://github.com/HuCaoFighting/Swin-Unet?utm_source=catalyzex.com) :star:
 
 - **TransUNet**: Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou. "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2102.04306) [[code]](https://github.com/Beckschen/TransUNet?utm_source=catalyzex.com) :star::fire:
