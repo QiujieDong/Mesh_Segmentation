@@ -269,7 +269,7 @@ Run the code on my PC and add some Chinese comments.
 
 # Related work
 
-- **Wave-MLP**: Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, Yanxi Li, Chao Xu, Yunhe Wang. "An Image Patch is a Wave: Quantum Inspired Vision MLP", CVPR(2022). [[paper]](https://arxiv.org/abs/2111.12294) [[code]](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch) :fire:
+- **Wave-MLP**: Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, Yanxi Li, Chao Xu, Yunhe Wang. "An Image Patch is a Wave: Quantum Inspired Vision MLP", CVPR(2022). [[paper]](https://arxiv.org/abs/2111.12294) [[code]](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch) :star:
 
 - **BACON**: David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein. "BACON: Band-limited Coordinate Networks for Multiscale Scene Representation", CVPR(2022). [[project]](http://www.computationalimaging.org/publications/bacon/) [[paper]](https://arxiv.org/abs/2112.04645) [[code]](https://github.com/computational-imaging/bacon)
 
