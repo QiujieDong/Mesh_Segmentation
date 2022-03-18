@@ -311,6 +311,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **MFNs**: Rizal Fathony, Anit Kumar Sahu, Devin Willmott, J.Zico Kolter. "Multiplicative Filter Networks", ICLR(2021). [[paper]](https://openreview.net/forum?id=OmtmcPkkhT) [[code]](https://github.com/boschresearch/multiplicative-filter-networks)
 
+- Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng. "Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains", NeurIPS(2020). [[project]](https://bmild.github.io/fourfeat/) [[paper]](https://arxiv.org/abs/2006.10739) [[code]](https://github.com/tancik/fourier-feature-networks) :star::fire:
+
 - Nicholas Sharp, Keenan Crane. "A Laplacian for Nonmanifold Triangle Meshes", CGF(2020). [[project]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/index.html) [[paper]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/NonmanifoldLaplace.pdf) [[code]](https://github.com/nmwsharp/nonmanifold-laplacian)
 
 - **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization Agnostic Learning on Surfaces", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.00888) [[code]](https://github.com/nmwsharp/diffusion-net)
