@@ -273,6 +273,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **BACON**: David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein. "BACON: Band-limited Coordinate Networks for Multiscale Scene Representation", CVPR(2022). [[project]](http://www.computationalimaging.org/publications/bacon/) [[paper]](https://arxiv.org/abs/2112.04645) [[code]](https://github.com/computational-imaging/bacon)
 
+- **PSSNet**: Weixiao Gao, Liangliang Nan, Bas Boom, Hugo Ledoux. "PSSNet: Planarity-sensible Semantic Segmentation of Large-scale Urban Meshes", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.03209) 
+
 - **Swin-Unet**: Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang. "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2105.05537) [[code]](https://github.com/HuCaoFighting/Swin-Unet?utm_source=catalyzex.com) :star:
 
 - **TransUNet**: Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou. "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation", arXiv(2021). [[paper]](https://arxiv.org/abs/2102.04306) [[code]](https://github.com/Beckschen/TransUNet?utm_source=catalyzex.com) :star::fire:
@@ -514,6 +516,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - **Three D Scans**: Oliver Laric. [[project]](https://threedscans.com/)
 
 - **common-3d-test-models**: Alec Jacobson, jmespadero, purvigoel. [[github]](https://github.com/QiujieDong/common-3d-test-models) :fire:
+
+- **SUM**: Weixiao Gao, Liangliang Nan, Bas Boom, Hugo Ledoux. "SUM: A Benchmark Dataset of Semantic Urban Meshes", ISPRS Journal of Photogrammetry and Remote Sensing(2021). [[project]](https://3d.bk.tudelft.nl/projects/meshannotation/#data-download) [[paper]](https://arxiv.org/abs/2103.00355) [[code]](https://github.com/tudelft3d/SUMS-Semantic-Urban-Mesh-Segmentation-public)
 
 <h1 id="Courses"> 
 
