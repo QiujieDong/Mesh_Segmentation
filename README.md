@@ -354,6 +354,8 @@ Run the code on my PC and add some Chinese comments.
   Transformation Synchronization on Graphs", NeurIPS(2020)
   . [[paper]](https://proceedings.neurips.cc//paper/2020/hash/ca7be8306ecc3f5fa30ff2c41e64fa7b-Abstract.html) [[code]](https://github.com/xiangruhuang/HumanCorresViaLearn2Sync)
 
+- **SIREN**: Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein. "Implicit Neural Representations with Periodic Activation Functions", NeurIPS(2020). [[project]](https://www.vincentsitzmann.com/siren/) [[paper]](https://arxiv.org/abs/2006.09661) [[code]](https://github.com/vsitzmann/siren) :star::fire:
+
 - Jean-Michel Roufosse, Abhishek Sharma, Maks Ovsjanikov. "Unsupervised Deep Learning for Structured Shape Matching", ICCV(2019). [[paper]](https://arxiv.org/abs/1812.03794) [[code]](https://github.com/JM-data/Unsupervised_DeepFunctionalMaps_ICCV19) :fire:
 
 - Yu Wang, Justin Solomon. "Intrinsic and extrinsic operators for shape analysis", Handbook of Numerical Analysis(2019). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1570865919300250?via%3Dihub)
