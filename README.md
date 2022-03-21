@@ -54,6 +54,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
 
+- **DoT**: Ren Chuan-Xian, Zhai Yi-Ming, Luo You-Wei, Li Meng-Xue. "Towards Unsupervised Domain Adaptation via Domain-Transformer", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.13777)
+
 - **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(2021). [[paper]](https://arxiv.org/abs/2112.04863) [[code]](https://github.com/crane-papercode/3dmedpt)
 
 - **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
