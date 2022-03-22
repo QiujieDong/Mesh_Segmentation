@@ -50,6 +50,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for Fine-Grained Recognition", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
 
+- **ACT**: Jinsu Yoo, Taehoon Kim, Sihaeng Lee, Seung Hwan Kim, Honglak Lee, Tae Hyun Kim. "Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.07682)
+
 - **ShapeFormer**: Xingguang Yan, Liqiang Lin, Niloy J. Mitra, Dani Lischinski, Danny Cohen-Or, Hui Huang. "ShapeFormer: Transformer-based Shape Completion via Sparse Representation", arXiv(2022). [[project]](https://shapeformer.github.io/) [[paper]](https://arxiv.org/abs/2201.10326) [[code]](https://github.com/qheldiv/shapeformer)
 
 - **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
