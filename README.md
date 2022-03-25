@@ -547,13 +547,15 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 </h1>
 
 - [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html)
-- [Xiaoguang Han](https://sse.cuhk.edu.cn/faculty/hanxiaoguang)
+- [Rana Hanocka](https://people.cs.uchicago.edu/~ranahanocka/)
+- [Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)
 - [Justin Solomon](https://people.csail.mit.edu/jsolomon/#teaching)
+- [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
+- [Ke-Sen Huang - [Conference Paper List]](http://kesen.realtimerendering.com/)
+- [THOMAS KIPF](http://tkipf.github.io/)
+- [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/index.html)
+- [Xiaoguang Han](https://sse.cuhk.edu.cn/faculty/hanxiaoguang)
 - [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
 - [Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)
 - [Yongcheng Liu](https://github.com/Yochengliu/awesome-point-cloud-analysis)
-- [THOMAS KIPF](http://tkipf.github.io/)
-- [Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)
-- [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
-- [Ke-Sen Huang [paper list]](http://kesen.realtimerendering.com/)
-- [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/index.html)
+
