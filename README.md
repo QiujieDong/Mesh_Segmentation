@@ -479,6 +479,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **IntrA**: Xi Yang, Ding Xia, Taichi Kin, Takeo Igarashi. "IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning", CVPR(2020). [[paper]](https://arxiv.org/abs/2003.02920) [[code]](https://github.com/intra3d2019/IntrA)
 
+- **RNA molecules**: Adrien Poulenard, Marie-Julie Rakotosaona, Yann Ponty, Maks Ovsjanikov. "Effective Rotation-invariant Point CNN with Spherical Harmonics kernels", 3DV(2019). [[paper]](https://arxiv.org/abs/1906.11555) [[code]](https://github.com/nmwsharp/RNA-Surface-Segmentation-Dataset) :fire:
+
 - **Manifold40**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin. "Subdivision-Based Mesh Convolution Networks", arXiv(2021). [[paper]](https://arxiv.org/abs/2106.02285) [[Dataset]](https://cloud.tsinghua.edu.cn/f/af5c682587cc4f9da9b8/?dl=1) :star:
 
 - **ModelNet40**: Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, Jianxiong Xiao. "3D ShapeNets: A Deep Representation for Volumetric Shapes", CVPR(2015). [[project]](http://3dshapenets.cs.princeton.edu/) [[paper]](https://arxiv.org/abs/1406.5670) [[code]](https://github.com/Tgaaly/3DShapeNets) :fire:
