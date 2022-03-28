@@ -495,7 +495,7 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **HumanSeg**: Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G Kim, and Yaron
   Lipman. "Convolutional neural networks on surfaces via seamless toric covers", ACM Trans. Graph.(2017)
-  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) :fire:
+  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/human_seg_dual_primal.py) :fire:
 
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio
   Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D
@@ -503,7 +503,11 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **COSEG**: Yunhai Wang, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, Baoquan Chen. "Active co-analysis
   of a set of shapes", SIGGRAPH Asia(2012)
-  . [[project]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/34vy4o5fthhz77d/coseg.tar.gz) :fire:
+  . [[project]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/34vy4o5fthhz77d/coseg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/coseg_dual_primal.py) :fire:
+
+- **Cube engraving**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network
+  with an Edge", SIGGRAPH(2019)
+  . [[dataset]](https://www.dropbox.com/s/2bxs5f9g60wa0wr/cubes.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/cubes_dual_primal.py) :star::fire:
 
 - **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM
   Transactions on Graphics(2009)
