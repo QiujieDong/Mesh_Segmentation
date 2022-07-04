@@ -102,6 +102,7 @@ Run the code on my PC and add some Chinese comments.
 # 2022
 
 - **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin. "Laplacian2Mesh: Laplacian-Based Mesh Understanding", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
+- **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization Agnostic Learning on Surfaces", TOG(2022). [[paper]](https://arxiv.org/abs/2012.00888) [[code]](https://github.com/nmwsharp/diffusion-net)
 
 # 2021
 
@@ -324,8 +325,6 @@ Run the code on my PC and add some Chinese comments.
 - Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng. "Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains", NeurIPS(2020). [[project]](https://bmild.github.io/fourfeat/) [[paper]](https://arxiv.org/abs/2006.10739) [[code]](https://github.com/tancik/fourier-feature-networks) :star::fire:
 
 - Nicholas Sharp, Keenan Crane. "A Laplacian for Nonmanifold Triangle Meshes", CGF(2020). [[project]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/index.html) [[paper]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/NonmanifoldLaplace.pdf) [[code]](https://github.com/nmwsharp/nonmanifold-laplacian)
-
-- **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization Agnostic Learning on Surfaces", TOG(2022). [[paper]](https://arxiv.org/abs/2012.00888) [[code]](https://github.com/nmwsharp/diffusion-net)
 
 - STEVEN L. SONG, WEIQI SHI, MICHAEL REED. "Accurate Face Rig Approximation with Deep Differential Subspace Reconstruction", TOG(2020). [[paper]](https://arxiv.org/abs/2006.01746)
 
