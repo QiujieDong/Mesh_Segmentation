@@ -555,6 +555,7 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 </h1>
 
 - [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html)
+- [Xiaoguang Han](https://gaplab.cuhk.edu.cn/)
 - [Rana Hanocka](https://people.cs.uchicago.edu/~ranahanocka/)
 - [Maks Ovsjanikov](http://www.lix.polytechnique.fr/~maks/)
 - [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/index.html)
@@ -564,7 +565,6 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
 - [Ke-Sen Huang - [Conference Paper List]](http://kesen.realtimerendering.com/)
 - [THOMAS KIPF](http://tkipf.github.io/)
-- [Xiaoguang Han](https://sse.cuhk.edu.cn/faculty/hanxiaoguang)
 - [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
 - [Xiao-Ming Fu](http://staff.ustc.edu.cn/~fuxm/)
 
