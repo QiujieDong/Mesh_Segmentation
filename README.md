@@ -106,7 +106,7 @@ Run the code on my PC and add some Chinese comments.
 
 # 2021
 
-- **SubdivNet**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin. "Subdivision-Based Mesh Convolution Networks", arXiv(2021). [[paper]](https://arxiv.org/abs/2106.02285) [[code]](https://github.com/lzhengning/SubdivNet)
+- **SubdivNet**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin. "Subdivision-Based Mesh Convolution Networks", TOG(2022). [[paper]](https://arxiv.org/abs/2106.02285) [[code]](https://github.com/lzhengning/SubdivNet)
 
 - **HodgeNet**: Dmitriy Smirnov, Justin Solomon. "HodgeNet: Learning Spectral Geometry on Triangle Meshes", SIGGRAPH(
   2021). [[paper]](https://arxiv.org/abs/2104.12826) [[code]](https://github.com/dmsm/HodgeNet)
