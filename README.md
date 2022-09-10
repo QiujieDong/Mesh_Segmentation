@@ -507,7 +507,9 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **Cube engraving**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network
   with an Edge", SIGGRAPH(2019)
-  . [[dataset]](https://www.dropbox.com/s/2bxs5f9g60wa0wr/cubes.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/cubes_dual_primal.py) :star::fire:
+  . [[dataset]](https://www.dropbox.com/s/2bxs5f9g60wa0wr/cubes.tar.gz) :star::fire:
+
+[//]: # ( [[ground-truth labels on the faces]]&#40;https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/cubes_dual_primal.py&#41;)
 
 - **PSB**: Xiaobai Chen, Aleksey Golovinskiy, Thomas Funkhouser. "A Benchmark for 3D Mesh Segmentation", ACM
   Transactions on Graphics(2009)
