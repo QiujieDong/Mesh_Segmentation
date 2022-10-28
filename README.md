@@ -430,6 +430,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 
 - **WKS**: Mathieu Aubry, Ulrich Schlickewei, Daniel Cremers. "The wave kernel signature: A quantum mechanical approach to shape analysis", ICCV(2011). [[paper]](https://ieeexplore.ieee.org/document/6130444) [[code_from_SGWS]](https://github.com/ChunyuanLI/spectral_descriptors/blob/master/Get_Signature.m) :fire:
 
+- Bruno L´evy, Hao (Richard) Zhang. "Spectral Mesh Processing", SIGGRAPH Course(2010). [[paper, slides, video]](https://dl.acm.org/doi/abs/10.1145/1837101.1837109) :fire: 
+
 - **Shape Google**: Maks Ovsjanikov, Alexander M. Bronstein, Michael M. Bronstein, Leonidas J. Guibas. "Shape Google: a computer vision approach to isometry invariant shape retrieval", ICCV(2009). [[paper]](https://ieeexplore.ieee.org/document/5457682?denied=) :fire:
 
 - **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based
