@@ -447,6 +447,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - Bruno Lévy. "Laplace-Beltrami Eigenfunctions Towards an algorithm that “understands” geometry", SMI(2006)
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/1631196) :fire:
 
+- Olga Sorkine. "Differential Representations for Mesh Processing", CGF(2006). [[paper]](https://www.cis.upenn.edu/~cis6100/Sorkine-cgf2006.pdf) :fire:
+
 - Wenyuan Li, Wee-Keong Ng, Ee-Peng Lim. "Spectral Analysis of Text Collection for Similarity-based Clustering", ICDE(
   2004) and PAKDD(2004)
   . [[paper_ICDE2004]](https://ieeexplore.ieee.org/abstract/document/1320064) [[paper_PAKDD2004]](https://link.springer.com/chapter/10.1007/978-3-540-24775-3_47)
