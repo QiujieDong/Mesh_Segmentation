@@ -107,6 +107,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **SubdivNet**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin. "Subdivision-Based Mesh Convolution Networks", TOG(2022). [[paper]](https://arxiv.org/abs/2106.02285) [[code]](https://github.com/lzhengning/SubdivNet)
 
+- **Laplacian Mesh Transformer**: Xiao-Juan Li, Jie Yang, Fang-Lue Zhan. "Laplacian Mesh Transformer: Dual Attention and Topology Aware Network for 3D Mesh Classification and Segmentation", ECCV(2022). [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890532.pdf)
+
 # 2021
 
 - **HodgeNet**: Dmitriy Smirnov, Justin Solomon. "HodgeNet: Learning Spectral Geometry on Triangle Meshes", SIGGRAPH(
