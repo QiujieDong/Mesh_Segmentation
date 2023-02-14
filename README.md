@@ -229,6 +229,8 @@ Run the code on my PC and add some Chinese comments.
   Networks for 3D Shape Recognition", ICCV(2015)
   . [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :star::fire:
 
+- OLIVER VAN KAICK, NOA FISH, YANIR KLEIMAN, SHMUEL ASAFI, DANIEL COHEN-OR. "Shape Segmentation by Approximate Convexity Analysis", TOG(2014). [[paper]](https://dl.acm.org/doi/10.1145/2611811) :fire:
+
 - Zhige Xie, Kai Xu, Ligang Liu, Yueshan Xiong. "3D Shape Segmentation and Labeling via Extreme Learning Machine", CGF(
   2014). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12434) :fire:
 
