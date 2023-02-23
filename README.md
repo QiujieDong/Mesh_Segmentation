@@ -232,7 +232,7 @@ Run the code on my PC and add some Chinese comments.
   2017). [[paper]](https://arxiv.org/abs/1612.00606) [[code]](https://github.com/ericyi/SyncSpecCNN) :fire:
 
 - **DCN**: Haotian Xu, Ming Dong, Zichun Zhong. "Directionally convolutional networks for 3d shape segmentation", ICCV(
-  2017)
+    2017)
   . [[paper]](https://openaccess.thecvf.com/content_iccv_2017/html/Xu_Directionally_Convolutional_Networks_ICCV_2017_paper.html)
 
 - Shubham Tulsiani, Hao Su, Leonidas J. Guibas, Alexei A. Efros, Jitendra Malik. "Learning shape abstractions by
@@ -327,6 +327,10 @@ Run the code on my PC and add some Chinese comments.
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/1348360) :fire:
 
 # Related work
+
+- **SHRED**: R. KENNY JONES, AALIA HABIB, DANIEL RITCHIE. "SHRED: 3D Shape Region Decomposition with Learned Local
+  Operations", Siggraph Asia(
+  2022). [[project]](https://rkjones4.github.io/shred.html) [[paper]](https://rkjones4.github.io/pdf/shred.pdf) [[code]](https://github.com/rkjones4/SHRED)
 
 - **Wave-MLP**: Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, Yanxi Li, Chao Xu, Yunhe Wang. "An Image Patch is a Wave:
   Quantum Inspired Vision MLP", CVPR(
