@@ -187,8 +187,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **MeshNet**:  Yutong Feng, Yifan Feng, Haoxuan You, Xibin Zhao, Yue Gao. "MeshNet: Mesh Neural Network for 3D Shape
   Representation", AAAI(2019)
-  . [[paper]](https://arxiv.org/abs/1811.11424) [[code]](https://github.com/iMoonLab/MeshNet?utm_source=catalyzex.com) :
-  star:
+  . [[paper]](https://arxiv.org/abs/1811.11424) [[code]](https://github.com/iMoonLab/MeshNet?utm_source=catalyzex.com)
+  :star:
 
 - **DGCNN**: Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon. "Dynamic Graph
   CNN for Learning on Point Clouds", TOG(2019)
@@ -420,8 +420,8 @@ Run the code on my PC and add some Chinese comments.
   . [[project]](https://www.dgp.toronto.edu/projects/neural-subdivision/) [[paper]](https://arxiv.org/abs/2005.01819) [[code]](https://github.com/HTDerekLiu/neuralSubdiv)
 
 - **PT**: Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun. "Point Transformer", arXiv(
-  2020). [[paper]](https://arxiv.org/abs/2012.09164) [[code_unofficial]](https://github.com/lucidrains/point-transformer-pytorch) :
-  star:
+  2020). [[paper]](https://arxiv.org/abs/2012.09164) [[code_unofficial]](https://github.com/lucidrains/point-transformer-pytorch)
+  :star:
 
 - **FPCC-Net**: Yajun Xu, Shogo Arai, Diyi Liu, Fangzhou Lin, Kazuhiro Kosuge. "FPCC-Net: Fast Point Cloud Clustering
   for Instance Segmentation", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.14618)
@@ -448,8 +448,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Jean-Michel Roufosse, Abhishek Sharma, Maks Ovsjanikov. "Unsupervised Deep Learning for Structured Shape Matching",
   ICCV(
-  2019). [[paper]](https://arxiv.org/abs/1812.03794) [[code]](https://github.com/JM-data/Unsupervised_DeepFunctionalMaps_ICCV19) :
-  fire:
+  2019). [[paper]](https://arxiv.org/abs/1812.03794) [[code]](https://github.com/JM-data/Unsupervised_DeepFunctionalMaps_ICCV19)
+  :fire:
 
 - Yu Wang, Justin Solomon. "Intrinsic and extrinsic operators for shape analysis", Handbook of Numerical Analysis(
   2019). [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1570865919300250?via%3Dihub)
