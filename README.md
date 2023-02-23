@@ -446,6 +446,8 @@ Convolution for Semantic Image Segmentation", ECCV(2018). [[paper]](https://arxi
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008)
   . [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :fire:
 
+- Shapira Lior, Shamir Ariel, Cohen-Or Daniel. "Consistent mesh partitioning and skeletonisation using the shape diameter function", TVC(2008). [[paper]](https://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf) :fire:
+
 - Ulrike von Luxburg. "A Tutorial on Spectral Clustering", Statistics and Computing(2007). [[paper]](http://arxiv.org/pdf/0711.0189) :fire:
 
 - Bruno Lévy. "Laplace-Beltrami Eigenfunctions Towards an algorithm that “understands” geometry", SMI(2006)
