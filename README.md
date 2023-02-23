@@ -69,8 +69,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **Swin Transformer**: Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo. "Swin
   Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV(
-  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star:
-  :fire:
+  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star::fire:
 
 - **DeiT**: Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou. "Training
   data-efficient image transformers & distillation through attention", ICML(
