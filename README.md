@@ -69,8 +69,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **Swin Transformer**: Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo. "Swin
   Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV(
-  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star::
-  fire:
+  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star:
+  :fire:
 
 - **DeiT**: Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou. "Training
   data-efficient image transformers & distillation through attention", ICML(
@@ -83,12 +83,12 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
   Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
   16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
-  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) :
-  star::fire:
+  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) 
+  :star::fire:
 
 - **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
-  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) :
-  star::fire:
+  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) 
+  :star::fire:
 
 <!-- <h1> 
 
