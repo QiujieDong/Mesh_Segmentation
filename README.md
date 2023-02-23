@@ -192,13 +192,13 @@ Run the code on my PC and add some Chinese comments.
 
 - **DGCNN**: Yue Wang, Yongbin Sun, Ziwei Liu, Sanjay E. Sarma, Michael M. Bronstein, Justin M. Solomon. "Dynamic Graph
   CNN for Learning on Point Clouds", TOG(2019)
-  . [[project]](https://liuziwei7.github.io/projects/DGCNN) [[paper]](https://arxiv.org/abs/1801.07829) [[code]](https://github.com/WangYueFt/dgcnn) :
-  star::fire:
+  . [[project]](https://liuziwei7.github.io/projects/DGCNN) [[paper]](https://arxiv.org/abs/1801.07829) [[code]](https://github.com/WangYueFt/dgcnn) 
+  :star::fire:
 
 - **MeshCNN**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A Network
   with an Edge", SIGGRAPH(2019)
-  . [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) :
-  star::fire:
+  . [[project]](https://ranahanocka.github.io/MeshCNN/) [[paper]](https://arxiv.org/abs/1809.05910) [[code]](https://github.com/ranahanocka/MeshCNN/) [[code from NVIDIA]](https://github.com/NVIDIAGameWorks/kaolin/blob/master/kaolin/models/meshcnn.py) 
+  :star::fire:
 
 - Xiaojie Xu, Chang Liu, Youyi Zheng. "3D Tooth Segmentation and Labeling Using Deep Convolutional Neural Networks",
   TVCG(2019). [[paper]](https://ieeexplore.ieee.org/abstract/document/8362667)
@@ -219,13 +219,13 @@ Run the code on my PC and add some Chinese comments.
   . [[paper]](https://arxiv.org/abs/1702.08675) [[code]](https://github.com/yuangan/3D-Shape-Segmentation-via-Shape-Fully-Convolutional-Networks)
 
 - **Pointgrid**: Truc Le, Ye Duan. "Pointgrid: A deep network for 3d shape understanding", CVPR(2018)
-  . [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Le_PointGrid_A_Deep_CVPR_2018_paper.html) [[code_PyTorch]](https://github.com/tommycwh/PointGrid_PyTorch) [[code_TensorFlow]](https://github.com/trucleduc/PointGrid) :
-  fire:
+  . [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Le_PointGrid_A_Deep_CVPR_2018_paper.html) [[code_PyTorch]](https://github.com/tommycwh/PointGrid_PyTorch) [[code_TensorFlow]](https://github.com/trucleduc/PointGrid) 
+  :fire:
 
 - **PointCNN**: Yangyan Li, Rui Bu, Mingchao Sun, Wei Wu, Xinhan Di, Baoquan Chen. "PointCNN: Convolution On
   X-Transformed Points", NIPS(2018)
-  . [[paper]](https://arxiv.org/abs/1801.07791) [[code]](https://github.com/yangyanli/PointCNN?utm_source=catalyzex.com) :
-  star::fire:
+  . [[paper]](https://arxiv.org/abs/1801.07791) [[code]](https://github.com/yangyanli/PointCNN?utm_source=catalyzex.com) 
+  :star::fire:
 
 - **SyncSpecCNN**: Li Yi, Hao Su, Xingwen Guo, Leonidas Guibas. "SyncSpecCNN: Synchronized Spectral CNN for 3D Shape
   Segmentation", CVPR(
@@ -237,8 +237,8 @@ Run the code on my PC and add some Chinese comments.
 
 - Shubham Tulsiani, Hao Su, Leonidas J. Guibas, Alexei A. Efros, Jitendra Malik. "Learning shape abstractions by
   assembling volumetric primitives", CVPR(2017)
-  . [[project]](https://shubhtuls.github.io/volumetricPrimitives/?utm_source=catalyzex.com) [[paper]](https://arxiv.org/abs/1612.00404) [[code]](https://github.com/shubhtuls/volumetricPrimitives) :
-  star::fire:
+  . [[project]](https://shubhtuls.github.io/volumetricPrimitives/?utm_source=catalyzex.com) [[paper]](https://arxiv.org/abs/1612.00404) [[code]](https://github.com/shubhtuls/volumetricPrimitives)
+  :star::fire:
 
 - **MVRNN**: Le Truc, Bui Giang, Duan Ye. "A multi-view recurrent neural network for 3D mesh segmentation", Computers &
   Graphics(2017)
@@ -249,8 +249,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **ShapePFCN**: Evangelos Kalogerakis, Melinos Averkiou, Subhransu Maji, Siddhartha Chaudhuri. "3D Shape Segmentation
   with Projective Convolutional Networks", CVPR(2017)
-  . [[project]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Kalogerakis_3D_Shape_Segmentation_CVPR_2017_paper.html) [[code]](https://github.com/kalov/ShapePFCN?utm_source=catalyzex.com) :
-  fire:
+  . [[project]](https://people.cs.umass.edu/~kalo/papers/shapepfcn/index.html) [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Kalogerakis_3D_Shape_Segmentation_CVPR_2017_paper.html) [[code]](https://github.com/kalov/ShapePFCN?utm_source=catalyzex.com)
+  :fire:
 
 - Panagiotis Theologou, Ioannis Pratikakis, Theoharis Theoharis. "Unsupervised spectral mesh segmentation driven by
   heterogeneous graphs", TPAMI(2016). [[paper]](https://ieeexplore.ieee.org/abstract/document/7437462)
@@ -267,8 +267,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **MVCNN**: Su Hang, Maji Subhransu, Kalogerakis Evangelos, Learned-Miller Erik. "Multi-view Convolutional Neural
   Networks for 3D Shape Recognition", ICCV(2015)
-  . [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn) :
-  star::fire:
+  . [[project]](http://vis-www.cs.umass.edu/mvcnn/) [[paper]](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf) [[code]](https://github.com/suhangpro/mvcnn)
+  :star::fire:
 
 - OLIVER VAN KAICK, NOA FISH, YANIR KLEIMAN, SHMUEL ASAFI, DANIEL COHEN-OR. "Shape Segmentation by Approximate Convexity
   Analysis", TOG(2014). [[paper]](https://dl.acm.org/doi/10.1145/2611811) :fire:
@@ -334,8 +334,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **Wave-MLP**: Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, Yanxi Li, Chao Xu, Yunhe Wang. "An Image Patch is a Wave:
   Quantum Inspired Vision MLP", CVPR(
-  2022). [[paper]](https://arxiv.org/abs/2111.12294) [[code]](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch) :
-  star:
+  2022). [[paper]](https://arxiv.org/abs/2111.12294) [[code]](https://github.com/huawei-noah/CV-Backbones/tree/master/wavemlp_pytorch)
+  :star:
 
 - **BACON**: David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein. "BACON: Band-limited Coordinate
   Networks for Multiscale Scene Representation", CVPR(
@@ -346,8 +346,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **Swin-Unet**: Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang. "Swin-Unet:
   Unet-like Pure Transformer for Medical Image Segmentation", arXiv(
-  2021). [[paper]](https://arxiv.org/abs/2105.05537) [[code]](https://github.com/HuCaoFighting/Swin-Unet?utm_source=catalyzex.com) :
-  star:
+  2021). [[paper]](https://arxiv.org/abs/2105.05537) [[code]](https://github.com/HuCaoFighting/Swin-Unet?utm_source=catalyzex.com)
+  :star:
 
 - **TransUNet**: Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin
   Zhou. "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation", arXiv(
@@ -398,8 +398,8 @@ Run the code on my PC and add some Chinese comments.
 - Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi
   Ramamoorthi, Jonathan T. Barron, Ren Ng. "Fourier Features Let Networks Learn High Frequency Functions in Low
   Dimensional Domains", NeurIPS(
-  2020). [[project]](https://bmild.github.io/fourfeat/) [[paper]](https://arxiv.org/abs/2006.10739) [[code]](https://github.com/tancik/fourier-feature-networks) :
-  star::fire:
+  2020). [[project]](https://bmild.github.io/fourfeat/) [[paper]](https://arxiv.org/abs/2006.10739) [[code]](https://github.com/tancik/fourier-feature-networks)
+  :star::fire:
 
 - Nicholas Sharp, Keenan Crane. "A Laplacian for Nonmanifold Triangle Meshes", CGF(
   2020). [[project]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/index.html) [[paper]](https://www.cs.cmu.edu/~kmcrane/Projects/NonmanifoldLaplace/NonmanifoldLaplace.pdf) [[code]](https://github.com/nmwsharp/nonmanifold-laplacian)
@@ -428,8 +428,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **Deep snake**: Peng Sida, Jiang Wen, Pi Huaijin, Li Xiuli, Bao Hujun, Zhou Xiaowei. "Deep Snake for Real-Time
   Instance Segmentation", CVPR(2020)
-  . [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Deep_Snake_for_Real-Time_Instance_Segmentation_CVPR_2020_paper.pdf) [[code]](https://github.com/zju3dv/snake/?utm_source=catalyzex.com) :
-  star:
+  . [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Deep_Snake_for_Real-Time_Instance_Segmentation_CVPR_2020_paper.pdf) [[code]](https://github.com/zju3dv/snake/?utm_source=catalyzex.com)
+  :star:
 
 - **SEG-MAT**: Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang. "SEG-MAT: 3D
   Shape Segmentation Using Medial Axis Transform", TVCG(2020). [[paper]](https://arxiv.org/abs/2010.11488)
@@ -443,8 +443,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **SIREN**: Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein. "Implicit
   Neural Representations with Periodic Activation Functions", NeurIPS(
-  2020). [[project]](https://www.vincentsitzmann.com/siren/) [[paper]](https://arxiv.org/abs/2006.09661) [[code]](https://github.com/vsitzmann/siren) :
-  star::fire:
+  2020). [[project]](https://www.vincentsitzmann.com/siren/) [[paper]](https://arxiv.org/abs/2006.09661) [[code]](https://github.com/vsitzmann/siren)
+  :star::fire:
 
 - Jean-Michel Roufosse, Abhishek Sharma, Maks Ovsjanikov. "Unsupervised Deep Learning for Structured Shape Matching",
   ICCV(
@@ -460,13 +460,13 @@ Run the code on my PC and add some Chinese comments.
 - **NVIDIAGameWorks-kaolin**: Krishna Murthy Jatavallabhula, Edward Smith, Jean-Francois Lafleche, Clement Fuji Tsang,
   Artem Rozantsev, Wenzheng Chen, Tommy Xiang, Rev Lebaredian, Sanja Fidler. "Kaolin: A PyTorch Library for Accelerating
   3D Deep Learning Research", arXiv(2019)
-  . [[project]](https://github.com/NVIDIAGameWorks/kaolin) [[paper]](https://arxiv.org/abs/1911.05063) [[Documentation]](https://kaolin.readthedocs.io/en/latest/) :
-  star:
+  . [[project]](https://github.com/NVIDIAGameWorks/kaolin) [[paper]](https://arxiv.org/abs/1911.05063) [[Documentation]](https://kaolin.readthedocs.io/en/latest/)
+  :star:
 
 - **pytorch_geometric**: Matthias Fey, Jan Eric Lenssen. "Fast Graph Representation Learning with PyTorch Geometric",
   arXiv(2019)
-  . [[project]](https://github.com/rusty1s/pytorch_geometric) [[paper]](https://arxiv.org/abs/1903.02428) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/) :
-  star::fire:
+  . [[project]](https://github.com/rusty1s/pytorch_geometric) [[paper]](https://arxiv.org/abs/1903.02428) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/)
+  :star::fire:
 
 - **Graph U-Nets**: Hongyang Gao, Shuiwang Ji. "Graph U-Nets", ICML(2019)
   . [[paper]](https://arxiv.org/abs/1905.05178) [[code]](https://github.com/HongyangGao/Graph-U-Nets) :star::fire:
@@ -484,20 +484,20 @@ Run the code on my PC and add some Chinese comments.
 - **DeepLab3+**: Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam. "Encoder-Decoder with
   Atrous Separable
   Convolution for Semantic Image Segmentation", ECCV(
-  2018). [[paper]](https://arxiv.org/abs/1802.02611) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab) :
-  star::fire:
+  2018). [[paper]](https://arxiv.org/abs/1802.02611) [[code]](https://github.com/tensorflow/models/tree/master/research/deeplab)
+  :star::fire:
 
 - Asako Kanezaki. "Unsupervised Image Segmentation by Backpropagation", ICASSP(2018)
-  . [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533) [[code]](https://github.com/kanezaki/pytorch-unsupervised-segmentation) [[code_2]](https://github.com/Yonv1943/Unsupervised-Segmentation) :
-  star::fire:
+  . [[paper]](https://ieeexplore.ieee.org/abstract/document/8462533) [[code]](https://github.com/kanezaki/pytorch-unsupervised-segmentation) [[code_2]](https://github.com/Yonv1943/Unsupervised-Segmentation)
+  :star::fire:
 
 - **Pvnet**: Haoxuan You, Yifan Feng, Rongrong Ji, Yue Gao. "PVNet: A Joint Convolutional Network of Point Cloud and
   Multi-View for 3D Shape Recognition", ACM MM(2018). [[paper]](https://arxiv.org/abs/1808.07659)
 
 - **UNet++**: Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang. "UNet++: A Nested U-Net
   Architecture for Medical Image Segmentation", DLMIA(2018)
-  . [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351) :
-  star::fire:
+  . [[paper_DLMIA2018]](https://arxiv.org/abs/1807.10165) [[paper_IEEE TMI]](https://arxiv.org/abs/1912.05074) [[code]](https://github.com/MrGiovanni/UNetPlusPlus) [[zhihu]](https://zhuanlan.zhihu.com/p/44958351)
+  :star::fire:
 
 - **Deep Functional Maps**: Or Litany, Tal Remez, Emanuele Rodolà, Alex M. Bronstein, Michael M. Bronstein. "Deep
   Functional Maps: Structured Prediction for Dense Shape Correspondence", ICCV(
@@ -505,16 +505,16 @@ Run the code on my PC and add some Chinese comments.
 
 - **OctNet**: Gernot Riegler, Ali Osman Ulusoy, Andreas Geiger. "OctNet: Learning Deep 3D Representations at High
   Resolutions", CVPR(
-  2017). [[paper]](https://arxiv.org/abs/1611.05009) [[code]](https://github.com/griegler/octnet?utm_source=catalyzex.com) :
-  star::fire:
+  2017). [[paper]](https://arxiv.org/abs/1611.05009) [[code]](https://github.com/griegler/octnet?utm_source=catalyzex.com)
+  :star::fire:
 
 - Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst. "Geometric Deep Learning: Going
   beyond Euclidean data
   ", IEEE Signal Processing Magazine(2017). [[paper]](https://arxiv.org/abs/1611.08097) :fire:
 
 - **GCN**: Thomas N. Kipf, Max Welling. "Semi-Supervised Classification with Graph Convolutional Networks", ICLR(2017)
-  . [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star::
-  fire:
+  . [[paper]](https://arxiv.org/abs/1609.02907) [[code]](https://github.com/tkipf/gcn?utm_source=catalyzex.com) :star:
+  :fire:
 
 - **3D ShapeNets**: Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, Jianxiong Xiao. "3D
   ShapeNets: A deep representation for volumetric shapes", CVPR(2015). [[paper]](https://arxiv.org/abs/1406.5670) :fire:
@@ -524,16 +524,16 @@ Run the code on my PC and add some Chinese comments.
 
 - **U-Net**: Olaf Ronneberger, Philipp Fischer, Thomas Brox. "U-Net: Convolutional Networks for Biomedical Image
   Segmentation", MICCAI(2015)
-  . [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet) :
-  star::fire:
+  . [[project]](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) [[paper]](https://arxiv.org/abs/1505.04597) [[code_non-authors ]](https://github.com/milesial/Pytorch-UNet)
+  :star::fire:
 
 - Joan Bruna, Wojciech Zaremba, Arthur D. Szlam, Yann LeCun. "Spectral Networks and Locally Connected Networks on
   Graphs", CoRR(2014). [[paper]](https://arxiv.org/abs/1312.6203) :fire:
 
 - Keenan Crane, Clarisse Weischedel, Max Wardetzky. "Geodesics in heat: A new approach to computing distance based on
   heat flow", TOG(2013)
-  . [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216) :
-  fire:
+  . [[project]](http://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/index.html) [[paper]](http://arxiv.org/pdf/1204.6216)
+  :fire:
 
 - **Functional maps**: Maks Ovsjanikov, Mirela Ben-Chen, Justin Solomon, Adrian Butscher, Leonidas Guibas. "Functional
   Maps: A Flexible Representation of Maps Between Shapes", TOG(
@@ -541,8 +541,8 @@ Run the code on my PC and add some Chinese comments.
 
 - **WKS**: Mathieu Aubry, Ulrich Schlickewei, Daniel Cremers. "The wave kernel signature: A quantum mechanical approach
   to shape analysis", ICCV(
-  2011). [[paper]](https://ieeexplore.ieee.org/document/6130444) [[code_from_SGWS]](https://github.com/ChunyuanLI/spectral_descriptors/blob/master/Get_Signature.m) :
-  fire:
+  2011). [[paper]](https://ieeexplore.ieee.org/document/6130444) [[code_from_SGWS]](https://github.com/ChunyuanLI/spectral_descriptors/blob/master/Get_Signature.m)
+  :fire:
 
 - Bruno L´evy, Hao (Richard) Zhang. "Spectral Mesh Processing", SIGGRAPH Course(
   2010). [[paper, slides, video]](https://dl.acm.org/doi/abs/10.1145/1837101.1837109) :fire:
@@ -552,17 +552,17 @@ Run the code on my PC and add some Chinese comments.
   2009). [[paper]](https://ieeexplore.ieee.org/document/5457682?denied=) :fire:
 
 - **HKS**: Jian Sun, Maks Ovsjanikov, Leonidas Guibas. "A Concise and Provably Informative Multi-Scale Signature Based
-  on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x) :
-  fire:
+  on Heat Diffusion", CGF(2009). [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01515.x)
+  :fire:
 
 - Hui Huang, Dan Li, Hao Zhang, Uri Ascher, Daniel Cohen-Or. "Consolidation of Unorganized Point Clouds for Surface
   Reconstruction", SIGGRAPH ASIA(
-  2009). [[project]](https://vcc.tech/research/2009/WLOP) [[paper]](https://vcc.tech/file/upload_file//image/research/att201804041307/siga_consolidater.pdf) :
-  fire:
+  2009). [[project]](https://vcc.tech/research/2009/WLOP) [[paper]](https://vcc.tech/file/upload_file//image/research/att201804041307/siga_consolidater.pdf)
+  :fire:
 
 - Mario Botsch, Olga Sorkine. "On Linear Variational Surface Deformation Methods", TVCG(2008)
-  . [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5) :
-  fire:
+  . [[paper]](https://cgl.ethz.ch/Downloads/Publications/Papers/2008/Bot08/Bot08.pdf) [[code]](https://github.com/NYUGraphics/GM_Assignment_5)
+  :fire:
 
 - Ulrike von Luxburg. "A Tutorial on Spectral Clustering", Statistics and Computing(
   2007). [[paper]](http://arxiv.org/pdf/0711.0189) :fire:
@@ -587,12 +587,12 @@ Run the code on my PC and add some Chinese comments.
   SIGGRAPH(2003). [[paper]](http://www.geometry.caltech.edu/pubs/ACDLD03.pdf) :fire:
 
 - David Cohen-Steiner, Jean-Marie Morvan. "Restricted Delaunay Triangulations and Normal Cycle", SoCG(2003)
-  . [[paper]](http://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf) [[code_from_mikedh]](https://github.com/mikedh/trimesh/blob/60dae2352875f48c4476e01052829e8b9166d9e5/trimesh/curvature.py) :
-  star::fire:
+  . [[paper]](http://www.cs.jhu.edu/~misha/Fall09/Steiner03.pdf) [[code_from_mikedh]](https://github.com/mikedh/trimesh/blob/60dae2352875f48c4476e01052829e8b9166d9e5/trimesh/curvature.py)
+  :star::fire:
 
 - Mikhail Belkin, Partha Niyogi. "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering", NIPS(2001)
-  . [[paper]](http://papers.nips.cc/paper/1961-laplacian-eigenmaps-and-spectral-techniques-for-embedding-and-clustering.pdf) :
-  fire:
+  . [[paper]](http://papers.nips.cc/paper/1961-laplacian-eigenmaps-and-spectral-techniques-for-embedding-and-clustering.pdf)
+  :fire:
 
 - **Graph-Cuts**: Yuri Y. Boykov, Marie-Pierre Jolly. "Interactive Graph Cuts for Optimal Boundary & Region Segmentation
   of Objects in N-D Images", ICCV(2001). [[paper]](https://ieeexplore.ieee.org/abstract/document/937505) :fire:
@@ -616,23 +616,23 @@ Run the code on my PC and add some Chinese comments.
 
 - **RNA molecules**: Adrien Poulenard, Marie-Julie Rakotosaona, Yann Ponty, Maks Ovsjanikov. "Effective
   Rotation-invariant Point CNN with Spherical Harmonics kernels", 3DV(
-  2019). [[paper]](https://arxiv.org/abs/1906.11555) [[code]](https://github.com/nmwsharp/RNA-Surface-Segmentation-Dataset) :
-  fire:
+  2019). [[paper]](https://arxiv.org/abs/1906.11555) [[code]](https://github.com/nmwsharp/RNA-Surface-Segmentation-Dataset)
+  :fire:
 
 - **Manifold40**: Shi-Min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R.
   Martin. "Subdivision-Based Mesh Convolution Networks", arXiv(
-  2021). [[paper]](https://arxiv.org/abs/2106.02285) [[Dataset]](https://cloud.tsinghua.edu.cn/f/af5c682587cc4f9da9b8/?dl=1) :
-  star:
+  2021). [[paper]](https://arxiv.org/abs/2106.02285) [[Dataset]](https://cloud.tsinghua.edu.cn/f/af5c682587cc4f9da9b8/?dl=1)
+  :star:
 
 - **ModelNet40**: Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, Jianxiong Xiao. "3D
   ShapeNets: A Deep Representation for Volumetric Shapes", CVPR(
-  2015). [[project]](http://3dshapenets.cs.princeton.edu/) [[paper]](https://arxiv.org/abs/1406.5670) [[code]](https://github.com/Tgaaly/3DShapeNets) :
-  fire:
+  2015). [[project]](http://3dshapenets.cs.princeton.edu/) [[paper]](https://arxiv.org/abs/1406.5670) [[code]](https://github.com/Tgaaly/3DShapeNets)
+  :fire:
 
 - **PartNet**:  Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su. "PartNet: A
   Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding", CVPR(2019)
-  . [[project]](https://cs.stanford.edu/~kaichun/partnet/) [[paper]](https://arxiv.org/abs/1812.02713) [[video]](https://www.youtube.com/watch?v=7pEuoxmb-MI&feature=youtu.be) :
-  fire:
+  . [[project]](https://cs.stanford.edu/~kaichun/partnet/) [[paper]](https://arxiv.org/abs/1812.02713) [[video]](https://www.youtube.com/watch?v=7pEuoxmb-MI&feature=youtu.be)
+  :fire:
 
 - **CGPart**: Qing Liu, Adam Kortylewski, Zhishuai Zhang, Zizhang Li2, Mengqi Guo, Qihao Liu, Xiaoding Yuan, Jiteng Mu,
   Weichao Qiu, Alan Yuille. "CGPart: A Part Segmentation Dataset Based on 3D Computer Graphics Models", arXiv(2021)
@@ -640,18 +640,18 @@ Run the code on my PC and add some Chinese comments.
 
 - **HumanSeg**: Haggai Maron, Meirav Galun, Noam Aigerman, Miri Trope, Nadav Dym, Ersin Yumer, Vladimir G Kim, and Yaron
   Lipman. "Convolutional neural networks on surfaces via seamless toric covers", ACM Trans. Graph.(2017)
-  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/human_seg_dual_primal.py) :
-  fire:
+  . [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073616) [[dataset]](https://www.dropbox.com/sh/cnyccu3vtuhq1ii/AADgGIN6rKbvWzv0Sh-Kr417a?dl=0&preview=human_benchmark_sig_17.zip) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/s3n05sw0zg27fz3/human_seg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/human_seg_dual_primal.py)
+  :fire:
 
 - **ShapeNet**: Angel X. Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang, Zimo Li, Silvio
   Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao, Li Yi, Fisher Yu. "ShapeNet: An Information-Rich 3D
-  Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012) :
-  fire:
+  Model Repository", arXiv(2015). [[project]](https://www.shapenet.org/) [[paper]](https://arxiv.org/abs/1512.03012)
+  :fire:
 
 - **COSEG**: Yunhai Wang, Shmulik Asafi, Oliver van Kaick, Hao Zhang, Daniel Cohen-Or, Baoquan Chen. "Active co-analysis
   of a set of shapes", SIGGRAPH Asia(2012)
-  . [[project]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/34vy4o5fthhz77d/coseg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/coseg_dual_primal.py) :
-  fire:
+  . [[project]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssd.htm) [[paper]](http://irc.cs.sdu.edu.cn/~yunhai/public_html/ssl/ssl.htm) [[dataset_from_MeshCNN]](https://www.dropbox.com/s/34vy4o5fthhz77d/coseg.tar.gz) [[ground-truth labels on the faces]](https://github.com/MIT-SPARK/PD-MeshNet/blob/master/pd_mesh_net/datasets/coseg_dual_primal.py)
+  :fire:
 
 - **Cube engraving**: Hanocka Rana, Hertz Amir, Fish Noa, Giryes Raja, Fleishman Shachar, Cohen-Or Daniel. "MeshCNN: A
   Network
@@ -672,13 +672,13 @@ Run the code on my PC and add some Chinese comments.
   . [[project]](https://ten-thousand-models.appspot.com/) [[paper]](https://arxiv.org/abs/1605.04797) :fire:
 
 - Philip Shilane, Patrick Min, Michael Kazhdan, Thomas Funkhouser. "The Princeton Shape Benchmark", SMI(2004)
-  . [[project]](https://shape.cs.princeton.edu/benchmark/) [[paper]](https://shape.cs.princeton.edu/benchmark/benchmark.pdf) :
-  fire:
+  . [[project]](https://shape.cs.princeton.edu/benchmark/) [[paper]](https://shape.cs.princeton.edu/benchmark/benchmark.pdf)
+  :fire:
 
 - Li Yi, Vladimir G. Kim, Duygu Ceylan, I-Chao Shen, Mengyuan Yan, Hao Su, Cewu Lu, Qixing Huang, Alla Sheffer, Leonidas
   Guibas. "A Scalable Active Framework for Region Annotation in 3D Shape Collections", SIGGRAPH Asia(2016)
-  . [[project]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/) [[paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf) :
-  fire:
+  . [[project]](https://cs.stanford.edu/~ericyi/project_page/part_annotation/) [[paper]](http://cs.stanford.edu/~ericyi/papers/part_annotation_16.pdf)
+  :fire:
 
 - **Three D Scans**: Oliver Laric. [[project]](https://threedscans.com/)
 
