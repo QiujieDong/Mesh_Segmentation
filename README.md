@@ -351,8 +351,7 @@ Run the code on my PC and add some Chinese comments.
 
 - **TransUNet**: Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin
   Zhou. "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation", arXiv(
-  2021). [[paper]](https://arxiv.org/abs/2102.04306) [[code]](https://github.com/Beckschen/TransUNet?utm_source=catalyzex.com) :
-  star::fire:
+  2021). [[paper]](https://arxiv.org/abs/2102.04306) [[code]](https://github.com/Beckschen/TransUNet?utm_source=catalyzex.com) :star::fire:
 
 - **VMNet**: Zeyu Hu, Xuyang Bai, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan Sun, Hongbo Fu, Chiew-Lan
   Tai. "VMNet: Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation", ICCV(
