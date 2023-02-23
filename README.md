@@ -73,7 +73,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 - **DeiT**: Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou. "Training
   data-efficient image transformers & distillation through attention", ICML(
-  2021). [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit) :star::fire:
+  2021). [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit) :star:
+  :fire:
 
 - **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "
   3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(
