@@ -119,9 +119,9 @@ Run the code on my PC and add some Chinese comments.
 
 # 2022
 
-- **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin. "Laplacian2Mesh:
-  Laplacian-Based Mesh Understanding", arXiv(
-  2022). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
+- **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Manyi Li, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang. "Laplacian2Mesh:
+  Laplacian-Based Mesh Understanding", TVCG(
+  2023). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
 
 - **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization
   Agnostic Learning on Surfaces", TOG(
