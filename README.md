@@ -26,88 +26,11 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- [Mesh Transformer](#Transformer)
 - [Mesh Feature Extraction](#Feature_Extraction)
+- [Mesh Transformer](#Transformer)
 - [Datasets](#Datasets)
 - [Courses](#Courses)
 - [Following](#Following)
-
-<h1 id="Transformer">
-
-```diff
-- Papers for Mesh Transformer
-```
-
-</h1>
-
-# Related work
-
-- **MCTformer**: Lian Xu, Wanli Ouyang, Mohammed Bennamoun, Farid Boussaid, Dan Xu. "Multi-class Token Transformer for
-  Weakly Supervised Semantic Segmentation", CVPR(
-  2022). [[paper]](https://arxiv.org/abs/2203.02891) [[code]](https://github.com/xulianuwa/mctformer)
-
-- **MHFormer**: Wenhao Li, Hong Liu, Hao Tang, Pichao Wang, Luc Van Gool. "MHFormer: Multi-Hypothesis Transformer for 3D
-  Human Pose Estimation", CVPR(
-  2022). [[paper]](https://arxiv.org/abs/2111.12707) [[code]](https://github.com/Vegetebird/MHFormer)
-
-- **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for
-  Fine-Grained Recognition", arXiv(
-  2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
-
-- **ACT**: Jinsu Yoo, Taehoon Kim, Sihaeng Lee, Seung Hwan Kim, Honglak Lee, Tae Hyun Kim. "Rich CNN-Transformer Feature
-  Aggregation Networks for Super-Resolution", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.07682)
-
-- **ShapeFormer**: Xingguang Yan, Liqiang Lin, Niloy J. Mitra, Dani Lischinski, Danny Cohen-Or, Hui Huang. "ShapeFormer:
-  Transformer-based Shape Completion via Sparse Representation", arXiv(
-  2022). [[project]](https://shapeformer.github.io/) [[paper]](https://arxiv.org/abs/2201.10326) [[code]](https://github.com/qheldiv/shapeformer)
-
-- **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from
-  Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
-
-- **DoT**: Ren Chuan-Xian, Zhai Yi-Ming, Luo You-Wei, Li Meng-Xue. "Towards Unsupervised Domain Adaptation via
-  Domain-Transformer", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.13777)
-
-- **Swin Transformer**: Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo. "Swin
-  Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV(
-  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star::fire:
-
-- **DeiT**: Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou. "Training
-  data-efficient image transformers & distillation through attention", ICML(
-  2021). [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit) :star:
-  :fire:
-
-- **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "
-  3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(
-  2021). [[paper]](https://arxiv.org/abs/2112.04863) [[code]](https://github.com/crane-papercode/3dmedpt)
-
-- **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
-  Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
-  16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
-  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) 
-  :star::fire:
-
-- **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
-  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) 
-  :star::fire:
-
-<!-- <h1> 
-
-```diff
-- Code
-```
-
-</h1>
-
-Run the code on my PC and add some Chinese comments.
-
-- [[MeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshCNN)
-- [[MeshWalker_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshWalker)
-- [[Graph U-Net_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/Graph-U-Nets)
-- [[MVRNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MVRNN)
-- [[MedMeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MedMeshCNN)
-- [[kaolin-0.1_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/kaolin-0.1)
-- [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/pytorch_geometric)
--->
 
 <h1 id="Feature_Extraction"> 
 
@@ -607,6 +530,86 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 
 - Gabriel Taubin. "A signal processing approach to fair surface design", SIGGRAPH(
   1995). [[paper]](https://dl.acm.org/doi/10.1145/218380.218473) :fire:
+
+
+<h1 id="Transformer">
+
+```diff
+- Papers for Mesh Transformer
+```
+
+</h1>
+
+# Related work
+
+- **MCTformer**: Lian Xu, Wanli Ouyang, Mohammed Bennamoun, Farid Boussaid, Dan Xu. "Multi-class Token Transformer for
+  Weakly Supervised Semantic Segmentation", CVPR(
+  2022). [[paper]](https://arxiv.org/abs/2203.02891) [[code]](https://github.com/xulianuwa/mctformer)
+
+- **MHFormer**: Wenhao Li, Hong Liu, Hao Tang, Pichao Wang, Luc Van Gool. "MHFormer: Multi-Hypothesis Transformer for 3D
+  Human Pose Estimation", CVPR(
+  2022). [[paper]](https://arxiv.org/abs/2111.12707) [[code]](https://github.com/Vegetebird/MHFormer)
+
+- **MetaFormer**: Qishuai Diao, Yi Jiang, Bin Wen, Jia Sun, Zehuan Yuan. "MetaFormer: A Unified Meta Framework for
+  Fine-Grained Recognition", arXiv(
+  2022). [[paper]](https://arxiv.org/abs/2203.02751) [[code]](https://github.com/dqshuai/metaformer)
+
+- **ACT**: Jinsu Yoo, Taehoon Kim, Sihaeng Lee, Seung Hwan Kim, Honglak Lee, Tae Hyun Kim. "Rich CNN-Transformer Feature
+  Aggregation Networks for Super-Resolution", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.07682)
+
+- **ShapeFormer**: Xingguang Yan, Liqiang Lin, Niloy J. Mitra, Dani Lischinski, Danny Cohen-Or, Hui Huang. "ShapeFormer:
+  Transformer-based Shape Completion via Sparse Representation", arXiv(
+  2022). [[project]](https://shapeformer.github.io/) [[paper]](https://arxiv.org/abs/2201.10326) [[code]](https://github.com/qheldiv/shapeformer)
+
+- **EdgeFormer**: Haokui Zhang, Wenze Hu, Xiaoyu Wang. "EdgeFormer: Improving Light-weight ConvNets by Learning from
+  Vision Transformers", arXiv(2022). [[paper]](https://arxiv.org/abs/2203.03952)
+
+- **DoT**: Ren Chuan-Xian, Zhai Yi-Ming, Luo You-Wei, Li Meng-Xue. "Towards Unsupervised Domain Adaptation via
+  Domain-Transformer", arXiv(2022). [[paper]](https://arxiv.org/abs/2202.13777)
+
+- **Swin Transformer**: Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, Baining Guo. "Swin
+  Transformer: Hierarchical Vision Transformer using Shifted Windows", ICCV(
+  2021). [[paper]](https://arxiv.org/abs/2103.14030) [[code]](https://github.com/microsoft/Swin-Transformer) :star::fire:
+
+- **DeiT**: Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou. "Training
+  data-efficient image transformers & distillation through attention", ICML(
+  2021). [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit) :star:
+  :fire:
+
+- **3DMedPT**: Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, Weidong Cai. "
+  3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis", arXiv(
+  2021). [[paper]](https://arxiv.org/abs/2112.04863) [[code]](https://github.com/crane-papercode/3dmedpt)
+
+- **ViT**: Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,
+  Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby. "An Image is Worth
+  16x16 Words: Transformers for Image Recognition at Scale", ICLR(2021)
+  . [[paper]](https://arxiv.org/abs/2010.11929) [[code]](https://github.com/google-research/vision_transformer?utm_source=catalyzex.com) 
+  :star::fire:
+
+- **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
+  Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) 
+  :star::fire:
+
+<!-- <h1> 
+
+```diff
+- Code
+```
+
+</h1>
+
+Run the code on my PC and add some Chinese comments.
+
+- [[MeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshCNN)
+- [[MeshWalker_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MeshWalker)
+- [[Graph U-Net_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/Graph-U-Nets)
+- [[MVRNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MVRNN)
+- [[MedMeshCNN_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/MedMeshCNN)
+- [[kaolin-0.1_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/kaolin-0.1)
+- [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/pytorch_geometric)
+-->
+
+
 
 <h1 id="Datasets"> 
 
