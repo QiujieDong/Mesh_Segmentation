@@ -117,6 +117,11 @@ Run the code on my PC and add some Chinese comments.
 
 </h1>
 
+# 2023
+
+- **DGNet**: Xiang-Li Li, Zheng-Ning Liu, Tuo Chen, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "Mesh Neural Networks Based on Dual Graph
+Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/10070611)  [[code]](https://github.com/li-xl/DGNet)
+
 # 2022
 
 - **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Manyi Li, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang. "Laplacian2Mesh:
