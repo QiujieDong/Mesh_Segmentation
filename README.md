@@ -27,10 +27,11 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 </h1>
 
 - [Mesh Feature Extraction](#Feature_Extraction)
-- [Mesh Transformer](#Transformer)
 - [Datasets](#Datasets)
 - [Courses](#Courses)
 - [Following](#Following)
+
+[//]: # (- [Mesh Transformer]&#40;&#40;#Transformer&#41;&#41;)
 
 <h1 id="Feature_Extraction"> 
 
@@ -50,6 +51,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Manyi Li, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang. "Laplacian2Mesh:
   Laplacian-Based Mesh Understanding", TVCG(
   2023). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
+
+- **MeshFormer**: Yuan Li, Xiangyang He, Yankai Jiang, Huan Liu, Yubo Tao, Lin Hai. "MeshFormer: High-resolution Mesh Segmentation with Graph Transformer", CGF(2022). [[paper]](https://diglib.eg.org/handle/10.1111/cgf14655)
 
 - **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization
   Agnostic Learning on Surfaces", TOG(
@@ -532,7 +535,7 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
   1995). [[paper]](https://dl.acm.org/doi/10.1145/218380.218473) :fire:
 
 
-<h1 id="Transformer">
+<!-- h1 id="Transformer">
 
 ```diff
 - Papers for Mesh Transformer
@@ -589,6 +592,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - **PCT**: Meng-Hao Guo, Jun-Xiong Cai, Zheng-Ning Liu, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "PCT: Point Cloud
   Transformer", arXiv(2020). [[paper]](https://arxiv.org/abs/2012.09688) [[code]](https://github.com/MenghaoGuo/PCT) 
   :star::fire:
+
+--->
 
 <!-- <h1> 
 
