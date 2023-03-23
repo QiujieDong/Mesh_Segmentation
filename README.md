@@ -52,6 +52,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
   Laplacian-Based Mesh Understanding", TVCG(
   2023). [[paper]](https://arxiv.org/abs/2202.00307) [[code]](https://github.com/QiujieDong/Laplacian2Mesh)
 
+- **MeshFormers**: Hao-Yang Peng, Meng-Hao Guo, Zheng-Ning Liu, Yong-Liang Yang, Tai-Jiang Mu. "MeshFormers: Transformer-Based Networks for Mesh Understanding", SSRN(2022). [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4313526)
+
 - **MeshFormer**: Yuan Li, Xiangyang He, Yankai Jiang, Huan Liu, Yubo Tao, Lin Hai. "MeshFormer: High-resolution Mesh Segmentation with Graph Transformer", CGF(2022). [[paper]](https://diglib.eg.org/handle/10.1111/cgf14655)
 
 - **DiffusionNet**: Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov. "DiffusionNet: Discretization
