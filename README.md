@@ -75,6 +75,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 
 # 2020
 
+- Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. "Blending Surface Segmentation and Editing for 3D Models", TVCG(2020).  [[paper]](https://ieeexplore.ieee.org/document/9296787)
+
 - **PD-MeshNet**: Francesco Milano, Antonio Loquercio, Antoni Rosinol, Davide Scaramuzza, Luca Carlone. "Primal-Dual
   Mesh Convolutional Neural Networks", NeurIPS(2020)
   . [[paper]](https://arxiv.org/abs/2010.12455) [[code]](https://github.com/MIT-SPARK/PD-MeshNet?utm_source=catalyzex.com)
