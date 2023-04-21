@@ -43,6 +43,9 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2023
 
+- **Picasso**: Huan Lei, Naveed Akhtar, Mubarak Shah, Ajmal Mian. "Mesh Convolution with Continuous Filters for 3D Surface Parsing", arXiv(2023). 
+[[paper]](https://arxiv.org/pdf/2112.01801.pdf) [[code]](https://github.com/EnyaHermite/Picasso) :star:
+
 - **DGNet**: Xiang-Li Li, Zheng-Ning Liu, Tuo Chen, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "Mesh Neural Networks Based on Dual Graph
 Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/10070611)  [[code]](https://github.com/li-xl/DGNet)
 
