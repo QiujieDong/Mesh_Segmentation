@@ -43,6 +43,9 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 # 2023
 
+- **MWFormer**: Haoyang peng, Meng-Hao Guo, Zheng-Ning Liu, Yong-Liang Yang, Tai-Jiang Mu. "MWFormer: Mesh Understanding with Window-Based Transformer", SSRN(2023).
+[[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4428517)
+
 - **Picasso**: Huan Lei, Naveed Akhtar, Mubarak Shah, Ajmal Mian. "Mesh Convolution with Continuous Filters for 3D Surface Parsing", arXiv(2023). 
 [[paper]](https://arxiv.org/pdf/2112.01801.pdf) [[code]](https://github.com/EnyaHermite/Picasso) :star:
 
