@@ -736,7 +736,7 @@ Run the code on my PC and add some Chinese comments.
 </h1>
 
 - [Conference Papers for CG](http://kesen.realtimerendering.com/): Ke-Sen Huang
-- [Conference Papers for CV](http://kesen.realtimerendering.com/): GAP Lab
+- [Conference Papers for CV](https://gaplab.cuhk.edu.cn/cvpapers/): GAP Lab
 
 
 
