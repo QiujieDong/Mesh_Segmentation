@@ -29,6 +29,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - [Mesh Feature Extraction](#Feature_Extraction)
 - [Datasets](#Datasets)
 - [Courses](#Courses)
+- [Paper Resources](#Resources)
 - [Following](#Following)
 
 [//]: # (- [Mesh Transformer]&#40;&#40;#Transformer&#41;&#41;)
@@ -36,7 +37,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 <h1 id="Feature_Extraction"> 
 
 ```diff
-- Papers for Mesh Feature Extraction
+- Mesh Feature Extraction
 ```
 
 </h1>
@@ -726,6 +727,19 @@ Run the code on my PC and add some Chinese comments.
 - [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr): Ligang Liu
 - [GAMES_Summer 2021](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html): Qixing Huang
 
+
+<h1 id="Resources"> 
+
+```diff
+- Paper Resources
+```
+</h1>
+
+- [Conference Papers for CG](http://kesen.realtimerendering.com/): Ke-Sen Huang
+- [Conference Papers for CV](http://kesen.realtimerendering.com/): GAP Lab
+
+
+
 <h1 id="Following"> 
 
 ```diff
@@ -742,7 +756,6 @@ Run the code on my PC and add some Chinese comments.
 - [Nicholas Sharp](https://nmwsharp.com/)
 - [Hsueh-Ti Derek Liu](https://www.dgp.toronto.edu/~hsuehtil/)
 - [Interactive Geometry Lab(IGL) from ETH Zurich](https://igl.ethz.ch/)
-- [Ke-Sen Huang - [Conference Paper List]](http://kesen.realtimerendering.com/)
 - [THOMAS KIPF](http://tkipf.github.io/)
 - [Xiaoguang Han](https://gaplab.cuhk.edu.cn/)
 - [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)
