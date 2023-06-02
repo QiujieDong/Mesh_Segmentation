@@ -37,7 +37,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 <h1 id="Feature_Extraction"> 
 
 ```diff
-- Mesh Feature Extraction
+- Feature Extraction of Meshes
 ```
 
 </h1>
