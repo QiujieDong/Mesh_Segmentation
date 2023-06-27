@@ -723,6 +723,7 @@ Run the code on my PC and add some Chinese comments.
 
 </h1>
 
+- [Discrete Differential Geometry](https://www.youtube.com/watch?v=mas-PUA3OvA&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS): Keenan Crane
 - [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/): Hung-yi Lee
 - [Digital Geometry Processing](http://www.lix.polytechnique.fr/~maks/Verona_MPAM/): Maks Ovsjanikov
 - [数字几何处理](https://www.bilibili.com/video/BV1B54y1B7Uc): Xiao-Ming Fu
