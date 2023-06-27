@@ -26,7 +26,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- [Mesh Feature Extraction](#Feature_Extraction)
+- [Mesh Feature Extraction or Mesh segmentation](#Feature_Extraction)
 - [Datasets](#Datasets)
 - [Courses](#Courses)
 - [Paper Resources](#Resources)
@@ -37,12 +37,14 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 <h1 id="Feature_Extraction"> 
 
 ```diff
-- Feature Extraction of Meshes
+- Feature Extraction of Meshes or Mesh segmentation
 ```
 
 </h1>
 
 # 2023
+
+- BRUNO ROY. "Neural Shape Diameter Function for Efficient Mesh Segmentation", SIGGRAPH(2023). [[paper]](https://arxiv.org/abs/2306.11737)
 
 - **MWFormer**: Haoyang peng, Meng-Hao Guo, Zheng-Ning Liu, Yong-Liang Yang, Tai-Jiang Mu. "MWFormer: Mesh Understanding with Window-Based Transformer", SSRN(2023).
 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4428517)
