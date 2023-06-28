@@ -272,6 +272,10 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 
 # Related work
 
+- **GrowSP**: Zihui Zhang, Bo Yang, Bing Wang, Bo Li. "GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds", 
+  CVPR(2023). [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GrowSP_Unsupervised_Semantic_Segmentation_of_3D_Point_Clouds_CVPR_2023_paper.pdf)
+  [[code]](https://github.com/vLAR-group/GrowSP)
+
 - **SHRED**: R. KENNY JONES, AALIA HABIB, DANIEL RITCHIE. "SHRED: 3D Shape Region Decomposition with Learned Local
   Operations", Siggraph Asia(
   2022). [[project]](https://rkjones4.github.io/shred.html) [[paper]](https://rkjones4.github.io/pdf/shred.pdf) [[code]](https://github.com/rkjones4/SHRED)
