@@ -152,6 +152,9 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 
 # Before 2019
 
+- **MDGCNN**: ADRIEN POULENARD, MAKS OVSJANIKOV. "Multi-directional Geodesic Neural Networks via Equivariant Convolution", TOG(2018). 
+  [[paper]](https://arxiv.org/pdf/1810.02303.pdf) [[code]](https://github.com/adrienPoulenard/MDGCNN) :fire:
+
 - George David, Xie Xianghua, Tam Gary KL. "3D mesh segmentation via multi-branch 1D convolutional neural networks", GM(
   2018). [[paper]](https://arxiv.org/abs/1705.11050)
 
