@@ -49,8 +49,8 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **MWFormer**: Haoyang peng, Meng-Hao Guo, Zheng-Ning Liu, Yong-Liang Yang, Tai-Jiang Mu. "MWFormer: Mesh Understanding with Window-Based Transformer", SSRN(2023).
 [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4428517)
 
-- **Picasso**: Huan Lei, Naveed Akhtar, Mubarak Shah, Ajmal Mian. "Mesh Convolution with Continuous Filters for 3D Surface Parsing", arXiv(2023). 
-[[paper]](https://arxiv.org/pdf/2112.01801.pdf) [[code]](https://github.com/EnyaHermite/Picasso) :star:
+- **Picasso++**: Huan Lei, Naveed Akhtar, Mubarak Shah, Ajmal Mian. "Mesh Convolution with Continuous Filters for 3D Surface Parsing", TNNLS(2023). 
+[[paper]](https://arxiv.org/abs/2112.01801) [[code]](https://github.com/EnyaHermite/PicassoPlus) :star:
 
 - **DGNet**: Xiang-Li Li, Zheng-Ning Liu, Tuo Chen, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "Mesh Neural Networks Based on Dual Graph
 Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/10070611)  [[code]](https://github.com/li-xl/DGNet)
