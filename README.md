@@ -26,23 +26,17 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 </h1>
 
-- [Mesh Feature Extraction or Mesh segmentation](#Feature_Extraction)
-- [Datasets](#Datasets)
-- [Courses](#Courses)
-- [Paper Resources](#Resources)
-- [Following](#Following)
+- [Mesh Feature Extraction or Mesh segmentation](#feature-extraction-of-meshes-or-mesh-segmentation)
+- [Datasets](#datasets)
+- [Courses](#courses)
+- [Paper Resources](#paper-resources)
+- [Following](#following)
 
 [//]: # (- [Mesh Transformer]&#40;&#40;#Transformer&#41;&#41;)
 
-<h1 id="Feature_Extraction"> 
+## ```Feature Extraction of Meshes or Mesh segmentation```
 
-```diff
-- Feature Extraction of Meshes or Mesh segmentation
-```
-
-</h1>
-
-# 2023
+## 2023
 
 - BRUNO ROY. "Neural Shape Diameter Function for Efficient Mesh Segmentation", SIGGRAPH(2023). [[paper]](https://arxiv.org/abs/2306.11737)
 
@@ -55,7 +49,7 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 - **DGNet**: Xiang-Li Li, Zheng-Ning Liu, Tuo Chen, Tai-Jiang Mu, Ralph R. Martin, Shi-Min Hu. "Mesh Neural Networks Based on Dual Graph
 Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/10070611)  [[code]](https://github.com/li-xl/DGNet)
 
-# 2022
+## 2022
 
 - **Laplacian2Mesh**: Qiujie Dong, Zixiong Wang, Manyi Li, Junjie Gao, Shuangmin Chen, Zhenyu Shu, Shiqing Xin, Changhe Tu, Wenping Wang. "Laplacian2Mesh:
   Laplacian-Based Mesh Understanding", TVCG(
@@ -77,12 +71,12 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
   Topology Aware Network for 3D Mesh Classification and Segmentation", ECCV(
   2022). [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890532.pdf)
 
-# 2021
+## 2021
 
 - **HodgeNet**: Dmitriy Smirnov, Justin Solomon. "HodgeNet: Learning Spectral Geometry on Triangle Meshes", SIGGRAPH(
   2021). [[paper]](https://arxiv.org/abs/2104.12826) [[code]](https://github.com/dmsm/HodgeNet)
 
-# 2020
+## 2020
 
 - Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. "Blending Surface Segmentation and Editing for 3D Models", TVCG(2020).  [[paper]](https://ieeexplore.ieee.org/document/9296787)
 
@@ -117,7 +111,7 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
   Shape Segmentation via Weakly-Supervised Learning", TVCG(
   2020). [[paper]](https://www.cs.utah.edu/~ladislav/shu19scribble/shu19scribble.pdf)
 
-# 2019
+## 2019
 
 - **LaplacianNet**: Yi-Ling Qiao, Lin Gao, Jie Yang, Paul L. Rosin, Yu-Kun Lai, Xilin Chen. "LaplacianNet: Learning on
   3D Meshes with Laplacian Encoding and Pooling", TVCG(2019). [[paper]](https://arxiv.org/abs/1910.14063)
@@ -150,7 +144,7 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - Zhao Wang; Li Chen. "Mesh Segmentation for High Resolution Medical Data", CISP-BMEI(2019)
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/8966067)
 
-# Before 2019
+## Before 2019
 
 - **MDGCNN**: ADRIEN POULENARD, MAKS OVSJANIKOV. "Multi-directional Geodesic Neural Networks via Equivariant Convolution", TOG(2018). 
   [[paper]](https://arxiv.org/pdf/1810.02303.pdf) [[code]](https://github.com/adrienPoulenard/MDGCNN) :fire:
@@ -273,7 +267,7 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - Rong Liu, Hao Zhang. "Segmentation of 3D meshes through spectral clustering", PG(2004)
   . [[paper]](https://ieeexplore.ieee.org/abstract/document/1348360) :fire:
 
-# Related work
+## Related works
 
 - **GrowSP**: Zihui Zhang, Bo Yang, Bing Wang, Bo Li. "GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds", 
   CVPR(2023). [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GrowSP_Unsupervised_Semantic_Segmentation_of_3D_Point_Clouds_CVPR_2023_paper.pdf)
@@ -634,15 +628,7 @@ Run the code on my PC and add some Chinese comments.
 - [[pytorch_geometric-V1.7.0_Fork]](https://github.com/QiujieDong/Learning_code/tree/master/pytorch_geometric)
 -->
 
-
-
-<h1 id="Datasets"> 
-
-```diff
-- Datasets
-```
-
-</h1>
+## ```Datasets```
 
 - **IntrA**: Xi Yang, Ding Xia, Taichi Kin, Takeo Igarashi. "IntrA: 3D Intracranial Aneurysm Dataset for Deep Learning",
   CVPR(2020). [[paper]](https://arxiv.org/abs/2003.02920) [[code]](https://github.com/intra3d2019/IntrA)
@@ -722,13 +708,7 @@ Run the code on my PC and add some Chinese comments.
   ISPRS Journal of Photogrammetry and Remote Sensing(
   2021). [[project]](https://3d.bk.tudelft.nl/projects/meshannotation/#data-download) [[paper]](https://arxiv.org/abs/2103.00355) [[code]](https://github.com/tudelft3d/SUMS-Semantic-Urban-Mesh-Segmentation-public)
 
-<h1 id="Courses"> 
-
-```diff
-- Courses
-```
-
-</h1>
+## ```Courses```
 
 - [Discrete Differential Geometry](https://www.youtube.com/watch?v=mas-PUA3OvA&list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS): Keenan Crane
 - [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/): Hung-yi Lee
@@ -737,26 +717,12 @@ Run the code on my PC and add some Chinese comments.
 - [GAMES102](https://www.bilibili.com/video/BV1NA411E7Yr): Ligang Liu
 - [GAMES_Summer 2021](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html): Qixing Huang
 
-
-<h1 id="Resources"> 
-
-```diff
-- Paper Resources
-```
-</h1>
+## ```Paper Resources```
 
 - [Conference Papers for CG](http://kesen.realtimerendering.com/): Ke-Sen Huang
 - [Conference Papers for CV](https://gaplab.cuhk.edu.cn/cvpapers/): GAP Lab
 
-
-
-<h1 id="Following"> 
-
-```diff
-- Following
-```
-
-</h1>
+## ```Following```
 
 - [Shiqing Xin](http://irc.cs.sdu.edu.cn/~shiqing/index.html)
 - [Rana Hanocka](https://people.cs.uchicago.edu/~ranahanocka/)
