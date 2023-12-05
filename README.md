@@ -518,6 +518,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - Olga Sorkine. "Differential Representations for Mesh Processing", CGF(
   2006). [[paper]](https://www.cis.upenn.edu/~cis6100/Sorkine-cgf2006.pdf) :fire:
 
+- Olga Sorkine. "Laplacian Mesh Processing", EG(2005). [[paper]](https://people.eecs.berkeley.edu/~jrs/meshpapers/Sorkine.pdf) :fire:
+
 - Olga Sorkine, Daniel Cohen-Or, Dror Irony, Sivan Toledo. "Geometry-aware bases for shape approximation", TVCG(
   2005). [[paper]](http://www.cs.tau.ac.il/~stoledo/Bib/Pubs/TVCG-0047-0504.pdf) :fire:
 
