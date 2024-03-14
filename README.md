@@ -76,6 +76,8 @@ Pyramids", TVCG(2023). [[paper]](https://ieeexplore.ieee.org/abstract/document/1
 - **HodgeNet**: Dmitriy Smirnov, Justin Solomon. "HodgeNet: Learning Spectral Geometry on Triangle Meshes", SIGGRAPH(
   2021). [[paper]](https://arxiv.org/abs/2104.12826) [[code]](https://github.com/dmsm/HodgeNet)
 
+- **MeshNet++**: Vinit Veerendraveer Singh, Shivanand Venkanna Sheshappanavar, Chandra Kambhamettu. "MeshNet++: A Network with a Face", ACM MM(2021). [[paper]](https://dl.acm.org/doi/10.1145/3474085.3475468)
+
 ## 2020
 
 - Long Zhang, Jianwei Guo, Jun Xiao, Xiaopeng Zhang, Dong-Ming Yan. "Blending Surface Segmentation and Editing for 3D Models", TVCG(2020).  [[paper]](https://ieeexplore.ieee.org/document/9296787)
