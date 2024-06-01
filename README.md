@@ -36,6 +36,11 @@ Statistics: :star: code is available & stars >= 100 &emsp;|&emsp; :fire: citatio
 
 ## ```Feature Extraction of Meshes or Mesh segmentation```
 
+## 2024
+
+- **DAE-Net**: Zhiqin Chen, Qimin Chen, Hang Zhou, Hao Zhang. "DAE-Net: Deforming Auto-Encoder for fine-grained shape
+co-segmentation", SIGGRAPH(2024). [[paper]](https://arxiv.org/pdf/2311.13125) [[code]](https://github.com/czq142857/DAE-Net)
+
 ## 2023
 
 - BRUNO ROY. "Neural Shape Diameter Function for Efficient Mesh Segmentation", SIGGRAPH(2023). [[paper]](https://arxiv.org/abs/2306.11737)
